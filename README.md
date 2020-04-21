@@ -1,2 +1,2 @@
 # Statistic
-statistic repository
+statistics repository
