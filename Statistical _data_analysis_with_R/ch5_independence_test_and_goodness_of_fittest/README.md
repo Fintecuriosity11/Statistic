@@ -1,4 +1,6 @@
-# 독립성검정과 적합성검정(Independence test & Goodness of fit test)
+# 독립성검정과 적합성검정
+
+(Independence test & Goodness of fit test)
 
 교차표를 이용하면 범주형으로 수집된 두 변수의 범주 조합에 따른 조합별 빈도를 살펴볼 수 있으며, 이를 통해 두 변수 간의 관계를 파악할 수 있다.
 
