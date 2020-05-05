@@ -1,0 +1,3141 @@
+Package,Dataset,Topic,Rows,Cols
+abn,ex5.dag.data (ex5data),Data set for use with abn library examples,434,19
+abn,ex4.dag.data (ex4data),Data set for use with abn library examples,2000,11
+abn,ex3.dag.data (ex3data),Data set for use with abn library examples,1000,14
+abn,ex2.dag.data (ex2data),Synthetic data set for use with abn library examples,10000,18
+abn,ex1.dag.data (ex1data),Synthetic data set for use with abn library examples,10000,10
+abn,ex0.dag.data (ex0data),Synthetic data set for use with abn library examples,300,30
+Actigraphy,weekday,Data Set Containing Five Weekdays of Actigraph Data for One Subject,7200,3
+Actigraphy,clinic_8pt,Data Set Containing AHI(Apnea Hypopnea Index) Information from 8 Subjects,8,2
+Actigraphy,clinic_29pt_bmi,Data Set Containing BMI(Body Mass Index) Information from 29 Subjects,29,2
+Actigraphy,clinic_29pt_ahi,Data Set Containing AHI(Apnea Hypopnea Index) Information from 29 Subjects,29,2
+Actigraphy,act_8pt,Data Set Containing a One Day Average of Actigraph Data for 8 Subjects,1440,9
+Actigraphy,act_29pt,Data Set Containing a One Day Average of Actigraph Data for 29 Subjects,1440,30
+AdaptFit,absent,Absenteeism data,26414,6
+adlift,motorcycledata,Motorcycle data.,133,2
+ageprior,global_terrestrial,Global rock outcrop bias,23,2
+ageprior,global_marine,Global rock outcrop bias,23,2
+ageprior,global,Global rock outcrop bias,23,2
+ageprior,WesternEurope_terrestrial,Western European rock outcrop bias,72,2
+ageprior,WesternEurope_marine,Western European rock outcrop bias,72,2
+ageprior,WesternEurope,Western European rock outcrop bias,72,2
+ageprior,NorthAmerica_terrestrial,North American rock outcrop bias,23,2
+ageprior,NorthAmerica_marine,North American rock outcrop bias,23,2
+ageprior,NorthAmerica,North American rock outcrop bias,23,2
+ageprior,Australia_terrestrial,Australian rock outcrop bias,72,2
+ageprior,Australia_marine,Australian rock outcrop bias,72,2
+ageprior,Australia,Australian rock outcrop bias,72,2
+agRee,lesionBurden.M (lesionBurden),Total Lesion Burden,3,10
+agRee,lesionBurden.G (lesionBurden),Total Lesion Burden,3,10
+agRee,lesionBurden,Total Lesion Burden,3,10
+agRee,judgeRatings,Ratings of Different Judges,6,4
+Agreement,DCLHb,DCLHb dataset,299,4
+AID,textile,Textile Data,27,1
+AID,grades,Student Grades Data,42,1
+anapuce,spleen,Spleen Data set,4360,13
+anapuce,apo,Apo AI data,6226,17
+anesrake,anes04,Demographic Data From 2004 American National Election Studies (ANES),1212,5
+ape,woodmouse,Cytochrome b Gene Sequences of Woodmice,15,965
+ape,mat5Mrand,Five Independent Trees,250,50
+ape,mat5M3ID,Five Trees,250,50
+ape,mat3,Three Matrices,27,9
+ape,lmorigin.ex2,Multiple regression through the origin,17,2
+ape,lmorigin.ex1,Multiple regression through the origin,41,4
+ape,lice.D,Test of host-parasite coevolution,17,17
+ape,hivtree.table,Phylogenetic Tree of 193 HIV-1 Sequences,192,2
+ape,gopher.D,Test of host-parasite coevolution,15,15
+ape,carnivora,Carnivora body sizes and life history traits,112,17
+ape,HP.links,Test of host-parasite coevolution,15,17
+aqp,sp4,Soil Chemical Data from Serpentinitic Soils of California,30,13
+aqp,sp3,Soil Profile Data Example 3,46,17
+aqp,sp2,Honcut Creek Soil Profile Data,154,22
+aqp,sp1,Soil Profile Data Example 1,60,18
+aqp,rruff.sample,Sample XRD Patterns,3000,8
+aqp,munsell,Munsell-RGB Lookup Table for Common Soil Colors,8460,6
+aratio,dupage99,DuPage County assessment ratio data set,2000,2
+argosfilter,seal,Satellite tracking data from a ringed seal,1561,4
+aster,redata (sim),Simulated Life History Data,10000,6
+aster,radish,Life History Data on Raphanus sativus,858,11
+aster,oats,Life History Data on Avena barbata,1642,11
+aster,ladata (sim),Simulated Life History Data,500,3
+aster,echinacea,Life History Data on Echinacea angustifolia,570,12
+aster,echin2,Life History Data on Echinacea angustifolia,6127,9
+aster,chamae3,Life History Data on Chamaecrista fasciculata,19062,11
+aster,chamae2,Life History Data on Chamaecrista fasciculata,4478,8
+aster,chamae,Life History Data on Chamaecrista fasciculata,6705,8
+aster,aphid,Life History Data on Uroleucon rudbeckiae,378,4
+attfad,GNW.s.network,Subset of a gene regulatory network from GeneNetWeaver,200,2
+attfad,GNW.s.expression.data,Subset of an expression data matrix from GeneNetWeaver,100,500
+autopls,murnau.X,Hyperspectral reflectance and plant attributes,40,26
+BaM,x (wars),china.wars,104,15
+BaM,texas,texas,195,1
+BaM,terrorism,terrorism,14,5
+BaM,strikes,strikes,11,1
+BaM,retail.sales,retail.sales,44,7
+BaM,recidivism,recidivism,27,5
+BaM,pbc.vote,pbc.vote,516,11
+BaM,opic,opic,25,4
+BaM,nc.sub.dat,nc.sub.dat,100,3
+BaM,military,military,35,10
+BaM,marriage.rates,marriage.rates,0,16
+BaM,italy.parties,italy.parties,7,10
+BaM,iq,iq data frame,1,81
+BaM,hanjack,hanjack,12,10
+BaM,fdr,fdr,49,5
+BaM,experts,Campaign fundraisign elicitations,8,3
+BaM,executions,executions,17,6
+BaM,ethnic.immigration,ethnic.immigration,22,3
+BaM,elicspend,elicspend,7,3
+BaM,dp,dp,17,8
+BaM,contracep,contracep,15,5
+BaM,child,child,50,8
+BaM,cabinet.duration,cabinet.duration,11,2
+BaM,africa,africa,33,10
+BaM,afghan.deaths,afghan.deaths,0,52
+BaM,actuarial,actuarial,5,7
+BaM,DA_cwp,DA_cwp,103,15
+BaSTA,sim1,Simulated dataset to demonstrate Bayesian Survival Trajectory Analysis (BaSTA),500,26
+BayesFactor,puzzles,Puzzle completion times from Hays (1994),48,4
+bayespref,YGGV,"Oviposition preference data from Yuba Gap, CA and Gardnerville, NV.",26,5
+BayHaz,earthquakes,Waiting Times between Strong Earthquakes in the Appennino Abruzzese,47,2
+bda,zr,occipitofrontal head circumference data,28829,3
+BDgraph,FIV,Inernal functions and datasets,4,4
+BDgraph,CellSignal,Inernal functions and datasets,11672,11
+bear,TotalSingledata,Data for NCA analyze,324,5
+bear,Replicateddata,Data for NCA analyze for replicated study,648,6
+bear,Paralleldata (Paralleldata_bal),Data for NCA analyze for parallel study,313,4
+bear,Paralleldata,Data for NCA analyze for parallel study,313,4
+bear,Multipledata,Data for NCA analyze for multiple dose,506,5
+bear,MultipleParadata,Data for NCA analyze for parallel with multiple dose study,383,4
+bentcableAR,stagnant,Stagnant Band Height Data,29,2
+bentcableAR,sockeye,Rivers Inlet Sockeye Abundance,21,2
+betaper,soils,Tree abundance and soil data in Western Amazonia,9,4
+betaper,HCP.coords,Tree counts in tropical montane forest fragments,16,2
+betaper,HCP,Tree counts in tropical montane forest fragments,231,19
+betaper,Amazonia,Tree abundance and soil data in Western Amazonia,1188,12
+bethel,pop,Bethel population,1000,4
+Biodem,valley,Raw marriage data,702,8
+Biodem,surnames,Surname frequency table,10,3
+Biodem,raw.mig,A raw migration data,4,4
+Biodem,S,Systematic pressure matrix,12,12
+Biodem,P,Column stochastic migration matrix,12,12
+BioMark,pos.markers (SpikePos),Spike-in metabolomics data for apple extracts,35,9
+BioMark,neg.markers (SpikeNeg),Spike-in metabolomics data for apple extracts,36,9
+bit64,optimizer64.data,Results of performance measurement on a Core i7 Lenovo T410 8 GB RAM under Windows 7 64bit,8,2
+bit64,benchmark64.data,Results of performance measurement on a Core i7 Lenovo T410 8 GB RAM under Windows 7 64bit,16,6
+biwavelet,enviro.data,"Multivariate ENSO (MEI), NPGO, and PDO indices",720,6
+blm,ccdata,Simulated case-control dataset,756,5
+boot,urine,Urine Analysis Data,79,7
+boot,tuna,Tuna Sighting Data,64,1
+boot,tau,Tau Particle Decay Modes,60,2
+boot,survival,Survival of Rats after Radiation Doses,14,2
+boot,salinity,Water Salinity and River Discharge,28,4
+boot,remission,Cancer Remission and Cell Activity,27,3
+boot,polar,Pole Positions of New Caledonian Laterites,50,2
+boot,poisons,Animal Survival Times,48,3
+boot,paulsen,Neurotransmission in Guinea Pig Brains,346,1
+boot,nuclear,Nuclear Power Station Construction Data,32,11
+boot,nodal,Nodal Involvement in Prostate Cancer,53,7
+boot,nitrofen,Toxicity of Nitrofen in Aquatic Systems,50,5
+boot,neuro,Neurophysiological Point Process Data,469,6
+boot,motor,Data from a Simulated Motorcycle Accident,94,4
+boot,melanoma,Survival from Malignant Melanoma,205,7
+boot,islay,Jura Quartzite Azimuths on Islay,18,1
+boot,hirose,Failure Time of PET Film,44,3
+boot,gravity,Acceleration Due to Gravity,81,2
+boot,grav,Acceleration Due to Gravity,26,2
+boot,frets,Head Dimensions in Brothers,25,4
+boot,fir,Counts of Balsam-fir Seedlings,50,3
+boot,ducks,Behavioral and Plumage Characteristics of Hybrid Ducks,11,2
+boot,downs.bc,Incidence of Down's Syndrome in British Columbia,30,3
+boot,dogs,Cardiac Data for Domestic Dogs,7,2
+boot,darwin,Darwin's Plant Height Differences,15,1
+boot,coal,Dates of Coal Mining Disasters,191,1
+boot,co.transfer,Carbon Monoxide Transfer,7,2
+boot,cloth,Number of Flaws in Cloth,32,2
+boot,claridge,Genetic Links to Left-handedness,37,2
+boot,city,Population of U.S. Cities,10,2
+boot,channing,Channing House Data,462,5
+boot,cd4,CD4 Counts for HIV-Positive Patients,20,2
+boot,cav,Position of Muscle Caveolae,138,2
+boot,catsM,Weight Data for Domestic Cats,97,3
+boot,capability,Simulated Manufacturing Process Data,75,1
+boot,cane,Sugar-cane Disease Data,180,5
+boot,calcium,Calcium Uptake Data,27,2
+boot,breslow,Smoking Deaths Among Doctors,10,5
+boot,brambles,Spatial Location of Bramble Canes,823,3
+boot,bigcity,Population of U.S. Cities,49,2
+boot,beaver,Beaver Body Temperature Data,100,4
+boot,aml,Remission Times for Acute Myelogenous Leukaemia,23,3
+boot,amis,Car Speeding and Warning Signs,8437,4
+boot,aircondit7,Failures of Air-conditioning Equipment,24,1
+boot,aircondit,Failures of Air-conditioning Equipment,12,1
+boot,aids,Delay in AIDS Reporting in England and Wales,570,6
+boot,acme,Monthly Excess Returns,60,3
+boot,aids,Delay in AIDS Reporting in England and Wales,295,3
+boot,channing,Channing House Data,462,6
+boot,manaus,Average Heights of the Rio Negro river at Manaus,1080,2
+boot,melanoma,Survival from Malignant Melanoma,37,2
+boot,wool,Australian Relative Wool Prices,309,2
+breakage,break.data,Sample recording of SICM pipette breakage,9999,3
+bReeze,winddata,Example data for bReeze,36548,17
+BSagri,fakeln,A simulated data set of lognormal data,32,2
+BSagri,Nematocera,Eklektor counts of Nematocera,192,14
+BSagri,MMPoisRep,Simulated data for a simple mixed model with Poisson response,192,4
+BSagri,MMPois,Simulated data for a simple mixed model with Poisson response,160,3
+BSagri,MM1,Simulated data set for a simple mixed model,160,3
+BSagri,Lepi,Insect counts of 12 Species,144,17
+BSagri,Feeding,Pupation and Hatching rate in a feeding experiment with four varieties,32,5
+BSagri,ExPCov,Simulated example data following a Poisson distribution,32,12
+BSagri,ExNBCov,"Simulated example data, drawn from a Negative Binomial Distribution",32,12
+BSagri,Diptera,Soil eklektor data for some families of Diptera,32,7
+BSagri,Decomp,A simulated data set,1152,5
+BSagri,CountRep,Synthetic repeated count data set,160,4
+BSagri,Cica2,Catches of Planthoppers and Leafhoppers,24,8
+BSagri,Cica1,Catches of Planthoppers and Leafhoppers,24,6
+BSagri,Brachycera,Eklektor counts of Brachycera,192,15
+C50,churnTrain (churn),Customer Churn Data,3333,20
+C50,churnTest (churn),Customer Churn Data,1667,20
+CADStat,refids.OR,Reference site identifications western OR,248,2
+CADStat,envdata.OR,Environmental data from western OR,248,13
+car,Wool,Wool data,27,4
+car,Womenlf,Canadian Women's Labour-Force Participation,263,4
+car,WeightLoss,Weight Loss Data,34,7
+car,Vocab,Vocabulary and Education,21638,4
+car,USPop,Population of the United States,22,2
+car,UN,GDP and Infant Mortality,207,2
+car,Transact,Transaction data,261,3
+car,States,Education and Related Statistics for the U.S. States,51,7
+car,Soils,Soil Compositions of Physical and Chemical Characteristics,48,14
+car,Salaries,Salaries for Professors,397,6
+car,Sahlins,Agricultural Production in Mazulu Village,20,2
+car,SLID,Survey of Labour and Income Dynamics,7425,5
+car,Robey,Fertility and Contraception,50,3
+car,Quartet,Four Regression Datasets,11,6
+car,Prestige,Prestige of Canadian Occupations,102,6
+car,Pottery,Chemical Composition of Pottery,26,6
+car,Ornstein,Interlocking Directorates Among Major Canadian Firms,248,4
+car,OBrienKaiser,O'Brien and Kaiser's Repeated-Measures Data,16,17
+car,Mroz,U.S. Women's Labor-Force Participation,753,8
+car,Moore,"Status, Authoritarianism, and Conformity",45,4
+car,Migration,Canadian Interprovincial Migration Data,90,8
+car,Mandel,Contrived Collinear Data,8,3
+car,Leinhardt,Data on Infant-Mortality,105,4
+car,Highway1,Highway Accidents,39,12
+car,Hartnagel,Canadian Crime-Rates Time Series,38,8
+car,Guyer,Anonymity and Cooperation,20,3
+car,Greene,Refugee Appeals,384,7
+car,Ginzberg,Data on Depression,82,6
+car,Friendly,Format Effects on Recall,30,2
+car,Freedman,Crowding and Crime in U. S. Metropolitan Areas,110,4
+car,Florida,Florida County Voting,67,11
+car,Ericksen,The 1980 U.S. Census Undercount,66,9
+car,Duncan,Duncan's Occupational Prestige Data,45,4
+car,Depredations,Minnesota Wolf Depredation Data,434,5
+car,DavisThin,Davis's Data on Drive for Thinness,191,7
+car,Davis,Self-Reports of Height and Weight,200,5
+car,Cowles,Cowles and Davis's Data on Volunteering,1421,4
+car,Chirot,The 1907 Romanian Peasant Rebellion,32,5
+car,Chile,Voting Intentions in the 1988 Chilean Plebiscite,2700,8
+car,CanPop,Canadian Population Data,16,2
+car,Burt,Fraudulent Data on IQs of Twins Raised Apart,27,3
+car,Blackmoor,Exercise Histories of Eating-Disordered and Control Subjects,945,4
+car,Bfox,Canadian Women's Labour-Force Participation,30,6
+car,Baumann,Methods of Teaching Reading Comprehension,66,6
+car,Anscombe,U. S. State Public-School Expenditures,51,4
+car,Angell,Moral Integration of American Cities,43,4
+car,Adler,Experimenter Expectations,97,3
+car,AMSsurvey,American Math Society Survey Data,24,5
+car,Blackmore,Exercise Histories of Eating-Disordered and Control Subjects,945,4
+car,KosteckiDillon,Treatment of Migraine Headaches,4152,9
+car,LoBD,Cancer drug data use to provide an example of the use of the skew power distributions.,84,9
+car,Mroz,U.S. Women's Labor-Force Participation,753,18
+car,Wong,Post-Coma Recovery of IQ,331,7
+CARE1,HAV,Hepatitis A virus data,1,7
+CARE1,Diabetes,Diabetes data,1,15
+CARE1,Congenital,Congenital anomaly data,1,31
+caschrono,khct,Monthly electricity comsumption for the period 1970-1984,180,3
+caschrono,indbourse,Stock price indices for the period 2006-2010,1148,6
+caschrono,essil,Essilor stock for the period 2006-2009,1035,1
+caschrono,csdl,French stock and returns,905,4
+cat,older.frame (older),Older people dataset,144,7
+cat,older,Older people dataset,144,7
+cat,crimes,U.S. National Crime Survey,9,3
+cat,belt.frame (belt),Data on driver injury and seat belt use,80,7
+cat,belt,Data on driver injury and seat belt use,80,7
+CCM,data.expr,Sample gene expression and gender data,100,40
+charlson,full.data,This is my title,68,4
+ChemometricsWithRData,wines,Wine data,177,13
+ChemometricsWithRData,prostate,Averaged prostate data from package msProstate.,327,10523
+CircStats,rao.table,Table for Rao spacing function,43,4
+classInt,jenks71,Illinois 1959 county gross farm product value per acre,102,2
+clim.pact,narp,Station data from Nordic Arctic Research Program,16668,15
+clim.pact,nacd.meta,Station data from Nordic Arctic Research Program,388,16
+clim.pact,meta.nacd,Retrieve station record from the NACD set.,388,16
+clim.pact,lon.cont (addland2),Coordinates of coast line.,17844,NA
+clim.pact,lon.cont (addland1),Coordinates of coast line.,17844,NA
+clim.pact,lat.cont (addland2),Coordinates of coast line.,17844,NA
+clim.pact,lat.cont (addland1),Coordinates of coast line.,17844,NA
+clim.pact,exp.par,Downscale eponential PDF.,49,24
+climatol,windfr,Wind frequency table,4,16
+climatol,datcli,Monthly climatic data of a single station,4,12
+clue,Phonemes,Miller-Nicely Consonant Phoneme Confusion Data,16,16
+cluster,xclara,Bivariate Data Set with 3 Clusters,3000,2
+cluster,votes.repub,Votes for Republican Candidate in Presidential Elections,50,31
+cluster,ruspini,Ruspini Data,75,2
+cluster,pluton,Isotopic Composition Plutonium Batches,45,4
+cluster,plantTraits,Plant Species Traits Data,136,31
+cluster,flower,Flower Characteristics,18,8
+cluster,chorSub,Subset of C-horizon of Kola Data,61,10
+cluster,animals,Attributes of Animals,20,6
+cluster,agriculture,European Union Agricultural Workforces,12,2
+clusterCons,sim_profile,Data sets for the clusterCons package,120,4
+clusterCons,sim_class,Data sets for the clusterCons package,200,30
+clusterCons,golub,Data sets for the clusterCons package,999,38
+clusterSim,data_symbolic,Symbolic interval data,125,6
+clusterSim,data_ratio,Ratio data,75,5
+clusterSim,data_patternGDM2,"Ordinal data with 27 objects and 6 variables (3 stimulant variables, 2 destimulant variables and 1 nominant variable)",27,6
+clusterSim,data_patternGDM1,"Metric data with 17 objects and 10 variables (8 stimulant variables, 2 destimulant variables)",17,10
+clusterSim,data_ordinal,Ordinal data,26,12
+clusterSim,data_nominal,Nominal data,26,12
+clusterSim,data_mixed,Mixed data,25,4
+clusterSim,data_interval,Interval data,75,5
+clusterSim,data_binary,Binary data,8,10
+CMC,cain,Data concerning Computer Anxiety INdex (cain),371,12
+CNVassoc,A112,Copy Number Variant intensity data (from CNVtools),2593,35
+cobs99,exHe,Small Dataset Example of He,10,2
+cobs99,USArmyRoofs,Roof Quality in US Army Bases,153,2
+cobs99,DublinWind,Daily Wind Speeds in Dublin,6574,2
+colorspace,USSouthPolygon,"Polygon for County Map of US South States: Alabama, Georgia, and South Carolina",4874,3
+compareGroups,regicor,REGICOR cross-sectional data,2294,25
+CompareTests,specimens,Fictitious data on specimens tested by two methods,402,3
+compoisson,Lemaire (insurance),Insurance Count Datasets,5,2
+compoisson,Buhlmann (insurance),Insurance Count Datasets,7,2
+condGEE,asthma,Asthma recurrence in children,1037,7
+copula,uranium,Uranium Exploration Dataset of Cook & Johnson (1986),655,7
+copula,rdj,Daily Returns of Three Stocks in the Dow Jones,1262,4
+copula,loss,LOSS and ALAE Insurance Data,1500,4
+CorrBin,shelltox,Shell Toxicology data,67,4
+CorrBin,egde,EGDE data,94,4
+corrgram,vote,Voting correlations,12,12
+corrgram,baseball,Baseball Hitter's Data,322,22
+corrgram,auto,Statistics of 1979 automobile models,74,14
+COUNT,affairs,affairs,601,18
+COUNT,azcabgptca,azcabgptca,1959,6
+COUNT,azdrg112,azdrg112,1798,4
+COUNT,azpro,azpro,3589,6
+COUNT,azprocedure,azprocedure,3589,6
+COUNT,badhealth,badhealth,1127,3
+COUNT,fasttrakg,fasttrakg,15,9
+COUNT,fishing,fishing,147,7
+COUNT,lbw,lbw,189,10
+COUNT,lbwgrp,lbwgrp,6,7
+COUNT,loomis,loomis,410,11
+COUNT,mdvis,mdvis,2227,13
+COUNT,medpar,medpar,1495,10
+COUNT,nuts,nuts,52,8
+COUNT,rwm,rwm,27326,4
+COUNT,rwm1984,rwm1984,3874,15
+COUNT,rwm5yr,rwm5yr,19609,17
+COUNT,ships,ships,40,7
+COUNT,smoking,smoking,26,4
+COUNT,titanic,titanic,1316,4
+COUNT,titanicgrp,titanicgrp,12,5
+cumSeg,fibroblast,Fibroblast Cell Line dataset,2462,11
+cvq2,cvq2.setA,Small data set to demonstrate the difference between the conventional squared correlation coefficient and the predictive squared correlation coefficient (cross validation).,4,3
+cyclones,kuroshio,Ocean currents and sea surface temperature fronts,12,1413
+cyclones,gulfstream,Ocean currents and sea surface temperature fronts,12,1413
+cyclones,gcr,Analysis of solcar cycle length (SCL).,20422,7
+DAAG,ACF1,Aberrant Crypt Foci in Rat Colons,22,2
+DAAG,Cars93.summary,A Summary of the Cars93 Data set,6,4
+DAAG,Lottario,Ontario Lottery Data,39,2
+DAAG,Manitoba.lakes,The Nine Largest Lakes in Manitoba,9,2
+DAAG,SP500W90,Closing Numbers for S and P 500 Index - First 100 Days of 1990,100,2
+DAAG,SP500close,Closing Numbers for S and P 500 Index,2780,1
+DAAG,ais,Australian athletes data set,202,13
+DAAG,allbacks,Measurements on a Selection of Books,15,4
+DAAG,anesthetic,Anesthetic Effectiveness,30,4
+DAAG,ant111b,"Averages by block of corn yields, for treatment 111 only",32,9
+DAAG,antigua,Averages by block of yields for the Antigua Corn data,288,7
+DAAG,appletaste,Tasting experiment that compared four apple varieties,60,3
+DAAG,aulatlong,Latitudes and longitudes for ten Australian cities,10,2
+DAAG,austpop,Population figures for Australian States and Territories,9,10
+DAAG,biomass,Biomass Data,153,8
+DAAG,bomregions,"Australian and Related Historical Annual Climate Data, by region",109,22
+DAAG,bomregions2011,"Australian and Related Historical Annual Climate Data, by region",112,22
+DAAG,bomregions2012,"Australian and Related Historical Annual Climate Data, by region",113,22
+DAAG,bomsoi,Southern Oscillation Index Data,106,21
+DAAG,bomsoi2001,Southern Oscillation Index Data,102,15
+DAAG,carprice,US Car Price Data,48,9
+DAAG,cerealsugar,Percentage of Sugar in Breakfast Cereal,100,1
+DAAG,cfseal,Cape Fur Seal Data,30,11
+DAAG,cities,Populations of Major Canadian Cities (1992-96),11,11
+DAAG,codling,"Dose-mortality data, for fumigation of codling moth with methyl bromide",99,10
+DAAG,cottonworkers,Occupation and wage profiles of British cotton workers,14,3
+DAAG,cps1,Labour Training Evaluation Data,15992,10
+DAAG,cps2,Labour Training Evaluation Data,2369,10
+DAAG,cps3,Labour Training Evaluation Data,429,10
+DAAG,cricketer,Lifespans of UK 1st class cricketers born 1840-1960,5960,8
+DAAG,cuckoohosts,Comparison of cuckoo eggs with host eggs,10,12
+DAAG,cuckoos,Cuckoo Eggs Data,120,4
+DAAG,dengue,"Dengue prevalence, by administrative region",2000,13
+DAAG,dewpoint,Dewpoint Data,72,3
+DAAG,droughts,Periods Between Rain Events,2042,2
+DAAG,edcCO2,EPICA Dome C Ice Core 800KYr Carbon Dioxide Data,1096,2
+DAAG,edcT,EPICA Dome C Ice Core 800KYr Temperature Estimates,5788,5
+DAAG,elastic1,Elastic Band Data Replicated,7,2
+DAAG,elastic2,Elastic Band Data Replicated Again,9,2
+DAAG,elasticband,Elastic Band Data,7,2
+DAAG,fossilfuel,Fossil Fuel Data,5,2
+DAAG,fossum,Female Possum Measurements,43,14
+DAAG,frogs,Frogs Data,212,10
+DAAG,frostedflakes,Frosted Flakes data,100,2
+DAAG,fruitohms,Electrical Resistance of Kiwi Fruit,128,2
+DAAG,gaba,Effect of pentazocine on post-operative pain (average VAS scores),9,7
+DAAG,geophones,Seismic Timing Data,56,2
+DAAG,grog,Alcohol consumption in Australia and New Zealand,18,5
+DAAG,head.injury,Minor Head Injury (Simulated) Data,3121,11
+DAAG,headInjury,Minor Head Injury (Simulated) Data,3121,11
+DAAG,hills,Scottish Hill Races Data,35,3
+DAAG,hills2000,Scottish Hill Races Data - 2000,56,4
+DAAG,hotspots,Hawaian island chain hotspot Potassium-Argon ages,35,6
+DAAG,hotspots2006,Hawaian island chain hotspot Argon-Argon ages,10,6
+DAAG,houseprices,Aranda House Prices,15,3
+DAAG,humanpower1,"Oxygen uptake versus mechanical power, for humans",28,3
+DAAG,humanpower2,"Oxygen uptake versus mechanical power, for humans",26,3
+DAAG,hurricNamed,Named US Atlantic Hurricanes,94,12
+DAAG,intersalt,Blood pressure versus Salt; inter-population data,52,4
+DAAG,ironslag,Iron Content Measurements,53,2
+DAAG,jobs,Canadian Labour Force Summary Data (1995-96),899,17
+DAAG,kiwishade,Kiwi Shading Data,48,4
+DAAG,leafshape,Full Leaf Shape Data Set,286,9
+DAAG,leafshape17,Subset of Leaf Shape Data Set,61,8
+DAAG,leaftemp,Leaf and Air Temperature Data,62,4
+DAAG,leaftemp.all,Full Leaf and Air Temperature Data Set,62,9
+DAAG,litters,Mouse Litters,20,3
+DAAG,lung,Cape Fur Seal Lung Measurements,228,10
+DAAG,measles,Deaths in London from measles,311,2
+DAAG,medExpenses,Family Medical Expenses,33,2
+DAAG,mifem,Mortality Outcomes for Females Suffering Myocardial Infarction,1295,10
+DAAG,mignonette,Darwin's Wild Mignonette Data,24,2
+DAAG,milk,Milk Sweetness Study,86,8
+DAAG,modelcars,Model Car Data,12,2
+DAAG,monica,WHO Monica Data,6367,12
+DAAG,moths,Moths Data,41,4
+DAAG,nassCDS,Airbag and other influences on accident fatalities,26217,15
+DAAG,nasshead,Documentation of names of columns in nass9702cor,56,3
+DAAG,nihills,Record times for Northern Ireland mountain running events,23,4
+DAAG,nsw74demo,Labour Training Evaluation Data,445,10
+DAAG,nsw74psid1,Labour Training Evaluation Data,2675,10
+DAAG,nsw74psid3,Labour Training Evaluation Data,313,10
+DAAG,nsw74psidA,A Subset of the nsw74psid1 Data Set,252,10
+DAAG,nswdemo,Labour Training Evaluation Data,722,10
+DAAG,nswpsid1,Labour Training Evaluation Data,2787,10
+DAAG,oddbooks,Measurements on 12 books,12,4
+DAAG,orings,Challenger O-rings Data,23,4
+DAAG,pair65,Heated Elastic Bands,9,2
+DAAG,possum,Possum Measurements,104,14
+DAAG,possumsites,Possum Sites,7,3
+DAAG,primates,Primate Body and Brain Weights,5,2
+DAAG,progression,"Progression of Record times for track races, 1912 - 2008",227,4
+DAAG,psid1,Labour Training Evaluation Data,2490,10
+DAAG,psid2,Labour Training Evaluation Data,253,10
+DAAG,psid3,Labour Training Evaluation Data,128,10
+DAAG,races2000,Scottish Hill Races Data - 2000,77,5
+DAAG,rainforest,Rainforest Data,65,7
+DAAG,rareplants,Rare and Endangered Plant Species,4,3
+DAAG,rice,Genetically Modified and Wild Type Rice Data,72,7
+DAAG,rockArt,Pacific Rock Art features,103,641
+DAAG,roller,Lawn Roller Data,10,2
+DAAG,science,School Science Survey Data,1385,7
+DAAG,seedrates,Barley Seeding Rate Data,5,2
+DAAG,socsupport,Social Support Data,95,20
+DAAG,softbacks,Measurements on a Selection of Paperback Books,8,2
+DAAG,sorption,sorption data set,192,14
+DAAG,spam7,Spam E-mail Data,4601,7
+DAAG,stVincent,Averages by block of yields for the St. Vincent Corn data,324,8
+DAAG,sugar,Sugar Data,12,2
+DAAG,tinting,Car Window Tinting Experiment Data,182,9
+DAAG,tomato,Root weights of tomato plants exposed to 4 different treatments,24,2
+DAAG,toycars,Toy Cars Data,27,3
+DAAG,vince111b,"Averages by block of corn yields, for treatment 111 only",36,8
+DAAG,vlt,Video Lottery Terminal Data,345,5
+DAAG,wages1833,Wages of Lancashire Cotton Factory Workers in 1833,51,5
+DAAG,worldRecords,"Record times for track and road races, at August 9th 2006",40,5
+datasets,AirPassengers,Monthly Airline Passenger Numbers 1949-1960,144,2
+datasets,BJsales,Sales Data with Leading Indicator,150,2
+datasets,BOD,Biochemical Oxygen Demand,6,2
+datasets,CO2,Carbon Dioxide Uptake in Grass Plants,237,2
+datasets,Formaldehyde,Determination of Formaldehyde,6,2
+datasets,HairEyeColor,Hair and Eye Color of Statistics Students,4,4
+datasets,InsectSprays,Effectiveness of Insect Sprays,72,2
+datasets,JohnsonJohnson,Quarterly Earnings per Johnson & Johnson Share,84,2
+datasets,LakeHuron,Level of Lake Huron 1875-1972,98,2
+datasets,LifeCycleSavings,Intercountry Life-Cycle Savings Data,50,5
+datasets,Nile,Flow of the River Nile,100,2
+datasets,OrchardSprays,Potency of Orchard Sprays,64,4
+datasets,PlantGrowth,Results from an Experiment on Plant Growth,30,2
+datasets,Puromycin,Reaction Velocity of an Enzymatic Reaction,23,3
+datasets,Titanic,Survival of passengers on the Titanic,1313,6
+datasets,ToothGrowth,The Effect of Vitamin C on Tooth Growth in Guinea Pigs,60,3
+datasets,UCBAdmissions,Student Admissions at UC Berkeley,2,2
+datasets,UKDriverDeaths,Road Casualties in Great Britain 1969-84,192,2
+datasets,UKgas,UK Quarterly Gas Consumption,108,2
+datasets,USAccDeaths,Accidental Deaths in the US 1973-1978,72,2
+datasets,USArrests,Violent Crime Rates by US State,50,4
+datasets,USJudgeRatings,Lawyers' Ratings of State Judges in the US Superior Court,43,12
+datasets,USPersonalExpenditure,Personal Expenditure Data,5,5
+datasets,VADeaths,Death Rates in Virginia (1940),5,4
+datasets,WWWusage,Internet Usage per Minute,100,2
+datasets,WorldPhones,The World's Telephones,7,7
+datasets,airmiles,"Passenger Miles on Commercial US Airlines, 1937-1960",24,2
+datasets,airquality,New York Air Quality Measurements,153,6
+datasets,anscombe,Anscombe's Quartet of 'Identical' Simple Linear Regressions,11,8
+datasets,attenu,The Joyner-Boore Attenuation Data,182,5
+datasets,attitude,The Chatterjee-Price Attitude Data,30,7
+datasets,austres,Quarterly Time Series of the Number of Australian Residents,89,2
+datasets,cars,Speed and Stopping Distances of Cars,50,2
+datasets,chickwts,Chicken Weights by Feed Type,71,2
+datasets,co2,Mauna Loa Atmospheric CO2 Concentration,468,2
+datasets,crimtab,Student's 3000 Criminals Data,42,22
+datasets,discoveries,Yearly Numbers of Important Discoveries,100,2
+datasets,esoph,"Smoking, Alcohol and (O)esophageal Cancer",88,5
+datasets,euro,Conversion Rates of Euro Currencies,11,1
+datasets,faithful,Old Faithful Geyser Data,272,2
+datasets,freeny,Freeny's Revenue Data,39,5
+datasets,infert,Infertility after Spontaneous and Induced Abortion,248,8
+datasets,iris,Edgar Anderson's Iris Data,150,5
+datasets,islands,Areas of the World's Major Landmasses,48,1
+datasets,lh,Luteinizing Hormone in Blood Samples,48,2
+datasets,longley,Longley's Economic Regression Data,16,7
+datasets,lynx,Annual Canadian Lynx trappings 1821-1934,114,2
+datasets,morley,Michelson Speed of Light Data,100,3
+datasets,mtcars,Motor Trend Car Road Tests,32,11
+datasets,nhtemp,Average Yearly Temperatures in New Haven,60,2
+datasets,nottem,"Average Monthly Temperatures at Nottingham, 1920-1939",240,2
+datasets,npk,"Classical N, P, K Factorial Experiment",24,5
+datasets,occupationalStatus,Occupational Status of Fathers and their Sons,8,8
+datasets,precip,Annual Precipitation in US Cities,70,1
+datasets,presidents,Quarterly Approval Ratings of US Presidents,120,2
+datasets,pressure,Vapor Pressure of Mercury as a Function of Temperature,19,2
+datasets,quakes,Locations of Earthquakes off Fiji,1000,5
+datasets,randu,Random Numbers from Congruential Generator RANDU,400,3
+datasets,rivers,Lengths of Major North American Rivers,141,1
+datasets,rock,Measurements on Petroleum Rock Samples,48,4
+datasets,sleep,Student's Sleep Data,20,3
+datasets,stackloss,Brownlee's Stack Loss Plant Data,21,4
+datasets,sunspot.month,"Monthly Sunspot Data, from 1749 to ""Present""",3177,2
+datasets,sunspot.year,"Yearly Sunspot Data, 1700-1988",289,2
+datasets,sunspots,"Monthly Sunspot Numbers, 1749-1983",2820,2
+datasets,swiss,Swiss Fertility and Socioeconomic Indicators (1888) Data,47,6
+datasets,treering,"Yearly Treering Data, -6000-1979",7980,2
+datasets,trees,"Girth, Height and Volume for Black Cherry Trees",31,3
+datasets,uspop,Populations Recorded by the US Census,19,2
+datasets,volcano,Topographic Information on Auckland's Maunga Whau Volcano,87,61
+datasets,warpbreaks,The Number of Breaks in Yarn during Weaving,54,3
+datasets,women,Average Heights and Weights for American Women,15,2
+dblcens,IVaids,Data: AIDS patient among IV drug user,232,7
+depthTools,prost.x (prostate),Gene Expression Data from Tumoral and Normal Prostate Samples,50,100
+DiagTest3Grp,AL,Alzheimer's disease neuropsychometric marker dataset,118,15
+dinamic,wilms.markers,aCGH Marker Data from Natrajan et al. (2006),3288,3
+dinamic,wilms.markers (dinamic),aCGH Marker Data from Natrajan et al. (2006),3288,3
+dinamic,wilms.data,DNA Copy Number Data from Natrajan et al. (2006),97,3288
+dinamic,wilms.data (dinamic),DNA Copy Number Data from Natrajan et al. (2006),97,3288
+dinamic,annot.file (dinamic),A Cytoband Annotation Data Frame,811,4
+dinamic,annot.file,A Cytoband Annotation Data Frame,811,4
+diveRsity,Test_data,Example infile for diveRsity package,309,38
+drfit,pyrithione,Cytotoxicity data for different pyrithionates and related species,1292,5
+drfit,antifoul,Dose-Response data for TBT and Zink Pyrithione in IPC-81 cells,216,7
+drfit,XY,Dose-Response data for two substances X and Y,30,6
+drfit,IM1xVibrio,Dose-Response data for 1-methyl-3-alkylimidazolium tetrafluoroborates in V. fischeri,208,6
+drfit,IM1xIPC81,Dose-Response data for 1-methyl-3-alkylimidazolium tetrafluoroborates in IPC-81 cells,999,5
+drm,wheeze,Wheeze among Steubenville children,2148,4
+drm,obese,Obesity among Muscatine children,5310,5
+drm,movie,Movie reviews from a Variety magazine,372,3
+drm,marijuana,Longitudinal data set on teenage marijuana use,1185,4
+drm,madras,Madras Longitudinal Schizophrenia Study,1032,5
+DSpat,weeds.obs,Observations from Dubbo weed data,479,4
+DSpat,weeds.lines,Transect lines from Dubbo weed data,8,6
+DSpat,weeds.covariates,Covariate grid for Dubbo weed data,14400,4
+DSpat,weeds.all,Dubbo weed data with constructed y-coordinate,742,5
+DSpat,weeds,Dubbo weed data,742,4
+DSpat,DSpat.obs,Observation dataframe for DSpat,395,3
+DSpat,DSpat.lines,Example DSpat lines dataframe,10,5
+DSpat,DSpat.covariates,Raster covariates study area,10000,4
+DTDA,Quasars,Quasars,210,3
+DTDA,AIDS,Time to AIDS,258,3
+DynClust,adu340_4small,Calcium-imaging dataset using Fura-2,50,50
+dynCorr,dynCorrData,An example dataset for use in the example calls in the help files for the dynamicCorrelation and bootstrapCI functions,648,5
+Ecdat,Yogurt,Choice of Brand for Yogurts,2412,10
+Ecdat,Yen,Yen-dollar Exchange Rate,778,4
+Ecdat,Workinghours,Wife Working Hours,3382,12
+Ecdat,Wages1,"Wages, Experience and Schooling",3294,4
+Ecdat,Wages,Panel Datas of Individual Wages,4165,12
+Ecdat,VietNamI,Medical Expenses in Viet-nam (individual Level),27765,12
+Ecdat,University,Provision of University Teaching and Research,62,17
+Ecdat,Unemployment,Unemployment Duration,452,12
+Ecdat,UnempDur,Unemployment Duration,3343,11
+Ecdat,Tuna,Choice of Brand for Tuna,13705,8
+Ecdat,Treatment,Evaluating Treatment Effect of Training on Earnings,2675,10
+Ecdat,TranspEq,Statewide Data on Transportation Equipment Manufacturing,25,5
+Ecdat,Train,Stated Preferences for Train Traveling,2929,11
+Ecdat,Tobacco,Households Tobacco Budget Share,2724,9
+Ecdat,Tbrate,"Interest Rate, GDP and Inflation",188,3
+Ecdat,SumHes,The Penn Table,3250,7
+Ecdat,StrikeNb,Number of Strikes in Us Manufacturing,108,3
+Ecdat,StrikeDur,Strikes Duration,566,2
+Ecdat,Strike,Strike Duration Data,62,2
+Ecdat,Star,Effects on Learning of Small Class Sizes,5748,8
+Ecdat,Somerville,Visits to Lake Somerville,659,8
+Ecdat,Solow,Solow's Technological Change Data,41,3
+Ecdat,Schooling,Wages and Schooling,3010,28
+Ecdat,SP500,Returns on Standard & Poor's 500 Index,2783,1
+Ecdat,RetSchool,Return to Schooling,5225,17
+Ecdat,Produc,Us States Production,816,10
+Ecdat,Pricing,Returns of Size-based Portfolios,418,12
+Ecdat,Pound,Pound-dollar Exchange Rate,778,4
+Ecdat,PatentsRD,"Patents, R&D and Technological Spillovers for a Panel of Firms",1629,7
+Ecdat,PatentsHGH,Dynamic Relation Between Patents and R&D,1730,18
+Ecdat,Participation,Labor Force Participation,872,7
+Ecdat,PSID,Panel Survey of Income Dynamics,4856,8
+Ecdat,PPP,Exchange Rates and Price Indices for France and Italy,186,5
+Ecdat,PE,Price and Earnings Index,132,2
+Ecdat,Orange,The Orange Juice Data Set,642,3
+Ecdat,Oil,Oil Investment,53,11
+Ecdat,OFP,Visits to Physician Office,4406,19
+Ecdat,Nerlove,"Cost Function for Electricity Producers, 1955",159,8
+Ecdat,NaturalPark,Willingness to Pay for the Preservation of the Alentejo Natural Park,312,7
+Ecdat,MunExp,Municipal Expenditure Data,2385,5
+Ecdat,Mroz,Labor Supply Data,753,18
+Ecdat,Mpyr,"Money, National Product and Interest Rate",90,4
+Ecdat,MoneyUS,Macroeconomic Series for the United States,164,5
+Ecdat,Money,"Money, GDP and Interest Rate in Canada",128,4
+Ecdat,Mofa,"International Expansion of U.S. Mofa's (majority-owned Foreign Affiliates in Fire (finance, Insurance and Real Estate)",50,5
+Ecdat,ModeChoice,Data to Study Travel Mode Choice,840,7
+Ecdat,Mode,Mode Choice,453,9
+Ecdat,Mishkin,Inflation and Interest Rates,491,5
+Ecdat,Metal,Production for SIC 33,27,3
+Ecdat,MedExp (VietNamH),Structure of Demand for Medical Care,5574,15
+Ecdat,MedExp,Structure of Demand for Medical Care,5574,15
+Ecdat,Mathlevel,Level of Calculus Attained for Students Taking Advanced Micro-economics,609,8
+Ecdat,ManufCost,Manufacturing Costs,25,9
+Ecdat,Males,Wages and Education of Young Males,4360,12
+Ecdat,Macrodat,Macroeconomic Time Series for the United States,168,7
+Ecdat,MW,Growth of Disposable Income and Treasury Bill Rate,50,2
+Ecdat,MCAS,The Massashusets Test Score Data Set,220,17
+Ecdat,Longley,The Longley Data,16,4
+Ecdat,Labour,Belgian Firms,569,4
+Ecdat,LaborSupply,Wages and Hours Worked,5320,7
+Ecdat,LT,Dollar Sterling Exchange Rate,200,3
+Ecdat,Klein,Klein's Model I,22,9
+Ecdat,Ketchup,Choice of Brand for Ketchup,4956,7
+Ecdat,Kakadu,Willingness to Pay for the Preservation of the Kakadu National Park,1827,22
+Ecdat,Journals,Economic Journals Dat Set,180,10
+Ecdat,Irates,Monthly Interest Rates,531,10
+Ecdat,IncomeUK,Seasonally Unadjusted Quarterly Data on Disposable Income and Expenditure,58,2
+Ecdat,Icecream,Ice Cream Consumption,30,4
+Ecdat,Hstarts (Intratesq),Housing Starts,168,2
+Ecdat,Hstarts (Intratesm),Housing Starts,168,2
+Ecdat,Hstarts,Housing Starts,168,2
+Ecdat,Housing,Sales Prices of Houses in the City of Windsor,546,12
+Ecdat,Hedonic,Hedonic Prices of Cencus Tracts in Boston,506,15
+Ecdat,Heating,Heating System Choice in California Houses,900,21
+Ecdat,Hdma,The Boston HDMA Data Set,2381,13
+Ecdat,HI,Health Insurance and Hours Worked By Wives,22272,13
+Ecdat,HC,Heating and Cooling System Choice in Newly Built Houses in California,250,18
+Ecdat,Grunfeld,Grunfeld Investment Data,200,5
+Ecdat,Griliches,Wage Datas,758,20
+Ecdat,Gasoline,Gasoline Consumption,342,6
+Ecdat,Garch,Daily Observations on Exchange Rates of the US Dollar Against Other Currencies,1867,8
+Ecdat,FriendFoe,Data from the Television Game Show Friend Or Foe ?,227,13
+Ecdat,Forward,Exchange Rates of US Dollar Against Other Currencies,276,9
+Ecdat,Fishing,Choice of Fishing Mode,1182,12
+Ecdat,Fatality,Drunk Driving Laws and Traffic Deaths,336,10
+Ecdat,Fair,Extramarital Affairs Data,601,9
+Ecdat,Electricity,Cost Function for Electricity Producers,158,8
+Ecdat,Earnings,Earnings for Three Age Groups,4266,2
+Ecdat,DoctorContacts,Contacts With Medical Doctor,20186,15
+Ecdat,DoctorAUS,Doctor Visits in Australia,5190,15
+Ecdat,Doctor,Number of Doctor Visits,485,4
+Ecdat,Diamond,Pricing the C's of Diamond Stones,308,5
+Ecdat,DM,DM Dollar Exchange Rate,778,4
+Ecdat,Crime,Crime in North Carolina,630,24
+Ecdat,Cracker,Choice of Brand for Crakers,3292,14
+Ecdat,Consumption,Quarterly Data on Consumption and Expenditure,200,2
+Ecdat,Computers,Prices of Personal Computers,6259,10
+Ecdat,Clothing,Sales Data of Men's Fashion Stores,400,13
+Ecdat,Cigarette,The Cigarette Consumption Panel Data Set,528,9
+Ecdat,Cigar,Cigarette Consumption,1380,9
+Ecdat,Catsup,Choice of Brand for Catsup,2798,14
+Ecdat,Caschool,The California Test Score Data Set,420,17
+Ecdat,Car,Stated Preferences for Car Choice,4654,70
+Ecdat,Capm,Stock Market Data,516,5
+Ecdat,CRSPmon,Monthly Returns from the CRSP Database,360,4
+Ecdat,CRSPday,Daily Returns from the CRSP Database,2528,7
+Ecdat,CPSch3,Earnings from the Current Population Survey,11130,3
+Ecdat,Bwages,Wages in Belgium,1472,4
+Ecdat,BudgetUK,Budget Shares of British Households,1519,10
+Ecdat,BudgetItaly,Budget Shares for Italian Households,1729,11
+Ecdat,BudgetFood,Budget Share of Food for Spanish Households,23972,6
+Ecdat,Bids,Bids Received By U.S. Firms,126,12
+Ecdat,Benefits,Unemployement of Blue Collar Workers,4877,18
+Ecdat,Airq,Air Quality for Californian Metropolitan Areas,30,6
+Ecdat,Airline,Cost for U.S. Airlines,90,6
+Ecdat,Accident,Ship Accidents,40,5
+Ecdat,Benefits,Unemployment of Blue Collar Workers,4877,18
+Ecdat,CRANpackages,Growth of CRAN,29,4
+Ecdat,Clothing,Sales Data of Men's Fashion Stores,60,8
+Ecdat,HHSCyberSecurityBreaches,Cybersecurity breaches reported to the US Department of Health and Human Services,1151,9
+Ecdat,Hdma,The Boston HMDA Data Set,2381,13
+Ecdat,Hedonic,Hedonic Prices of Census Tracts in Boston,506,15
+Ecdat,Hmda,The Boston HMDA Data Set,2381,13
+Ecdat,Klein,Klein's Model I,22,10
+Ecdat,MCAS,The Massachusetts Test Score Data Set,220,17
+Ecdat,Produc,Us States Production,816,11
+Ecdat,USFinanceIndustry,US Finance Industry Profits,84,7
+Ecdat,USGDPpresidents,US GDP per capita with presidents and wars,259,12
+Ecdat,USclassifiedDocuments,Official Secrecy of the United States Government,29,5
+Ecdat,USstateAbbreviations,Standard abbreviations for states of the United States,76,10
+Ecdat,UStaxWords,Number of Words in US Tax Law,7,10
+Ecdat,VietNamH,Medical Expenses in Viet-nam (household Level),5999,11
+Ecdat,bankingCrises,Countries in Banking Crises,211,71
+Ecdat,breaches,Cyber Security Breaches,1055,13
+Ecdat,incidents.byCountryYr,Global Terrorism Database yearly summaries,206,45
+Ecdat,incomeInequality,Income Inequality in the US,66,22
+Ecdat,nkill.byCountryYr,Global Terrorism Database yearly summaries,206,45
+Ecdat,nonEnglishNames,Names with Character Set Problems,11,2
+Ecdat,politicalKnowledge,Political knowledge in the US and Europe,4,12
+Ecdat,terrorism,Global Terrorism Database yearly summaries,46,25
+eha,swe07,"Swedish population and deaths in ages 61-80, 2007.",40,5
+eha,scania,"Old age mortality, Scania, southern Sweden, 1813-1894.",1931,9
+eha,oldmort,"Old age mortality, Sundsvall, Sweden, 1860-1880.",6495,13
+eha,mort,"Male mortality in ages 40-60, nineteenth century",1208,6
+eha,male.mortality,"Male mortality in ages 40-60, nineteenth century",1208,6
+eha,logrye,"Rye prices, Scania, southern Sweden, 1801-1894.",94,2
+eha,infants,"Infant mortality and maternal death, Sweeden 1821-1894.",105,11
+eha,fert,Marital fertility nineteenth century,12169,9
+el.convex,dataset,dataset simulated using the procedure described in the reference,1000,4
+elec,yolo,"Yolo County, CA Election Data",114,8
+elec,santa.cruz.audit,Santa Cruz Election Data,16,4
+elec,santa.cruz,Santa Cruz Election Data,152,5
+elec,marin,Marin Measure B Reported Results,544,5
+EMD,lennon,Gray John Lennon image,256,256
+EMD,lena,Gray Lena image,512,512
+EngrExpt,yield,Yield of a chemical process,20,3
+EngrExpt,yellow,Initial and 1 month color measure of coated lens,23,2
+EngrExpt,whitearea,Comparison of mixing processes,48,2
+EngrExpt,weight,Weight plastic bags held before breaking,43,1
+EngrExpt,webvisit,Web site visits over a 3-week period,21,1
+EngrExpt,webtraff,Web site traffic during a marketing campaign,10,2
+EngrExpt,water,Bacteria concentrations in water samples,50,1
+EngrExpt,wash,Appearance of washed and unwashed panels,36,3
+EngrExpt,vitamin,Calcium levels before and after vitamin supplement,49,3
+EngrExpt,viscosity,Time to gelling of paint samples,17,1
+EngrExpt,uvoven,UV absorbance for lens cured in different ovens,60,2
+EngrExpt,uvcoatin,Comparison of eyeglass ultra-violet coatings,10,3
+EngrExpt,urine,Mercury level in employee urine samples,12,5
+EngrExpt,tpaste,Turbidity of a toothpaste formulation,8,4
+EngrExpt,timetemp,Time to nominal temperature,24,3
+EngrExpt,thinfilm,Strength of thin film coatings,30,3
+EngrExpt,tensile,Tensile breaking strength of steel samples,18,1
+EngrExpt,tennis,Durability of tennis ball covers,20,2
+EngrExpt,temprate,Effect of water bath on moisture content,12,3
+EngrExpt,tablets,Lifetime of chlorine tablets,30,2
+EngrExpt,surfarea,Surface area of silica,32,1
+EngrExpt,stretch,Stretch of hot pizza cheese,30,3
+EngrExpt,stab,Stability of a chemical product,12,4
+EngrExpt,soap,Soap sales by packaging type,5,3
+EngrExpt,separate,Electrical resistance of battery separators,24,4
+EngrExpt,sarea,Surface area of silica,12,3
+EngrExpt,sales,Sales versus capital expenditure,48,3
+EngrExpt,safety,Safety violations over time,30,4
+EngrExpt,reflect,Anti-reflective coating measurements,8,5
+EngrExpt,ratings2,Product ratings and moisture content,26,2
+EngrExpt,ratings,Ratings of raw materials,26,1
+EngrExpt,railcar3,Moisture level versus type of rail car,17,2
+EngrExpt,railcar2,Rail car hold times,43,1
+EngrExpt,railcar,Rail car hold times,53,1
+EngrExpt,purity,Purity of product from a filtration process,12,4
+EngrExpt,protein,Assay of protein in blood,54,5
+EngrExpt,pigment,Yellowing of paint for different pigments,9,3
+EngrExpt,phmeas,Comparison of instruments to measure pH,11,2
+EngrExpt,ph,pH measurements in a chemical process,35,2
+EngrExpt,oven,Drying of silica,30,3
+EngrExpt,odor,"Odor, yellowing and hardness of optical coating",35,3
+EngrExpt,mw,Appearance measure of paint,32,6
+EngrExpt,moisture,Moisture content of a silica product,8,5
+EngrExpt,lwsw,Appearance measures of automotive paints,13,2
+EngrExpt,lw,Automotive paint formulation,24,3
+EngrExpt,labcomp,Inter-lab study,28,3
+EngrExpt,gloss,Gloss of paint on cars,40,2
+EngrExpt,fluoride,Fluoride levels from water sources,58,2
+EngrExpt,fish2,Toxin concentrations in fish by site,17,2
+EngrExpt,fish,Toxin concentrations in fish by site,16,2
+EngrExpt,fillweight,Fill weight by batch,20,3
+EngrExpt,fill,Fill amount in tamped cylinders,18,3
+EngrExpt,fbuild,Appearance for film builds,9,2
+EngrExpt,exposure,Appearance of panels after exposure to weather,36,2
+EngrExpt,epoxy,Effect of epoxy level on appearance,10,2
+EngrExpt,dry,Moisture content after drying,16,3
+EngrExpt,drums,Weights of drums before and after filling,30,3
+EngrExpt,drought,Water usage in 2001 and 2002,5,3
+EngrExpt,diameter,Diameter of product,20,2
+EngrExpt,diagnostic,Consistency of diagnostic kits,16,2
+EngrExpt,dhaze,Haze of lenses after abrasion,28,2
+EngrExpt,deink2,De-inking of newsprint,15,3
+EngrExpt,deink,De-inking of newsprint,27,3
+EngrExpt,defoam,Height of solution with defoamer,27,4
+EngrExpt,curl,Curl of transparencies,12,3
+EngrExpt,cure,Yield from a chemical curing process,18,3
+EngrExpt,computer,Repair time of computers,36,3
+EngrExpt,chemreac,Yield of a chemical reaction,16,4
+EngrExpt,cheese,Percentage fat in cheese,90,3
+EngrExpt,cement,Drying times of concrete,19,2
+EngrExpt,ccthickn,Clear coat thickness,40,1
+EngrExpt,caliper,Diameters of rods measured by two calipers,14,3
+EngrExpt,calcium,Calcium levels before and after taking vitamin,11,2
+EngrExpt,bright,Brightness of de-inked newspaper,16,6
+EngrExpt,battery,Battery lifetime in laptop computers,30,2
+EngrExpt,bath,Electrical resistance after water bath,4,3
+EngrExpt,bacteria,Bacteria count in water samples,50,1
+EngrExpt,assay,Yield from two processes,9,2
+EngrExpt,applicat,Application of powder coating,18,4
+EngrExpt,alum,Aluminum impurity amounts,25,1
+EngrExpt,adhesion2,Adhesive qualities of a lens coating,30,3
+EngrExpt,adhesion,Adhesive qualities of a lens coating,30,2
+EngrExpt,absorb,Oil absorption of silica,102,1
+Epi,thoro,Thorotrast Study,2470,14
+Epi,occup,A small occupational cohort,13,4
+Epi,nickel,A Cohort of Nickel Smelters in South Wales,679,7
+Epi,mortDK,Population mortality rates for Denmark in 1-year age-classes.,1820,21
+Epi,lungDK,Male lung cancer incidence in Denmark,220,9
+Epi,lep,An unmatched case-control study of leprosy incidence,1370,7
+Epi,hivDK,hivDK: seroconversion in a cohort of Danish men,297,7
+Epi,gmortDK,Population mortality rates for Denmark in 5-years age groups.,418,21
+Epi,ewrates,"Rates of lung and nasal cancer mortality, and total mortality.",150,5
+Epi,diet,Diet and heart data,337,15
+Epi,brv,Bereavement in an elderly cohort,399,11
+Epi,blcaIT,Bladder cancer mortality in Italian males,55,4
+Epi,births,Births in a London Hospital,500,8
+Epi,bdendo11,A 1:1 subset of the endometrial cancer case-control study,126,13
+Epi,bdendo,A case-control study of endometrial cancer,315,13
+Epi,Y.dk,Population risk time in Denmark,16000,6
+Epi,S.typh,Salmonella Typhimurium outbreak 1996 in Denmark.,136,15
+Epi,N.dk,Population size in Denmark,8200,4
+Epi,M.dk,Mortality in Denmark 1974 ff.,7400,6
+Epi,DMrand,The Danish National Diabetes Register.,10000,7
+Epi,DMlate,The Danish National Diabetes Register.,10000,7
+Epi,DMconv,Conversion to diabetes,1519,6
+Epi,B.dk,Births in Denmark by year and month of birth and sex,1308,4
+EpiContactTrace,transfers,Movement Example Data,70190,6
+esd4all,grm.coef.ealat,Empirical-Statistical Downsacling For All.,144,8
+esd4all,grm.coef.africa,Empirical-Statistical Downsacling For All.,144,8
+esd4all,grm.coef,Empirical-Statistical Downsacling For All.,144,8
+esd4all,gridded.c,Empirical-Statistical Downsacling For All.,50,50
+ESPRESSO,sim.sesp.params,Table of paramaters to simulate sensitivity and specificity values,1,5
+ESPRESSO,obs.data,"Simulated genotypes, phenotypes and enviromental exposure data",10000,11
+ESPRESSO,init.data,"Simulated genotypes, phenotypes and enviromental exposure data",10000,11
+ESPRESSO,general.params,Main parameters of the simulations,2,18
+ESPRESSO,gen.params,Parameters to simulate genetic data,2,14
+ESPRESSO,env.params,Parameters to simulate environmental exposures data,2,19
+evir,bmw,Daily Log Returns on BMW Share Price,6146,1
+evir,danish,Danish Fire Insurance Claims,2167,1
+evir,nidd.annual,The River Nidd Data,35,1
+evir,nidd.thresh,The River Nidd Data,154,1
+evir,siemens,Daily Log Returns on Siemens Share Price,6146,1
+evir,sp.raw,SP Data to June 1993,8415,1
+evir,spto87,SP Return Data to October 1987,6985,1
+exactLoglinTest,titanic.dat,Titanic Survival Data,32,5
+exactLoglinTest,residence.dat,Residence in 1980 by residence in 1985.,16,4
+exactLoglinTest,pathologist.dat,Cross-classification of 118 tumor grades by two pathologists,25,3
+exactLoglinTest,czech.dat,Czech auto workers data,64,7
+exactLoglinTest,alligator.dat,"Data frame of alligator food choice by lake, gender and size.",80,5
+exactRankTests,sal,Serum Antigen Level,20,2
+exactRankTests,rotarod,Rotating Rats Data,24,2
+exactRankTests,ocarcinoma,Ovarian Carcinoma,35,3
+exactRankTests,neuropathy,Acute Painful Diabetic Neuropathy,58,2
+exactRankTests,lungcancer,Lung Cancer Clinical Trial,14,3
+exactRankTests,globulin,Differences in Globulin Fraction in Two Groups,20,2
+exactRankTests,glioma,Malignant Glioma Pilot Study,37,7
+exactRankTests,ears,Survival of Ventilating Tubes,78,5
+exactRankTests,bloodp,Diastolic Blood Pressure,15,2
+exactRankTests,ASAT,Toxicological Study on Female Wistar Rats,34,2
+ExomeDepth,exons.hg19.X,Positions of exons on build hg19 of the human genome and on chromosome X,9292,4
+ExomeDepth,exons.hg19,Positions of exons on build hg19 of the human genome,238054,4
+ExomeDepth,ExomeCount,Example dataset for ExomeDepth,26547,5
+ExPD2D,pds,Sample Data Frame,19,2
+expoRkit,orani,"Australia Economic Model data, 1968-68.",2529,2529
+expsmooth,xrates,Monthly exchange rates,77,2
+expsmooth,unemp.cci,Unemployment and the CCI,100,3
+expsmooth,msales,Monthly product sales,36,2
+expsmooth,jewelry,Weekly jewelry sales,124,314
+expsmooth,hospital,Monthly patient count,84,767
+expsmooth,gasprice,US gasoline prices,191,2
+expsmooth,djiclose,Monthly Dow Jones Index: closing,951,2
+expsmooth,dji,Monthly Dow Jones Index,207,4
+expsmooth,carparts,Monthly sales car parts,51,2674
+extRemes,ftcanmax,"Annual Maximum Precipitation: Fort Collins, Colorado",100,2
+extRemes,damage,Hurricane Damage Data,144,3
+extRemes,Tphap,"Daily Maximum and Minimum Temperature in Phoenix, Arizona.",2666,5
+extRemes,SEPTsp,Daily Maximum and Minimum Temperature,51,9
+extRemes,Rsum,Hurricane Frequency Dataset.,71,4
+extRemes,Potomac,Potomac River Peak Stream Flow Data.,106,2
+extRemes,Peak,Salt River Peak Stream Flow,75,6
+extRemes,PORTw,Daily Maximum and Minimum Temperature,68,9
+extRemes,Ozone4H,Ground-Level Ozone Order Statistics.,513,5
+extRemes,HEAT,"Summer Maximum and Minimum Temperature: Phoenix, Arizona",43,3
+extRemes,FtCoPrec,"Daily precipitation amounts in Fort Collins, Colorado.",36524,5
+extRemes,Flood,United States Total Economic Damage Resulting from Floods,66,5
+extRemes,FCwx,"Fort Collins, Colorado Weather Data",36524,8
+extRemes,Denversp,Denver July hourly precipitation amount.,31247,4
+extRemes,Denmint,Denver Minimum Temperature,18564,5
+FAMT,expression,Gene expressions data frame,9893,43
+FAMT,covariates,Covariates data frame,43,6
+FAMT,annotations,Gene annotations data frame,9893,6
+FAwR,ufc,Upper Flat Creek forest cruise tree data,336,5
+FAwR,sweetgum,Lenhart's sweetgum (Liquidambar styraciflua L.) tree measurement data.,39,8
+FAwR,stage,Stage's Grand fir (Abies grandis (Dougl) Lindl.) tree measurement data,542,11
+FAwR,leuschner,Leuschner harvest schedule yield data,48,4
+FAwR,herbdata,Herbicide trial seedling data,960,8
+FAwR,gutten,von Guttenberg's Norway spruce (Picea abies [L.] Karst) tree measurement data.,1200,9
+fda,seabird,Sea Bird Counts,3793,22
+fda,sampleData (landmark.reg.expData),Experiment data for landmark registration and alignment,1361,2
+fda,refinery,Reflux and tray level in a refinery,194,3
+fda,pinchraw,pinch force data,151,20
+fda,pinch,pinch force data,151,20
+fda,onechild,growth in height of one 10-year-old boy,83,2
+fda,melanoma,melanoma 1936-1972,37,2
+fda,lipmarks (lip),Lip motion,20,2
+fda,lip,Lip motion,51,20
+fda,infantGrowth,Tibia Length for One Baby,40,3
+fda,handwrit,Cursive handwriting samples,1401,20
+fda,gait,Hip and knee angle while walking,20,39
+fda,StatSciChinese,Statistical Science in Chinese,601,50
+fda,MontrealTemp,Montreal Daily Temperature,34,365
+fds,labp,Biscuit dough piece data,4,32
+fds,labc,Biscuit dough piece data,4,40
+FeaLect,mcl_sll,MCL and SLL lymphoma subtypes,22,237
+fExtremes,danishClaims,Time Series Data Sets,2167,2
+fExtremes,bmwRet,Time Series Data Sets,6146,2
+fields,rat.diet,Experiment studying an appetite supressant in rats.,39,3
+fields,lennon,Gray image of John Lennon.,256,256
+fields,WorldBankCO2,Carbon emissions and demographic covariables by country for 1999.,75,5
+FlexParamCurve,tern.data,Field data on growth of common terns Sterna hirundo,1164,12
+FlexParamCurve,posneg.data,Simulated growth of black-browed albatrosses,1300,3
+FlexParamCurve,penguin.data,Field data on growth of little penguins Eudyptula minor,2244,11
+FlexParamCurve,logist.data,Simulated growth of whiskered terns,1100,3
+Flury,wines,Chemical composition of wines,26,16
+Flury,wine.sugar,Sugar adulteration in wine production,344,4
+Flury,vasoc,Vasoconstriction,39,3
+Flury,turtles,Turtle Carapace measurements (Jolicoeur and Mosimann),48,4
+Flury,treesf,Tree data,31,3
+Flury,swiss.heads,Swiss Heads,200,6
+Flury,strider,Skeletal dimensions of water striders,88,6
+Flury,steve,Steve's Basketball Data,20,2
+Flury,snailsf,Aquatic snails hiding behaviour,27,6
+Flury,sibling.heads,Sibling Heads,25,4
+Flury,pipits2,Wing length of water pipits,15,2
+Flury,pipits,Wing length of Water Pipits,17,2
+Flury,midge,Midge Data,15,3
+Flury,microtus,Microtus classification (more vole data),288,9
+Flury,m.twins,Male Twins,89,7
+Flury,lookup,Lookup table,33,1
+Flury,irisf,Edgar Anderson's Iris Data,150,5
+Flury,ghq,General Health Questionnaire Data,17,4
+Flury,flea.beetles,Flea Beetles data,39,5
+Flury,f.voles,Female vole data,86,8
+Flury,f.twins,Female Twins,79,7
+Flury,f.swiss.heads,Female Swiss Heads,59,6
+Flury,electrode,Electrode Manufacture,100,6
+Flury,dogwood,Flowering dogwood trees,39,3
+Flury,dead.beetles,Beetle mortality data,8,3
+Flury,cork,Directional Cork deposit data,28,4
+Flury,computers,Computer Repair Data,14,2
+Flury,challenger,Challenger O Ring Data,23,2
+Flury,basketball,Basketball Data,20,5
+Flury,apples,Apple rootstock data,48,5
+Flury,angels,Angels,10,2
+fma,texasgas,Price and consumption of natural gas,20,2
+fma,running,Running times and maximal aerobic capacity,14,2
+fma,pulpprice,Pulp price and shipments,25,2
+fma,petrol,Sales of petroleum and related product,252,4
+fma,pcv,GDP,19,2
+fma,ozone,Ozone depletion and melanoma rates,11,2
+fma,olympic,Men's 400 m final winning times in each Olympic Games,23,2
+fma,motel,"Total accommodation at hotel, motel and guest house",186,3
+fma,mortal,Mortality,156,2
+fma,kkong,King Kong data,21,2
+fma,ibm,IBM sales and profit,42,4
+fma,housing,Housing data,82,3
+fma,econsumption,Electricity consumption and temperature,12,2
+fma,dexter,Dexterity test and production ratings,20,2
+fma,cement,Cement composition and heat data,10,4
+fma,capital,Quarterly capital expenditure and appropriations,88,2
+fma,boston,Monthly dollar volume of sales,35,2
+fma,books,Sales of paperback and hardcover books,30,2
+fma,bank,Mutual savings bank deposits,60,3
+fma,auto,Attributes of some US and Japanese automobiles,45,4
+fma,advsales,Sales volume and advertising expenditure,36,2
+fma,advert,Sales and advertising expenditure,24,2
+forams,NB,ABC Method Dataset,316,2
+forams,LF,FORAM Index and SHE dataset,29,23
+forams,Factors,FORAM Index Factors,29,1
+forward,wool,Wool data,27,4
+forward,vaso,Vaso data,39,3
+forward,stackloss,Stackloss data,21,4
+forward,salinity,Salinity data,28,4
+forward,rainfall,Rainfall data,34,3
+forward,poison,Poison data,48,3
+forward,ozone,Ozone data,80,9
+forward,mussels,Mussels data,82,5
+forward,molar,Molar data,16,2
+forward,mice,Mice data,14,4
+forward,leafpine,Pine data,70,3
+forward,lakes,Lakes data,29,3
+forward,kinetics,Kinetics data,19,6
+forward,hawkins,Hawkins' data,128,9
+forward,forbes,Forbes data,17,2
+forward,dialectric,Dialectric data,128,3
+forward,derailme,British Train Accidents.,67,5
+forward,chapman,Chapman data,200,7
+forward,cellular,Cellular differentiation data,16,3
+forward,carr,n-Pentane data,24,4
+forward,carinsuk,Car insurance data,128,5
+forward,calcium,Calcium data,27,2
+forward,bliss,Bliss data,8,4
+forward,ar,ar data,60,4
+frailtypack,readmission,Rehospitalization colorectal cancer,861,11
+frailtypack,diabetes,Interval-censored data for time from onset of diabetes to the onset of diabetic nephronpathy,731,3
+frailtypack,dataNested,Simulated data with two levels of grouping,400,7
+frailtypack,dataJointClus,a simulated data for JointCluster.,24413,7
+frailtypack,dataJoint,Simulated data with recurrent events and informative terminal event,1078,7
+frailtypack,dataAdditive,Simulated data as a gathering of clinical trials databases,800,6
+FRB,schooldata,School Data,70,8
+FRB,hemophilia,Hemophilia Data,75,3
+FRB,delivery,Delivery Time Data,25,3
+FRB,ForgedBankNotes,Swiss (forged) bank notes data,100,6
+freqMAP,genotypebyage,Simulated Genotype Data by Age for 4000 Probands and 4000 Controls,8000,5
+frt,tomatoes,Tomato yield example,11,4
+frt,shoes,Boys' shoes data,10,6
+FunNet,yeast.dna,Expression Profiling of the Yeast after Irradiation,5526,43
+FunNet,yeast.cycle,Yeast Cell Cycle Expression Profiling,5154,60
+fwi.fbp,test_fwi,Fire Weather Index Sample Input Data Set,49,10
+fwi.fbp,test_fbp,Fire Behaviour Prediction Sample Data Set,20,24
+GA4Stratification,normal100_10,A randomly generated data,1000,1
+GA4Stratification,iso2004,Net sales data of 487 Turkish manufacturing firms,487,1
+GA4Stratification,chi5,A randomly generated data,1000,1
+GA4Stratification,chi15,A randomly generated data,1000,1
+GA4Stratification,chi10,A randomly generated data,1000,1
+GA4Stratification,chi1,A randomly generated data,1000,1
+GA4Stratification,beta10_3,A randomly generated data,1000,1
+GA4Stratification,P75,Population data of Swedish municipalities,284,1
+GAD,snails,Dataset - Growth rates of snails on large boulders on different rock shores.,240,6
+GAD,rohlf95,Dataset - Mosquitos' wing data colleted by Rohlf and cited in Sokal & Rohlf (1995),24,4
+GAD,rats,Dataset - Glycogen content of rat livers.,36,4
+gamclass,loti,Global temperature anomalies,131,19
+gamclass,german,German credit scoring data,1000,21
+gamclass,fars2008,"US fatal road accident data, 2007 and 2008",64881,24
+gamclass,fars2007,"US fatal road accident data, 2007 and 2008",72548,24
+gamclass,cvalues,Historical speed of light measurements,9,3
+gamclass,FARSmiss,Summary information on records omitted from the 'FARS' dataset,51,7
+gamclass,FARS,"US fatal road accident data for automobiles, 1998 to 2010",151158,17
+gamclass,airAccs,Aircraft Crash data,5666,7
+GANPAdata,gNET,gNET: A comprehensive gene functional association network,16979,NA
+gap,PD,"A study of Parkinson's disease and APOE, LRRK2, SNCA makers",825,22
+gap,aldh2,ALDH2 markers and Alcoholism,263,18
+gap,apoeapoc,APOE/APOC1 markers and Alzheimer's,353,8
+gap,cf,Cystic fibrosis data,186,24
+gap,crohn,Crohn's disease data,387,212
+gap,fa,Friedreich Ataxia data,127,13
+gap,fsnps,A case-control data involving four SNPs with missing genotype,432,10
+gap,hla,The HLA data,271,8
+gap,hr1420,An example data for Manhattan plot with annotation,147849,5
+gap,l51,An example pedigree data,51,6
+gap,lukas,An example pedigree,85,4
+gap,mao,A study of Parkinson's disease and MAO gene,340,19
+gap,meyer,A pedigree data on 282 animals deriving from two generations,306,5
+gap,mfblong,Example data for ACEnucfam,3000,10
+gap,mhtdata,An example data for Manhattan plot,159312,8
+gap,nep499,A study of Alzheimer's disease with eight SNPs and APOE,499,23
+geepack,dietox,Growth curves of pigs in a 3x3 factorial experiment,861,7
+geepack,koch,Ordinal Data from Koch,288,4
+geepack,ohio,Ohio Children Wheeze Status,2148,4
+geepack,respdis,Clustered Ordinal Respiratory Disorder,111,5
+geepack,respiratory,Data from a clinical trial comparing two treatments for a respiratory illness,444,8
+geepack,seizure,Epiliptic Seizures,59,7
+geepack,sitka89,Growth of Sitka Spruce Trees,632,4
+geepack,spruce,Log-size of 79 Sitka spruce trees,1027,6
+GeneReg,wt.expr.data,Time course cell cycle dataset of wild-type cells,1275,30
+GeneReg,mut.expr.data,Time course cell cycle dataset of cyclin-mutant cells,1275,30
+geomapdata,ETOPO5,Etopo5 topographic data,4320,2160
+geomorph,plethland,Landmark data from dataset plethodon,40,24
+geomorph,Specimen4Raw,Raw 3D scan data from scallop shell,10000,3
+GeoXp,mp.school.ps,Midi-pyrennees school agreggated to the pseudo-canton levels,155,7
+GeoXp,mp.school,Midi-pyrennees school,226,13
+GeoXp,immob,Some price indices of real estate from biggest cities in France,94,10
+ggm,surdata,A simulated data set,600,4
+ggm,stress,Stress,4,4
+ggm,marks,Mathematics marks,88,5
+ggm,glucose,Glucose control,68,8
+ggm,anger,Anger data,4,4
+ggplot2,luv_colours,'colors()' in Luv space,657,4
+glmc,flo,Internal glmc Objects,16,16
+gMCP,simvastatin,Simvastatin and Colesevelam Treatment in Patients with Primary Hypercholesterolemia,4,5
+gMCP,hydroquinone,Hydroquinone Mutagenicity Assay,31,2
+gmt,demo.xy,GMT Example Data,3,3
+gmt,demo.text,GMT Example Data,6,7
+gmt,demo.bar,GMT Example Data,3,4
+gmvalid,wynder,"Alcohol, Smoking and Oral Cancer",443,3
+gmvalid,wam,Women and Mathematics,1190,6
+gmvalid,idd35,Type 1 Diabetes susceptibility loci Idd3 and Idd5,313,3
+gmvalid,dp,Death penalty example of Simpson's paradox,326,3
+googleVis,Stock,Stock: googleVis example data set,12,5
+googleVis,Regions,Regions: googleVis example data set,11,4
+googleVis,Population,Population: googleVis example data set,195,7
+googleVis,OpenClose,OpenClose: googleVis example data set,5,5
+googleVis,Fruits,Fruits: googleVis example data set,9,7
+googleVis,Exports,Exports: googleVis example data set,10,3
+googleVis,CityPopularity,CityPopularity: googleVis example data set,6,2
+googleVis,Andrew,Hurricane Andrew: googleVis example data set,47,8
+GrapheR,Swallows,Swallows dataset,120,6
+gRbase,wine,Chemical composition of wine,178,14
+gRbase,reinis,Risk factors for coronary heart disease.,2,2
+gRbase,rats,Weightloss of rats,24,4
+gRbase,milkcomp1,Milk composition data,55,5
+gRbase,milkcomp,Milk composition data,214,7
+gRbase,mildew,Mildew fungus,2,2
+gRbase,mathmark,Mathematics marks for students,88,5
+gRbase,math,Mathematics marks for students,88,5
+gRbase,lizardRAW,Lizard behaviour,409,3
+gRbase,lizardAGG,Lizard behaviour,8,4
+gRbase,lizard,Lizard behaviour,2,2
+gRbase,dumping,Gastric Dumping,3,4
+gRbase,dietox,Growth curves of pigs in a 3x3 factorial experiment,861,7
+gRbase,chestSim50000,Simulated data from the Chest Clinic example,50000,8
+gRbase,chestSim500,Simulated data from the Chest Clinic example,500,8
+gRbase,chestSim100000,Simulated data from the Chest Clinic example,100000,8
+gRbase,chestSim10000,Simulated data from the Chest Clinic example,10000,8
+gRbase,chestSim1000,Simulated data from the Chest Clinic example,1000,8
+gRbase,carcassall,Lean meat contents of 344 pig carcasses,344,17
+gRbase,carcass,Lean meat contents of 344 pig carcasses,344,7
+gRbase,cad2,Coronary artery disease data,67,14
+gRbase,cad1,Coronary artery disease data,236,14
+gRbase,breastcancer,Gene expression signatures for p53 mutation status in 250 breast cancer samples,250,1001
+gRbase,ashtrees,Crown dieback in ash trees,454,9
+gRbase,Nutrimouse,The Nutrimouse Dataset,40,143
+gRbase,BodyFat,Body Fat Data,252,15
+grpreg,birthwt.grpreg,Risk Factors Associated with Low Infant Birth Weight,189,18
+GRRGI,sat2,anovasat Output From Study 2,17,3
+GRRGI,sat1,anovasat Output From Study 1,17,3
+GRRGI,HWstudy2,Gauge R and R: Study 2,40,3
+GRRGI,HWstudy1,Gauge R and R: Study 1,120,3
+GRRGI,GI2,MLGI Output From Study 2,17,4
+GRRGI,GI1,MLGI Output From Study 1,17,4
+gvlma,CarMileageData,Car Mileage Data Recorded at Each Gasoline Fill-Up,205,7
+gwerAM,maizeW,Marker matrix required for \gwerAM()\,277,553
+gwerAM,maizeQ,Population structure matrix required for \gwerAM()\,277,5
+gwerAM,maizeA,Numerator relationship matrix required for \gwerAM()\,277,277
+haplo.ccs,geno (renin),Example Dataset for 'haplo.ccs',1320,12
+hapsim,ACEdata,ACE data set,22,52
+hbmem,sd6,As of yet unpublished dataset,23984,6
+hbmem,prm09,PRM09 Data,46495,5
+HGNChelper,hgnc.table,All current and withdrawn HGNC symbols.,73712,2
+HIBAG,hla.type.table,Four-digit HLA types of a study simulated from HapMap CEU,60,13
+hier.part,urbanwq,Example data for hier.part,15,11
+hier.part,chevan,Example data for hier.part,16,2
+hier.part,amphipod,Example data for hier.part,58,5
+HistData,ZeaMays,Darwin's Heights of Cross- and Self-fertilized Zea May Pairs,15,5
+HistData,YeastD.mat,Student's (1906) Yeast Cell Counts,20,20
+HistData,Yeast,Student's (1906) Yeast Cell Counts,36,3
+HistData,Wheat,Playfair's data on wages and the price of wheat,26,4
+HistData,Snow.streets,John Snow's map and data on the 1854 London Cholera outbreak,1241,4
+HistData,Snow.pumps,John Snow's map and data on the 1854 London Cholera outbreak,13,4
+HistData,Snow.polygons,John Snow's map and data on the 1854 London Cholera outbreak,54,3
+HistData,Snow.deaths,John Snow's map and data on the 1854 London Cholera outbreak,578,3
+HistData,Quarrels,Statistics of Deadly Quarrels,779,84
+HistData,Pyx,Trial of the Pyx,72,4
+HistData,Prostitutes,Parent-Duchatelet's time-series data on the number of prostitutes in Paris,516,5
+HistData,PolioTrials,Polio Field Trials Data,8,6
+HistData,PearsonLee,Pearson and Lee's data on the heights of parents and children classified by gender,746,6
+HistData,OldMaps,Latitudes and Longitudes of 39 Points in 11 Old Maps,468,6
+HistData,Nightingale,Florence Nightingale's data on deaths from various causes in the Crimean War,24,10
+HistData,Minard.troops,Data from Minard's famous graphic map of Napoleon's march on Moscow,51,5
+HistData,Minard.temp,Data from Minard's famous graphic map of Napoleon's march on Moscow,9,4
+HistData,Minard.cities,Data from Minard's famous graphic map of Napoleon's march on Moscow,20,3
+HistData,MichelsonSets,Michelson's Determinations of the Velocity of Light,20,5
+HistData,Michelson,Michelson's Determinations of the Velocity of Light,100,1
+HistData,MacdonellDF,"Macdonell's Data on Height and Finger Length of Criminals, used by Gosset (1908)",3000,2
+HistData,Macdonell,"Macdonell's Data on Height and Finger Length of Criminals, used by Gosset (1908)",924,3
+HistData,Langren1644,van Langren's data on longitude distance between Toledo and Rome,12,9
+HistData,Langren.all,van Langren's data on longitude distance between Toledo and Rome,61,4
+HistData,Jevons,W. Stanley Jevons' data on numerical discrimination,50,4
+HistData,Guerry,"Data from A.-M. Guerry, \Essay on the Moral Statistics of France\",86,23
+HistData,GaltonFamilies,"Galton's data on the heights of parents and their children, by family",934,8
+HistData,Galton,Galton's data on the heights of parents and their children,928,2
+HistData,Fingerprints,Waite's data on Patterns in Fingerprints,36,3
+HistData,DrinksWages,Elderton and Pearson's (1910) data on drinking and wages,70,6
+HistData,Dactyl,Edgeworth's counts of dactyls in Virgil's Aeneid,60,3
+HistData,CushnyPebblesN,Cushny-Pebbles Data: Soporific Effects of Scopolamine Derivatives,11,4
+HistData,CushnyPebbles,Cushny-Pebbles Data: Soporific Effects of Scopolamine Derivatives,11,4
+HistData,ChestSizes,Chest measurements of 5738 Scottish Militiamen,16,2
+HistData,Cavendish,Cavendish's Determinations of the Density of the Earth,29,3
+HistData,Bowley,"Bowley's data on values of British and Irish trade, 1855-1899",45,2
+HistData,Arbuthnot,Arbuthnot's data on male and female birth ratios in London from 1629-1710.,82,7
+HistData,Armada,La Felicisima Armada,10,11
+HistData,Cholera,"William Farr's Data on Cholera in London, 1849",38,15
+HistData,CushnyPeebles,Cushny-Peebles Data: Soporific Effects of Scopolamine Derivatives,11,4
+HistData,CushnyPeeblesN,Cushny-Peebles Data: Soporific Effects of Scopolamine Derivatives,11,4
+HistData,Galton,Galton's data on the heights of parents and their children,898,6
+HistData,GaltonFamilies,"Galton's data on the heights of parents and their children, by child",934,8
+HistData,Guerry,"Data from A.-M. Guerry, ""Essay on the Moral Statistics of France""",86,23
+HistData,HalleyLifeTable,Halley's Life Table,84,4
+HistData,Snow.dates,John Snow's Map and Data on the 1854 London Cholera Outbreak,44,3
+HistData,Snow.deaths2,John Snow's Map and Data on the 1854 London Cholera Outbreak,578,3
+HistData,Wheat,Playfair's Data on Wages and the Price of Wheat,53,3
+HistData,Wheat.monarchs,Playfair's Data on Wages and the Price of Wheat,12,4
+homtest,annualflows,Data-sample,1222,3
+Hotelling,container.df,Container data,20,10
+Hotelling,bottle.df,Bottle data,120,6
+HPbayes,q0 (HPprior),"prior, age groups, lx and dx values",8000,8
+HSAUR,BCG,BCG Vaccine Data,13,7
+HSAUR,BtheB,Beat the Blues Data,100,8
+HSAUR,CYGOB1,CYG OB1 Star Cluster Data,47,2
+HSAUR,Forbes2000,The Forbes 2000 Ranking of the World's Biggest Companies (Year 2004),2000,8
+HSAUR,GHQ,General Health Questionnaire,22,4
+HSAUR,Lanza,Prevention of Gastointestinal Damages,198,3
+HSAUR,agefat,Total Body Composision Data,25,3
+HSAUR,aspirin,Aspirin Data,7,4
+HSAUR,birthdeathrates,Birth and Death Rates Data,69,2
+HSAUR,bladdercancer,Bladder Cancer Data,31,3
+HSAUR,clouds,Cloud Seeding Data,24,7
+HSAUR,epilepsy,Epilepsy Data,236,6
+HSAUR,foster,Foster Feeding Experiment,61,3
+HSAUR,heptathlon,Olympic Heptathlon Seoul 1988,25,8
+HSAUR,mastectomy,Survival Times after Mastectomy of Breast Cancer Patients,44,3
+HSAUR,meteo,Meteorological Measurements for 11 Years,11,6
+HSAUR,orallesions,Oral Lesions in Rural India,8,3
+HSAUR,phosphate,Phosphate Level Data,33,9
+HSAUR,pistonrings,Piston Rings Failures,4,3
+HSAUR,planets,Exoplanets Data,101,3
+HSAUR,plasma,Blood Screening Data,32,3
+HSAUR,polyps,Familial Andenomatous Polyposis,20,3
+HSAUR,polyps3,Familial Andenomatous Polyposis,22,5
+HSAUR,pottery,Romano-British Pottery Data,45,9
+HSAUR,rearrests,Rearrests of Juvenile Felons,2,2
+HSAUR,respiratory,Respiratory Illness Data,444,8
+HSAUR,roomwidth,Students Estimates of Lecture Room Width,113,2
+HSAUR,schizophrenia,Age of Onset of Schizophrenia Data,251,2
+HSAUR,schizophrenia2,Schizophrenia Data,220,4
+HSAUR,schooldays,Days not Spent at School,154,5
+HSAUR,skulls,Egyptian Skulls,150,5
+HSAUR,smoking,Nicotine Gum and Smoking Cessation,26,4
+HSAUR,students,Student Risk Taking,35,3
+HSAUR,suicides,Crowd Baiting Behaviour and Suicides,2,2
+HSAUR,toothpaste,Toothpaste Data,9,7
+HSAUR,voting,House of Representatives Voting Data,25,4
+HSAUR,water,Mortality and Water Hardness,61,4
+HSAUR,watervoles,Water Voles Data,14,14
+HSAUR,waves,Electricity from Wave Power at Sea,18,2
+HSAUR,weightgain,Gain in Weight of Rats,40,3
+HSAUR,womensrole,Womens Role in Society,42,4
+hwde,mendelABC,"Mendel's F2 trifactorial data for seed shape (A), cotyledon color (B) and seed coat color (C)",27,4
+hwde,IndianIrish,"Observed genotype frequencies at MN and S loci, for 2 populations",18,4
+hwde,mendelABC,"Mendel's F2 trifactorial data for seed shape (A: round or wrinkled), cotyledon color (B: albumen yellow or green), and seed coat color (C: grey-brown or white)",27,4
+hydroTSM,EbroPPtsMonthly,Ebro Monthly Precipitation Time Series,120,332
+hydroTSM,EbroPPgis,Spatial location of raingauges on the Ebro River basin,349,7
+hydroTSM,EbroDEM1000m,Digital Elevation Model (DEM) of the Ebro River basin (Spain),168707,1
+hydroTSM,EbroCatchmentsCHE,Subcatchments of the Ebro River basin (Spain),57,4
+ibr,ozone,"Los Angeles ozone pollution data, 1976.",330,9
+ICE,motor.IC,Motorcycle Data with artificial interval-censored responses,133,4
+ICE,ICHemophiliac,Hemophiliac Data Set,96,2
+ICE,ICGG,Gentleman and Geyer's Data,6,2
+IDPmisc,MS,Spectrum Measured by a SELDI TOF Mass Spectrometer,45213,2
+idr,simu.idr,Simulated data,1000,3
+idr,salmon,Salmon data,28,3
+iFad,sigma2,Covariance matrix of the noise term for the drugs,30,30
+iFad,sigma1,Covariance matrix of the noise term for the genes,30,30
+iFad,matrixZ2,Binary indictor matrix for matrixW2,30,10
+iFad,matrixZ1,The binary indicator matrix for matrixW1,30,10
+iFad,matrixY2,The drug sensitivity matrix,30,15
+iFad,matrixY1,The gene expression dataset,30,15
+iFad,matrixX_chain,The updated matrixX in the Gibbs sampling process,5,150
+iFad,matrixX,The factor activity matrix,10,15
+iFad,matrixW2,The factor loading matrix representing the drug-pathway association,30,10
+iFad,matrixW1,The factor loading matrix representing the gene-pathway association,30,10
+iFad,matrixPi2,The bernoulli probability matrix for matrixZ2,30,10
+iFad,matrixPi1,The bernoulli probability matrix for matrixZ1,30,10
+iFad,matrixL2,The matrix representing prior belief for matrixZ2,30,10
+iFad,matrixL1,The matrix representing prior belief for matrixZ1,30,10
+iFad,label_chain,Updated factor label configuration during the Gibbs sampling,5,10
+iFad,Y2_mean,The mean value used for the simulation of matrixY2,30,15
+iFad,Y1_mean,The mean value used for the simulation of matrixY1,30,15
+iid.test,turuhansk.t2m,Data sets.,123,18
+iid.test,thiruvanantha.t2m,Data sets.,167,18
+iid.test,thessaloniki.t2m,Data sets.,112,18
+iid.test,seychelles.t2m,Data sets.,110,18
+iid.test,sao.paulo.t2m,Data sets.,117,18
+iid.test,saentis.t2m,Data sets.,121,18
+iid.test,portland.t2m,Data sets.,131,18
+iid.test,nassau.t2m,Data sets.,149,18
+iid.test,moskva.t2m,Data sets.,225,18
+iid.test,lisboa.t2m,Data sets.,150,18
+iid.test,ishigakijima.t2m,Data sets.,107,18
+iid.test,honululu.t2m,Data sets.,121,18
+iid.test,giss,Data sets.,42,8
+iid.test,funchal.t2m,Data sets.,140,18
+iid.test,concord.t2m,Data sets.,133,18
+iid.test,cet,Data sets.,345,14
+iid.test,buenos.aires.t2m,Data sets.,148,18
+iid.test,bismarck.t2m,Data sets.,129,18
+iid.test,aberdeen.t2m,Data sets.,133,18
+ImpactIV,impact,The data for IMPACT program.,1783,12
+imputeMDR,incomplete,A simulated example data containing missing values,400,11
+IndependenceTests,highschool,"Highschool data on alcohol, cigarette and marijuana use for highschool seniors",8,4
+indicspecies,wetland,Wetland vegetation data set,41,33
+InfDim,fish,Stickleback growth data,53,4
+intcox,intcox.example,Example set for interval censored data with four covariates,200,6
+intcox,AA.data,Shrinkage of aneurisms,149,5
+Interpol,AAindex,AAindex database,533,21
+introgress,p2DataSim2,Parental Population 2 Genotype Data from Simulation 2,100,50
+introgress,p2D,Parental Population 2 Dominant Genotype Data from Simulation 1,110,10
+introgress,p1DataSim2,Parental Population 1 Dominant Genotype Data from Simulation 2,100,50
+introgress,p1D,Parental Population 1 Dominant Genotype Data from Simulation 1,110,10
+introgress,LociDataSim2,Marker Information for Simulation 2,100,2
+introgress,LociDataSim1,Marker Information for Simulation 1,110,4
+introgress,LociD,Dominant Marker Information for Simulation 1,110,4
+introgress,AdmixDom,Admixed Population Dominant Genotype Data from Simulation 1,112,200
+introgress,AdmixDataSim2,Admixed Population Genotype Data from Simulation 2,102,100
+introgress,AdmixDataSim1,Admixed Population Genotype Data from Simulation 1,110,200
+ipred,dystrophy,Detection of muscular dystrophy carriers.,209,10
+ipred,Smoking,Smoking Styles,55,9
+ipred,GlaucomaMVF,Glaucoma Database,170,67
+ipred,GlaucomaM,Glaucoma Database,196,63
+ipred,GBSG2,German Breast Cancer Study Group 2,686,10
+ipred,DLBCL,Diffuse Large B-Cell Lymphoma,40,15
+ISDA.R,mushroom,Mushroom data set,23,7
+ISLR,Auto,Auto Data Set,392,9
+ISLR,Caravan,The Insurance Company (TIC) Benchmark,5822,86
+ISLR,Carseats,Sales of Child Car Seats,400,11
+ISLR,College,U.S. News and World Report's College Data,777,18
+ISLR,Default,Credit Card Default Data,10000,4
+ISLR,Hitters,Baseball Data,322,20
+ISLR,OJ,Orange Juice Data,1070,18
+ISLR,Portfolio,Portfolio Data,100,2
+ISLR,Smarket,S&P Stock Market Data,1250,9
+ISLR,Wage,Mid-Atlantic Wage Data,3000,12
+ISLR,Weekly,Weekly S&P Stock Market Data,1089,9
+isopam,andechs,Fen Meadows,17,110
+isopat,iso_list,Isotope masses and abundances,59,4
+joineR,mental,Mental Health Trial Data,150,11
+joineR,liver,Liver cirrhosis longitudinal data,2969,6
+joineR,heart.valve,Heart Valve surgery,988,25
+joineR,epileptic,Dose calibration of anti-epileptic drugs,2797,11
+kinship2,testped1,testped1,79,4
+kinship2,sample.ped,Two example pedigrees,55,7
+kinship2,minnbreast,Minnesota Breast Cancer Study,28081,15
+kknn,miete,Munich Rent Standard Database (1994),1082,17
+kknn,ionosphere,Johns Hopkins University Ionosphere Database,351,35
+kknn,glass,Glass Identification Database,214,11
+KMsurv,twins,"data from Exercise 7.14, p225",24,4
+KMsurv,tongue,data from Section 1.11,80,3
+KMsurv,stddiag,"data from Exercise 5.6, p146",25,2
+KMsurv,std,data from Section 1.12,877,24
+KMsurv,rats,"data from Exercise 7.13, p225",150,4
+KMsurv,psych,data from Section 1.15,26,4
+KMsurv,pneumon,data from Section 1.13,3470,15
+KMsurv,lung,"data from Exercise 4.4, p120",25,4
+KMsurv,larynx,data from Section 1.8,90,5
+KMsurv,kidtran,data from Section 1.7,863,6
+KMsurv,kidrecurr,Data on 38 individuals using a kidney dialysis machine,38,10
+KMsurv,kidney,data from Section 1.4,119,3
+KMsurv,hodg,data from Section 1.10,43,6
+KMsurv,drughiv,"data from Exercise 7.6, p222",34,3
+KMsurv,drug6mp,data from Section 1.2,21,5
+KMsurv,channing,data from Section 1.16,462,6
+KMsurv,burn,data from Section 1.6,154,18
+KMsurv,btrial,data from Section 1.5,45,3
+KMsurv,bnct,"data from Exercise 7.7, p223",30,3
+KMsurv,bmt,data from Section 1.3,137,22
+KMsurv,bfeed,data from Section 1.14,927,10
+KMsurv,bcdeter,data from Section 1.18,95,3
+KMsurv,baboon,"data from Exercise 5.8, p147",152,3
+KMsurv,azt,"data from Exercise 4.7, p122",45,4
+KMsurv,allograft,"data from Exercise 13.1, p418",34,4
+KMsurv,alloauto,data from Section 1.9,101,3
+KMsurv,aids,data from Section 1.19,295,3
+KMsurv,kidney,data from Section 1.4,76,7
+KMsurv,lung,"data from Exercise 4.4, p120",228,10
+KMsurv,rats,"data from Exercise 7.13, p225",300,5
+laeken,ses,Synthetic SES survey data,15691,27
+laeken,eusilc,Synthetic EU-SILC survey data,14827,28
+Lahman,Xref_Stats,Xref_Stats table,2753,3
+Lahman,TeamsHalf,TeamsHalf table,52,10
+Lahman,TeamsFranchises,TeamFranchises table,120,4
+Lahman,Teams,Teams table,2655,48
+Lahman,SeriesPost,SeriesPost table,256,9
+Lahman,SchoolsPlayers,SchoolsPlayers table,6147,4
+Lahman,Schools,Schools table,749,5
+Lahman,Salaries,Salaries table,21464,5
+Lahman,PitchingPost,PitchingPost table,4284,30
+Lahman,Pitching,Pitching table,40432,30
+Lahman,Master,Master table,17674,35
+Lahman,ManagersHalf,ManagersHalf table,93,10
+Lahman,Managers,Managers table,3238,10
+Lahman,HallOfFame,Hall of Fame table,3913,8
+Lahman,HOFold,HOFold table,289,7
+Lahman,FieldingPost,FieldingPost data,10458,17
+Lahman,FieldingOF,FieldingOF table,12028,6
+Lahman,Fielding,Fielding table,160710,18
+Lahman,BattingPost,BattingPost table,9840,22
+Lahman,Batting,Batting table,93955,24
+Lahman,AwardsSharePlayers,AwardsSharePlayers table,6354,7
+Lahman,AwardsShareManagers,AwardsShareManagers table,344,7
+Lahman,AwardsPlayers,AwardsPlayers table,2679,6
+Lahman,AwardsManagers,AwardsManagers table,57,6
+Lahman,Appearances,Appearances table,94157,20
+Lahman,AllstarFull,AllstarFull table,4676,8
+Lahman,Allstar,All-Star table,4475,3
+Lambda4,Warner,Warner 1960 Social Class Data,6,6
+Lambda4,Rosenberg,Rosenberg Self-Esteem,837,10
+Lambda4,Guttman,Artificial Guttman Scale,5,5
+landsat,07-Nov,Sample Landsat ETM+ data,90000,1
+landsat,Nov-62,Sample Landsat ETM+ data,90000,1
+landsat,Nov-61,Sample Landsat ETM+ data,90000,1
+landsat,05-Nov,Sample Landsat ETM+ data,90000,1
+landsat,04-Nov,Sample Landsat ETM+ data,90000,1
+landsat,03-Nov,Sample Landsat ETM+ data,90000,1
+landsat,02-Nov,Sample Landsat ETM+ data,90000,1
+landsat,01-Nov,Sample Landsat ETM+ data,90000,1
+landsat,07-Jul,Sample Landsat ETM+ data,90000,1
+landsat,Jul-62,Sample Landsat ETM+ data,90000,1
+landsat,Jul-61,Sample Landsat ETM+ data,90000,1
+landsat,05-Jul,Sample Landsat ETM+ data,90000,1
+landsat,04-Jul,Sample Landsat ETM+ data,90000,1
+landsat,03-Jul,Sample Landsat ETM+ data,90000,1
+landsat,02-Jul,Sample Landsat ETM+ data,90000,1
+landsat,01-Jul,Sample Landsat ETM+ data,90000,1
+landsat,dem,Digital Elevation Model,90000,1
+LaplacesDemon,demonsnacks,Demon Snacks Data Set,39,10
+lasso2,Prostate,Prostate Cancer Data,97,9
+lasso2,Iowa,The Iowa Wheat Yield Data,33,10
+Laterality,laterdata,laterdata: data.frame for later-package examples,674,5
+Laterality,lateradata,lateradata: data.frame for later-package examples,674,5
+lattice,barley,Yield data from a Minnesota barley trial,90,3
+lattice,environmental,Atmospheric environmental conditions in New York City,111,4
+lattice,ethanol,Engine exhaust fumes from burning ethanol,88,3
+lattice,melanoma,Melanoma skin cancer incidence,37,2
+lattice,singer,Heights of New York Choral Society singers,235,2
+lava,twindata,Data,4000,7
+lava,serotonin2,Data,250,19
+lava,serotonin,Serotonin data,250,20
+lava,semdata,Data,500,21
+lava,nsem,Data,500,7
+lava,nldata,Data,50,3
+lava,indoorenv,Data,200,13
+lava,hubble2,Data,24,3
+lava,hubble,Data,36,3
+lava,calcium,Longitudinal Bone Mineral Density Data,560,5
+lava,brisa,Data,500,21
+lava,bmidata,Data,552,10
+lava,bmd,Data,112,7
+lavaan,PoliticalDemocracy,Industrialization And Political Democracy Dataset,75,11
+lavaan,HolzingerSwineford1939,Holzinger and Swineford Dataset (9 Variables),301,15
+lavaan,FacialBurns,Dataset for illustrating the InformativeTesting function.,77,6
+lavaan,Demo.growth,Demo dataset for a illustrating a linear growth model.,400,10
+lavaan.survey,ess.dk,"Subset of four variables and interviewer number from the European Social Survey, round 4 (2008) Danish sample.",1546,6
+lawstat,zuni,The Zuni data from the law case: Zuni Public School v. United States Department of Education,89,3
+lawstat,pot,Apertures of chupa-pots from three Philippine communities,343,2
+lawstat,popdata,"Population data in 33 districts of the Tennessee Legislature in 1900, 1960 and 1972",33,3
+lawstat,data1963,Population data of ratio of number of senators and representatives to population size in 1963,23,3
+lawstat,blackhire,Hiring data for eight professions and two races,2,2
+LearnBayes,studentdata,Student dataset,657,11
+LearnBayes,strikeout,Baseball strikeout data,438,4
+LearnBayes,stanfordheart,Data from Stanford Heart Transplanation Program,82,4
+LearnBayes,soccergoals,Goals scored by professional soccer team,35,1
+LearnBayes,sluggerdata,Hitting statistics for ten great baseball players,199,13
+LearnBayes,schmidt,Batting data for Mike Schmidt,18,14
+LearnBayes,puffin,Bird measurements from British islands,38,5
+LearnBayes,marathontimes,Marathon running times,20,1
+LearnBayes,jeter2004,Hitting data for Derek Jeter,154,10
+LearnBayes,iowagpa,Admissions data for an university,40,4
+LearnBayes,hearttransplants,Heart transplant mortality data,94,2
+LearnBayes,footballscores,Game outcomes and point spreads for American football,672,8
+LearnBayes,election.2008,Poll data from 2008 U.S. Presidential Election,51,4
+LearnBayes,election,Florida election data,67,5
+LearnBayes,donner,Donner survival study,45,3
+LearnBayes,darwin,Darwin's data on plants,15,1
+LearnBayes,chemotherapy,Chemotherapy treatment effects on ovarian cancer,26,5
+LearnBayes,cancermortality,Cancer mortality data,20,2
+LearnBayes,calculus.grades,Calculus grades dataset,100,3
+LearnBayes,breastcancer,Survival experience of women with breast cancer under treatment,45,3
+LearnBayes,birthweight,Birthweight regression study,24,3
+LearnBayes,birdextinct,Bird measurements from British islands,62,5
+LearnBayes,bermuda.grass,Bermuda grass experiment data,64,4
+LearnBayes,baseball.1964,Team records in the 1964 National League baseball season,45,4
+LearnBayes,achievement,School achievement data,109,7
+lessR,dataMach4,Data: Machiavellianism Data,351,21
+lessR,dataGroups2,Data: ShipTimes of Two Suppliers,34,2
+lessR,dataEmployee,Data: Employees,37,6
+lessR,dataCars93,Data: Cars93,93,25
+lessR,dataBikeJacket,Data: Motorcycle Type and Thickness of Jacket,1025,2
+lifecontingencies,soaLt,Society of Actuaries life table.,111,2
+lifecontingencies,demoUsa,United States Social Security life tables,114,7
+lifecontingencies,demoUk,UK life tables,74,3
+lifecontingencies,demoJapan,Japan Mortality Rates for life table construction,110,3
+lifecontingencies,demoIta,Italian population life tables for males and females,121,18
+lifecontingencies,demoFrance,French population life tables,113,5
+lifecontingencies,demoChina,China Mortality Rates for life table construction,106,8
+LIStest,CUM.LN,Cumulative distribution of the Ln statistic,90,90
+ljr,kcm,Kentucky yearly cancer mortality from 1999-2005.,7,3
+lme4,Arabidopsis,Arabidopsis clipping/fertilization data,625,8
+lme4,Dyestuff,Yield of dyestuff by batch,30,2
+lme4,Dyestuff2,Yield of dyestuff by batch,30,2
+lme4,InstEval,University Lecture/Instructor Evaluations by Students at ETH,73421,7
+lme4,Pastes,Paste strength by batch and cask,60,4
+lme4,Penicillin,Variation in penicillin testing,144,3
+lme4,VerbAgg,Verbal Aggression item responses,7584,9
+lme4,cake,Breakage Angle of Chocolate Cakes,270,5
+lme4,cbpp,Contagious bovine pleuropneumonia,56,4
+lme4,grouseticks,Data on red grouse ticks from Elston et al. 2001,403,7
+lme4,sleepstudy,Reaction times in a sleep deprivation study,180,3
+lmec,UTIdata,Data set for Unstructured Treatment Interruption Study,373,5
+logcondens,pancreas,Data from pancreatic cancer serum biomarker study,141,3
+logcondens,brightstar,Bright star dataset used to illustrate log-concave density estimation,9110,3
+longRPart,pbkphData,A dataset on the improvement in hearing over time for children with coclear implants,552,6
+LoopAnalyst,submatrix,A Five-Variable Sub-Matrix of the First Five Variables of Dambacher's Matrix,5,5
+LoopAnalyst,cm.levins,"Model of A Resource, An Herbivore, And Two Predators",4,4
+LoopAnalyst,cm.dambacher,A Ten-Variable Trophic Model Of Danish Shallow Lakes,10,10
+LoopAnalyst,cm.DLR,Model of Two Mosquito Life Stages With Predation and Biocontrol,4,4
+LoopAnalyst,cem.levins,Community Effect Matrix For A Four-Variable Trophic Model,4,4
+lsmeans,nutrition,Nutrition data,107,4
+lsmeans,fiber,Fiber data,15,3
+lss,stan,Stanford heart transplantation data,157,5
+maptools,wrld_simpl,Simplified world country polygons,246,11
+maptools,state.vbm,US State Visibility Based Map,50,2
+maptools,SplashDams,Data for Splash Dams in western Oregon,232,6
+mAr,waves,Time series of ocean wave height measurements,4096,2
+mAr,sparrows,Body measurements of sparrows,49,5
+mAr,pinkham,Lydia Pinkham Annual Advertising and Sales data,54,2
+maRketSim,VFITX_prices,"Vanguard Intermediate Treasury Data, as downloaded from Yahoo",3626,7
+maRketSim,VFITX_div,"Vanguard Intermediate Treasury Data, as downloaded from Yahoo",177,2
+MASS,wtloss,Weight Loss Data from an Obese Patient,52,2
+MASS,whiteside,House Insulation: Whiteside's Data,56,3
+MASS,waders,Counts of Waders at 15 Sites in South Africa,15,19
+MASS,topo,Spatial Topographic Data,52,3
+MASS,synth.tr,Synthetic Classification Problem,250,3
+MASS,synth.te,Synthetic Classification Problem,1000,3
+MASS,survey,Student Survey Data,237,12
+MASS,stormer,The Stormer Viscometer Data,23,3
+MASS,steam,The Saturated Steam Pressure Data,14,2
+MASS,snails,Snail Mortality Data,96,6
+MASS,shuttle,Space Shuttle Autolander Problem,256,7
+MASS,ships,Ships Damage Data,40,5
+MASS,rotifer,Numbers of Rotifers by Fluid Density,20,5
+MASS,road,Road Accident Deaths in US States,26,6
+MASS,quine,Absenteeism from School in Rural New South Wales,146,5
+MASS,petrol,N. L. Prater's Petrol Refinery Data,32,6
+MASS,painters,The Painter's Data of de Piles,54,5
+MASS,oats,Data from an Oats Field Trial,72,4
+MASS,npr1,US Naval Petroleum Reserve No. 1 data,104,4
+MASS,npk,"Classical N, P, K Factorial Experiment",24,5
+MASS,nlschools,Eighth-Grade Pupils in the Netherlands,2287,6
+MASS,muscle,Effect of Calcium Chloride on Muscle Contraction in Rat Hearts,60,3
+MASS,motors,Accelerated Life Testing of Motorettes,40,3
+MASS,minn38,Minnesota High School Graduates of 1938,168,5
+MASS,michelson,Michelson's Speed of Light Data,100,3
+MASS,menarche,Age of Menarche in Warsaw,25,3
+MASS,mcycle,Data from a Simulated Motorcycle Accident,133,2
+MASS,mammals,Brain and Body Weights for 62 Species of Land Mammals,62,2
+MASS,leuk,Survival Times and White Blood Counts for Leukaemia Patients,33,3
+MASS,immer,Yields from a Barley Field Trial,30,4
+MASS,housing,Frequency Table from a Copenhagen Housing Conditions Survey,72,5
+MASS,hills,Record Times in Scottish Hill Races,35,3
+MASS,gilgais,Line Transect of Soil in Gilgai Territory,365,9
+MASS,geyser,Old Faithful Geyser Data,299,2
+MASS,genotype,Rat Genotype Data,61,3
+MASS,gehan,Remission Times of Leukaemia Patients,42,4
+MASS,forbes,Forbes' Data on Boiling Points in the Alps,17,2
+MASS,fgl,Measurements of Forensic Glass Fragments,214,10
+MASS,farms,Ecological Factors in Farm Management,20,4
+MASS,epil,Seizure Counts for Epileptics,236,9
+MASS,eagles,Foraging Ecology of Bald Eagles,8,5
+MASS,crabs,Morphological Measurements on Leptograpsus Crabs,200,8
+MASS,cpus,Performance of Computer CPUs,209,9
+MASS,coop,Co-operative Trial in Analytical Chemistry,252,4
+MASS,cement,Heat Evolved by Setting Cements,13,5
+MASS,cats,Anatomical Data from Domestic Cats,144,3
+MASS,caith,Colours of Eyes and Hair of People in Caithness,4,5
+MASS,cabbages,Data from a cabbage field trial,60,4
+MASS,birthwt,Risk Factors Associated with Low Infant Birth Weight,189,10
+MASS,biopsy,Biopsy Data on Breast Cancer Patients,699,11
+MASS,beav2,Body Temperature Series of Beaver 2,100,4
+MASS,beav1,Body Temperature Series of Beaver 1,114,4
+MASS,bacteria,Presence of Bacteria after Drug Treatments,220,6
+MASS,anorexia,Anorexia Data on Weight Change,72,3
+MASS,VA,Veteran's Administration Lung Cancer Trial,137,8
+MASS,UScrime,The Effect of Punishment Regimes on Crime Rates,47,16
+MASS,UScereal,Nutritional and Marketing Information on US Cereals,65,11
+MASS,Traffic,Effect of Swedish Speed Limits on Accidents,184,4
+MASS,Skye,AFM Compositions of Aphyric Skye Lavas,23,3
+MASS,Sitka89,Growth Curves for Sitka Spruce Trees in 1989,632,4
+MASS,Sitka,Growth Curves for Sitka Spruce Trees in 1988,395,4
+MASS,Rubber,Accelerated Testing of Tyre Rubber,30,3
+MASS,Rabbit,Blood Pressure in Rabbits,60,5
+MASS,Pima.tr2,Diabetes in Pima Indian Women,300,8
+MASS,Pima.tr,Diabetes in Pima Indian Women,200,8
+MASS,Pima.te,Diabetes in Pima Indian Women,332,8
+MASS,OME,Tests of Auditory Perception in Children with OME,1097,7
+MASS,Melanoma,Survival from Malignant Melanoma,205,7
+MASS,Insurance,Numbers of Car Insurance claims,64,5
+MASS,GAGurine,Level of GAG in Urine of Children,314,2
+MASS,Cushings,Diagnostic Tests on Patients with Cushing's Syndrome,27,3
+MASS,Cars93,Data from 93 Cars on Sale in the USA in 1993,93,27
+MASS,Boston,Housing Values in Suburbs of Boston,506,14
+MASS,Animals,Brain and Body Weights for 28 Species,28,2
+MASS,Aids2,Australian AIDS Survival Data,2843,7
+MASS,DDT,DDT in Kale,15,1
+MASS,SP500,Returns of the Standard and Poors 500,2783,1
+MASS,abbey,Determinations of Nickel Content,31,1
+MASS,accdeaths,Accidental Deaths in the US 1973-1978,72,2
+MASS,chem,Copper in Wholemeal Flour,24,1
+MASS,deaths,Monthly Deaths from Lung Diseases in the UK,72,2
+MASS,drivers,Deaths of Car Drivers in Great Britain 1969-84,192,2
+MASS,galaxies,Velocities for 82 Galaxies,82,1
+MASS,housing,Frequency Table from a Copenhagen Housing Conditions Survey,1448,4
+MASS,newcomb,Newcomb's Measurements of the Passage Time of Light,66,1
+MASS,ships,Ships Damage Data,40,7
+MASS,shrimp,Percentage of Shrimp in Shrimp Cocktail,18,1
+Matrix,USCounties,USCounties Contiguity Matrix,3111,3111
+Matrix,CAex,Albers' example Matrix with \Difficult\ Eigen Factorization,72,72
+MAVTgsa,data,Example data for MAVTn,16,10
+MAVTgsa,GS,Example data for MAVTn,10,4
+maxstat,treepipit,Tree Pipit Data,86,2
+maxstat,sphase,S-phase fraction of tumor cells,109,3
+maxstat,hohnloser,Left ventricular ejection fraction of patients with malignant ventricular tachyarrhythmias.,94,3
+maxstat,DLBCL,Diffuse large B-cell lymphoma,42,7
+MBCluster.Seq,Count,Sample of Count Data,1000,8
+mcll,samp,Posterior samples of model parameters for the salamander mating model,3000,6
+mcll,salamander,Salamander mating dataset from McCullagh and Nelder (1989),360,10
+mediation,CEDdata,Example Data for the Crossover Encouragement Design,2000,7
+mediation,boundsdata,Example Data for the Design Functions,1000,7
+mediation,framing,"Brader, Valentino and Suhay (2008) Framing Experiment Data",265,15
+mediation,jobs,JOBS II data,899,17
+mediation,school,School-level data,568,5
+mediation,student,Hypothetical student-level data,9679,13
+MEMSS,ergoStool,Ergometrics experiment with stool types,36,3
+MEMSS,Wheat2,Wheat Yield Trials,224,5
+MEMSS,Wheat,Yields by growing conditions,48,4
+MEMSS,Wafer,Modeling of Analog MOS Circuits,400,4
+MEMSS,Theoph,Pharmacokinetics of theophylline,132,5
+MEMSS,Tetracycline2,Pharmacokinetics of tetracycline,40,4
+MEMSS,Tetracycline1,Pharmacokinetics of tetracycline,40,4
+MEMSS,Spruce,Growth of Spruce Trees,1027,4
+MEMSS,Soybean,Growth of soybean plants,412,5
+MEMSS,Remifentanil,Pharmacokinetics of remifentanil,2107,12
+MEMSS,Relaxin,Assay for Relaxin,198,3
+MEMSS,RatPupWeight,The weight of rat pups,322,5
+MEMSS,Rail,Evaluation of Stress in Railway Rails,18,2
+MEMSS,Quinidine,Quinidine Kinetics,1471,14
+MEMSS,Pixel,X-ray pixel intensities over time,102,4
+MEMSS,Phenobarb,Phenobarbitol Kinetics,744,7
+MEMSS,PBG,Effect of Phenylbiguanide on Blood Pressure,60,5
+MEMSS,Oxide,Variability in Semiconductor Manufacturing,72,5
+MEMSS,Ovary,Counts of Ovarian Follicles,308,3
+MEMSS,Orthodont,Growth curve data on an orthdontic measurement,108,4
+MEMSS,Orange,Growth of orange trees,35,3
+MEMSS,Oats,Split-plot Experiment on Varieties of Oats,72,4
+MEMSS,Nitrendipene,Assay of nitrendipene,89,4
+MEMSS,Muscle,Contraction of heart muscle sections,60,3
+MEMSS,Milk,Protein content of cows' milk,1337,4
+MEMSS,Meat,Tenderness of meat,30,4
+MEMSS,MathAchieve,Mathematics achievement scores,7185,6
+MEMSS,MathAchSchool,School demographic data for MathAchieve,160,7
+MEMSS,Machines,Productivity Scores for Machines and Workers,54,3
+MEMSS,IGF,Radioimmunoassay of IGF-I Protein,237,3
+MEMSS,Gun,Methods for firing naval guns,36,4
+MEMSS,Glucose2,Glucose Levels Following Alcohol Ingestion,196,4
+MEMSS,Glucose,Glucose levels over time,378,4
+MEMSS,Gasoline,Refinery yield of gasoline,32,6
+MEMSS,Fatigue,Cracks caused by metal fatigue,262,3
+MEMSS,Earthquake,Earthquake Intensity,182,5
+MEMSS,Dialyzer,High-Flux Hemodialyzer,140,5
+MEMSS,Cefamandole,Pharmacokinetics of Cefamandole,84,3
+MEMSS,CO2,Carbon Dioxide uptake in grass plants,84,5
+MEMSS,BodyWeight,Rat weight over time for different diets,176,4
+MEMSS,Assay,Bioassay on Cell Culture Plate,60,4
+MEMSS,Alfalfa,Split-Plot Experiment on Varieties of Alfalfa,72,4
+meta,cisapride,Cisapride in Non-Ulcer Dispepsia,13,5
+meta,amlodipine,Amlodipine for Work Capacity,8,7
+meta,Olkin95,Thrombolytic Therapy after Acute Myocardial Infarction,70,6
+meta,Fleiss93cont,Mental Health Treatment,5,8
+meta,Fleiss93_CR,Import RevMan 5 data files (.csv),15,1
+meta,Fleiss93,Aspirin after Myocardial Infarction,7,6
+metaLik,vaccine,Data for Bacillus Calmette-Guerin (BCG) vaccine studies.,13,4
+metaLik,education,Open education data.,11,2
+metaLik,diuretics,Diuretics data.,9,2
+metaLik,cholesterol,Serum cholesterol data.,28,3
+metaLik,albumin,Albumin data.,4,2
+mgcv,columb,Reduced version of Columbus OH crime data,49,8
+mi,CHAIN,Subset of variables from the CHAIN project,532,7
+mi,nlsyV,National Longitudinal Survey of Youth Extract,400,7
+MindOnStats,YouthRisk,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,2530,5
+MindOnStats,WtHeightM,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,43,3
+MindOnStats,WatchOut,Data from the Asia-Pacific edition to be published Nov 2010,101,7
+MindOnStats,VisualAcuity,Data from the Asia-Pacific edition to be published Nov 2010,80,8
+MindOnStats,VarianceOfStrength,Data from the Asia-Pacific edition to be published Nov 2010,99,13
+MindOnStats,UCDch5,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,18,5
+MindOnStats,UCDavis2,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,239,14
+MindOnStats,UCDavis1M,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,79,12
+MindOnStats,UCDavis1F,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,94,12
+MindOnStats,UCDavis1,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,173,12
+MindOnStats,UCDWomHt,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,94,4
+MindOnStats,TurkeyPop,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,45,2
+MindOnStats,TimePerception,Data from the Asia-Pacific edition to be published Nov 2010,120,4
+MindOnStats,Textbooks,Data from the Asia-Pacific edition to be published Nov 2010,394,8
+MindOnStats,Temperature,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,20,5
+MindOnStats,SpeedLimit,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,10,3
+MindOnStats,SleepStudy,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,116,2
+MindOnStats,SignDist,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,30,2
+MindOnStats,SATS98,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,51,4
+MindOnStats,RollingFriction,Data from the Asia-Pacific edition to be published Nov 2010,36,4
+MindOnStats,Reflexes,Data from the Asia-Pacific edition to be published Nov 2010,40,9
+MindOnStats,Rainfall,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,47,2
+MindOnStats,PulseMarch,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,40,3
+MindOnStats,ProfBooks,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,15,3
+MindOnStats,PopSong,Data from the Asia-Pacific edition to be published Nov 2010,763,8
+MindOnStats,Physical,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,55,10
+MindOnStats,PerHouse,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,16,2
+MindOnStats,PennState5,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,175,3
+MindOnStats,PennState4,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,75,4
+MindOnStats,PennState3,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,227,7
+MindOnStats,PennState2,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,205,8
+MindOnStats,PennState1M,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,87,9
+MindOnStats,PennState1F,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,103,9
+MindOnStats,PennState1,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,190,9
+MindOnStats,PaperPlanes,Data from the Asia-Pacific edition to be published Nov 2010,144,10
+MindOnStats,MusicCDs,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,24,2
+MindOnStats,Movies,Data from the Asia-Pacific edition to be published Nov 2010,217,8
+MindOnStats,Mobiles,Data from the Asia-Pacific edition to be published Nov 2010,179,10
+MindOnStats,Lifts,Data from the Asia-Pacific edition to be published Nov 2010,384,7
+MindOnStats,Letters,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,63,3
+MindOnStats,IdealWtWomen,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,119,4
+MindOnStats,IdealWtMen,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,63,4
+MindOnStats,IdealWt,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,182,4
+MindOnStats,HumTemp,Data from the Asia-Pacific edition to be published Nov 2010,18,2
+MindOnStats,HoldingBreath,Data from the Asia-Pacific edition to be published Nov 2010,102,14
+MindOnStats,HeightFoot,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,33,2
+MindOnStats,HappyFace,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,89,3
+MindOnStats,HandHeight,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,167,3
+MindOnStats,GoGoGo,Data from the Asia-Pacific edition to be published Nov 2010,100,7
+MindOnStats,GSS93Samp,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,500,11
+MindOnStats,GSS93,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,1606,11
+MindOnStats,Fish,Data from the Asia-Pacific edition to be published Nov 2010,58,4
+MindOnStats,Fashion,Data from the Asia-Pacific edition to be published Nov 2010,821,8
+MindOnStats,Fantasy5.99,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,365,6
+MindOnStats,Fantasy5,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,2318,6
+MindOnStats,Falcon,Data from the Asia-Pacific edition to be published Nov 2010,27,3
+MindOnStats,EggCrush,Data from the Asia-Pacific edition to be published Nov 2010,202,5
+MindOnStats,Deprived,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,86,2
+MindOnStats,Curiosity,Data from the Asia-Pacific edition to be published Nov 2010,153,6
+MindOnStats,ChugTime,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,13,2
+MindOnStats,Cholest,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,30,4
+MindOnStats,Ch4Heights,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,100,2
+MindOnStats,Cereals,Data from the Asia-Pacific edition to be published Nov 2010,43,10
+MindOnStats,Cash5,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,1560,6
+MindOnStats,Carpark,Data from the Asia-Pacific edition to be published Nov 2010,40,5
+MindOnStats,CEOData,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,60,2
+MindOnStats,Bike,Data from the Asia-Pacific edition to be published Nov 2010,945,5
+MindOnStats,BearsFemale,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,19,5
+MindOnStats,Beans,Data sets from the U.S. edition of Mind on Statistics by Utts and Heckard.,15,3
+MindOnStats,Batteries,Data from the Asia-Pacific edition to be published Nov 2010,61,4
+MindOnStats,BMI,Data from the Asia-Pacific edition to be published Nov 2010,99,9
+minerva,Spellman,CDC15 Yeast Gene Expression Dataset,23,4382
+miP,FLAS,Data that was collected to investigate the usefulness of FLAS,279,12
+mirt,Science,Description of Science data,392,4
+mirt,SAT12,Description of SAT12 data,600,32
+mirt,LSAT7,Description of LSAT7 data,32,6
+mixcat,schizo,National Institute of Mental Health shizophrenia study,1603,4
+mixdist,poispar,Starting Values of Parameters for the Poisson Data Set,4,3
+mixdist,poisdat,Grouped Poisson Data,15,2
+mixdist,pikeraw,A Sample of Pike Lengths,523,2
+mixdist,pikepar,Starting Values of Parameters for the Pike Data,5,3
+mixdist,pike65sg,Length-Frequency Data with Subsamples for Heming Lake Pike,25,7
+mixdist,pike65,Length-Frequency Data for Heming Lake Pike,25,2
+mixdist,pikdat5,Heming Lake Pike Data,25,6
+mixdist,pearsonpar,Starting Values of Parameters for the Pearson's Data,2,3
+mixdist,pearson,Karl Pearson's Crab Data,29,2
+mixdist,normals,Scale Mixture Data with Three Normal Components,25,2
+mixdist,fiftn80,A Mixed Data with Fifteen Normal Components,80,2
+mixdist,expdat,A Mixture Data of Three Exponential Distributions,25,2
+mixdist,cassie,Cassie's Length-Frequency Example,40,2
+mixdist,binpar,Starting Values of Parameters for the Binomial Data Set,4,3
+mixdist,bindat,Grouped Binomial Data,21,2
+mixedQF,dental,"Measurements on 11 girls and 16 boys, at 4 different ages",108,4
+mixsmsn,faithful,Old Faithful Geyser Data,272,2
+mixsmsn,bmi,Body Mass Index,2107,1
+MKLE,state,Violent death in the USA,50,2
+MLDS,kktriad,Difference Scale Judgment Data Sets,165,4
+MLDS,kk3,Difference Scale Judgment Data Sets,330,5
+MLDS,kk2,Difference Scale Judgment Data Sets,330,5
+MLDS,kk1,Difference Scale Judgment Data Sets,330,5
+MLDS,Transparency,Difference Scaling of Transparency,2520,6
+MLDS,AutumnLab,Difference Scale Judgement Data Set,210,5
+monomvn,returns.test,Financial Returns data from NYSE and AMEX,12,1168
+monomvn,returns,Financial Returns data from NYSE and AMEX,360,1168
+monomvn,cement.miss,Hald's Cement Data,13,5
+monomvn,cement,Hald's Cement Data,13,5
+moonsun,starcat,Data extracted from Yale bright star catalogue,9110,4
+moonsun,bright,Brighest stars coordinates,23,2
+mosaicData,Alcohol,Alcohol Consumption per Capita,411,4
+mosaicData,Birthdays,US Births in 1969 - 1988,372864,7
+mosaicData,Births,US Births,7305,8
+mosaicData,Births78,US Births in 1978,365,4
+mosaicData,CPS85,Data from the 1985 Current Population Survey (CPS85),534,11
+mosaicData,CoolingWater,CoolingWater,222,2
+mosaicData,Countries,Countries,288,3
+mosaicData,Dimes,Weight of dimes,30,2
+mosaicData,Galton,Galton's dataset of parent and child heights,898,6
+mosaicData,Gestation,Data from the Child Health and Development Studies,1236,23
+mosaicData,GoosePermits,Goose Permit Study,11,3
+mosaicData,HELPfull,Health Evaluation and Linkage to Primary Care,1472,788
+mosaicData,HELPmiss,Health Evaluation and Linkage to Primary Care,470,25
+mosaicData,HELPrct,Health Evaluation and Linkage to Primary Care,453,27
+mosaicData,HeatX,Data from a heat exchanger laboratory,6,7
+mosaicData,KidsFeet,Foot measurements in children,39,8
+mosaicData,Marriage,Marriage records,98,15
+mosaicData,Mites,Mites and Wilt Disease,47,2
+mosaicData,RailTrail,Volume of Users of a Rail Trail,90,10
+mosaicData,Riders,Volume of Users of a Massachusetts Rail Trail,90,12
+mosaicData,SAT,State by State SAT data,50,8
+mosaicData,SaratogaHouses,Houses in Saratoga County (2006),1728,16
+mosaicData,SnowGR,"Snowfall data for Grand Rapids, MI",119,15
+mosaicData,SwimRecords,100 m Swimming World Records,62,3
+mosaicData,TenMileRace,Cherry Blossom Race,8636,5
+mosaicData,Utilities,Utility bills,117,12
+mosaicData,Utilities2,Utility bills,117,19
+mosaicData,Whickham,Data from the Whickham survey,1314,3
+motmot,anolis.data,Anolis data,165,6
+MPV,table.b9,Data Set for Table B9,62,5
+MPV,table.b8,Table B8,36,3
+MPV,table.b7,Data Set for Table B7,16,6
+MPV,table.b6,Data Set for Table B6,28,5
+MPV,table.b5,Data Set for Table B5,27,8
+MPV,table.b4,Table B4,24,10
+MPV,table.b3,Table B3,32,12
+MPV,table.b2,Table B2,29,6
+MPV,table.b14,Table B14,25,6
+MPV,table.b13,Table B13,40,7
+MPV,table.b12,Table B12,32,6
+MPV,table.b11,Table B11,38,7
+MPV,table.b10,Table B10,40,3
+MPV,table.b1,Table B1,28,10
+MPV,stackloss,Stackloss Data,21,4
+MPV,solar,Solar Data,29,6
+MPV,softdrink,Softdrink Data,25,3
+MPV,p9.10,Data Set for Problem 9-10,31,7
+MPV,p8.3,Data Set for Problem 8-3,25,3
+MPV,p8.11,Data Set for Problem 8-11,25,2
+MPV,p7.6,Data Set for Problem 7-6,12,3
+MPV,p7.4,Data Set for Problem 7-4,12,2
+MPV,p7.2,Data Set for Problem 7-2,10,2
+MPV,p7.19,Data Set for Problem 7-19,10,2
+MPV,p7.16,Data Set for Problem 7-16,26,4
+MPV,p7.15,Data Set for Problem 7-15,6,2
+MPV,p7.11,Data Set for Problem 7-11,11,2
+MPV,p7.1,Data Set for Problem 7-1,10,1
+MPV,p5.5,Data Set for Problem 5-5,14,2
+MPV,p5.4,Data Set for Problem 5-4,8,2
+MPV,p5.3,Data Set for Problem 5-3,12,2
+MPV,p5.2,Data Set for Problem 5-2,11,2
+MPV,p5.11,Data Set for Problem 5-11,8,7
+MPV,p5.10,Data Set for Problem 5-10,27,8
+MPV,p5.1,Data Set for Problem 5-1,8,2
+MPV,p4.20,Data Set for Problem 4-20,26,6
+MPV,p4.19,Data Set for Problem 4-19,14,4
+MPV,p4.18,Data Set for Problem 4-18,13,4
+MPV,p2.9,Data Set for Problem 2-9,25,2
+MPV,p2.7,Data Set for Problem 2-7,20,2
+MPV,p2.16,Data Set for Problem 2-16,33,2
+MPV,p2.15,Data Set for Problem 2-15,8,2
+MPV,p2.14,Data Set for Problem 2-14,8,2
+MPV,p2.13,Data Set for Problem 2-13,16,2
+MPV,p2.12,Data Set for Problem 2-12,12,2
+MPV,p2.10,Data Set for Problem 2-10,26,2
+MPV,p15.4,Data Set for Problem 15-4,40,4
+MPV,p14.2,Data Set for Problem 14-2,18,3
+MPV,p14.1,Data Set for Problem 14-1,15,3
+MPV,p13.7,Data Set for Problem 13-7,44,5
+MPV,p13.6,Data Set for Problem 13-6,15,3
+MPV,p13.5,Data Set for Problem 13-5,20,3
+MPV,p13.4,Data Set for Problem 13-4,11,3
+MPV,p13.3,Data Set for Problem 13-3,10,3
+MPV,p13.20,Data Set for Problem 13-20,30,2
+MPV,p13.2,Data Set for Problem 13-2,20,2
+MPV,p13.16,Data Set for Problem 13-16,16,5
+MPV,p13.1,Data Set for Problem 13-1,25,2
+MPV,p12.8,Data Set for Problem 12-8,14,2
+MPV,p12.12,Data Set for Problem 12-12,18,3
+MPV,p12.11,Data Set for Problem 12-11,44,2
+MPV,p11.15,Data set for Problem 11-15,9,2
+MPV,p11.12,Data For Problem 11-12,19,2
+MPV,cement,Cement Data,13,5
+mratios,rat.weight,Body weight of rats in a toxicity study,20,2
+mratios,angina,The angina data set,50,2
+mratios,SRAssay,Slope ratio assay of panthotenic acid contents in plant tissues,34,3
+mratios,Penicillin,Comparing 6 strains with respect to production of antibiotics,48,2
+mratios,Mutagenicity,Mutagenicity assay,31,2
+mratios,BW,Body weights measured in a toxicological study,60,2
+mratios,ASAT,ASAT data,34,2
+mratios,AP,Angina pectoris data,303,2
+mtsdi,miss,Sample Dataset,24,5
+multcomp,waste,Industrial Waste Data Set,30,3
+multcomp,trees513,Frankonian Tree Damage Data,2700,4
+multcomp,sbp,Systolic Blood Pressure Data,69,3
+multcomp,recovery,Recovery Time Data Set,41,2
+multcomp,mtept,Multiple Endpoints Data,111,5
+multcomp,litter,Litter Weights Data Set,74,4
+multcomp,fattyacid,Fatty Acid Content of Bacillus simplex.,93,2
+multcomp,detergent,Detergent Durability Data Set,50,3
+multcomp,cml,Chronic Myelogenous Leukemia survival data.,507,7
+multcomp,cholesterol,Cholesterol Reduction Data Set,50,2
+multcomp,adevent,Adverse Events Data,160,29
+multgee,arthritis,Rheumatoid Arthritis Clinical Trial,906,7
+multgee,housing,Homeless Data,1448,4
+multisensi,plan,A factorial input design for the main example,2187,7
+multisensi,Climat,Climate data,3126,4
+mvnmle,missvals,A multivariate data set with missing values.,13,5
+mvnmle,apple,Worm Infestations in Apple Crops,18,2
+nadiv,warcolak,Pedigree and phenotypic values for a mythical population of Warcolaks,5400,6
+nadiv,Mrode9,"Pedigree, adapted from example 9.1 of Mrode (2005)",12,3
+nadiv,Mrode2,Pedigree from Table 2.1 of Mrode (2005),6,3
+nadiv,FG90,"Pedigree, adapted from Table 1 in Fernando & Grossman (1990)",8,4
+NCBI2R,gwas,Sample gwas data from a fictional project,182135,4
+ncvreg,prostate,Factors associated with prostate specific antigen,97,9
+ncvreg,heart,Risk factors associated with heart disease,462,10
+NestedCohort,zinc,Example Study Nested within a Cohort: Zinc and Esophageal Cancer,431,61
+NetData,task_df (studentnets.S641),M182 - Honors Algerbra II,484,3
+NetData,task_df (studentnets.M182),M182 - Honors Algerbra II,484,3
+NetData,social_df (studentnets.S641),M182 - Honors Algerbra II,484,3
+NetData,social_df (studentnets.M182),M182 - Honors Algerbra II,484,3
+NetData,sem2 (studentnets.peerinfl),"Peerinfl - High school data for 36 classrooms, 25 have 2 semesters",10513,7
+NetData,sem1 (studentnets.peerinfl),"Peerinfl - High school data for 36 classrooms, 25 have 2 semesters",2628,14
+NetData,s641_full_data_frame (studentnets.S641),"S641 - Biology, 11-12th Grade Biology II",484,4
+NetData,reports_to_data_frame (kracknets),Krackhardt's Data on Ties among High-Tech Workers,441,3
+NetData,nodes (studentnets.ergm173),"ergm173 - Math, 10th Grade Honors Trig (same as mrqap173 but different format)",22,5
+NetData,m182_sem2_TSL (studentnets.mrqap182),"mrqap182 - Math, 10th Grade Honors Trig",15,15
+NetData,m182_sem2_SSL (studentnets.mrqap182),"mrqap182 - Math, 10th Grade Honors Trig",15,15
+NetData,m182_sem1_TSL (studentnets.mrqap182),"mrqap182 - Math, 10th Grade Honors Trig",15,15
+NetData,m182_sem1_SSL (studentnets.mrqap182),"mrqap182 - Math, 10th Grade Honors Trig",15,15
+NetData,m182_sem1_SEAT (studentnets.mrqap182),"mrqap182 - Math, 10th Grade Honors Trig",15,15
+NetData,m182_sem1_RCE (studentnets.mrqap182),"mrqap182 - Math, 10th Grade Honors Trig",15,15
+NetData,m182_sem1_GND (studentnets.mrqap182),"mrqap182 - Math, 10th Grade Honors Trig",15,15
+NetData,m182_sem1_FRN (studentnets.mrqap182),"mrqap182 - Math, 10th Grade Honors Trig",15,15
+NetData,m182_full_data_frame (studentnets.M182),M182 - Honors Algerbra II,256,5
+NetData,m173_sem2_TSL (studentnets.mrqap173),"mrqap173 - Math, 10th Grade Honors Trig",26,26
+NetData,m173_sem2_SSL (studentnets.mrqap173),"mrqap173 - Math, 10th Grade Honors Trig",26,26
+NetData,m173_sem1_TSL (studentnets.mrqap173),"mrqap173 - Math, 10th Grade Honors Trig",26,26
+NetData,m173_sem1_SSL (studentnets.mrqap173),"mrqap173 - Math, 10th Grade Honors Trig",26,26
+NetData,m173_sem1_SEAT (studentnets.mrqap173),"mrqap173 - Math, 10th Grade Honors Trig",26,26
+NetData,m173_sem1_RCE (studentnets.mrqap173),"mrqap173 - Math, 10th Grade Honors Trig",26,26
+NetData,m173_sem1_GND (studentnets.mrqap173),"mrqap173 - Math, 10th Grade Honors Trig",26,26
+NetData,m173_sem1_FRN (studentnets.mrqap173),"mrqap173 - Math, 10th Grade Honors Trig",26,26
+NetData,krack_full_data_frame (kracknets),Krackhardt's Data on Ties among High-Tech Workers,441,5
+NetData,friendship_data_frame (kracknets),Krackhardt's Data on Ties among High-Tech Workers,441,3
+NetData,friend_df (studentnets.M182),M182 - Honors Algerbra II,256,3
+NetData,attributes (kracknets),Krackhardt's Data on Ties among High-Tech Workers,21,4
+NetData,advice_data_frame (kracknets),Krackhardt's Data on Ties among High-Tech Workers,441,3
+nga,KBflatfile,Example Earthquake Records from Recent California Earthquakes,1060,45
+nlme,ergoStool,Ergometrics experiment with stool types,36,3
+nlme,bdf,Language scores,2287,28
+nlme,Wheat2,Wheat Yield Trials,224,5
+nlme,Wheat,Yields by growing conditions,48,4
+nlme,Wafer,Modeling of Analog MOS Circuits,400,4
+nlme,Tetracycline2,Pharmacokinetics of tetracycline,40,4
+nlme,Tetracycline1,Pharmacokinetics of tetracycline,40,4
+nlme,Spruce,Growth of Spruce Trees,1027,4
+nlme,Soybean,Growth of soybean plants,412,5
+nlme,Remifentanil,Pharmacokinetics of remifentanil,2107,12
+nlme,Relaxin,Assay for Relaxin,198,3
+nlme,RatPupWeight,The weight of rat pups,322,5
+nlme,Rail,Evaluation of Stress in Railway Rails,18,2
+nlme,Quinidine,Quinidine Kinetics,1471,14
+nlme,Pixel,X-ray pixel intensities over time,102,4
+nlme,Phenobarb,Phenobarbitol Kinetics,744,7
+nlme,PBG,Effect of Phenylbiguanide on Blood Pressure,60,5
+nlme,Oxide,Variability in Semiconductor Manufacturing,72,5
+nlme,Oxboys,Heights of Boys in Oxford,234,4
+nlme,Ovary,Counts of Ovarian Follicles,308,3
+nlme,Orthodont,Growth curve data on an orthdontic measurement,108,4
+nlme,Oats,Split-plot Experiment on Varieties of Oats,72,4
+nlme,Nitrendipene,Assay of nitrendipene,89,4
+nlme,Muscle,Contraction of heart muscle sections,60,3
+nlme,Milk,Protein content of cows' milk,1337,4
+nlme,Meat,Tenderness of meat,30,4
+nlme,MathAchieve,Mathematics achievement scores,7185,6
+nlme,MathAchSchool,School demographic data for MathAchieve,160,7
+nlme,Machines,Productivity Scores for Machines and Workers,54,3
+nlme,IGF,Radioimmunoassay of IGF-I Protein,237,3
+nlme,Gun,Methods for firing naval guns,36,4
+nlme,Glucose2,Glucose Levels Following Alcohol Ingestion,196,4
+nlme,Glucose,Glucose levels over time,378,4
+nlme,Gasoline,Refinery yield of gasoline,32,6
+nlme,Fatigue,Cracks caused by metal fatigue,262,3
+nlme,Earthquake,Earthquake Intensity,182,5
+nlme,Dialyzer,High-Flux Hemodialyzer,140,5
+nlme,Cefamandole,Pharmacokinetics of Cefamandole,84,3
+nlme,BodyWeight,Rat weight over time for different diets,176,4
+nlme,Assay,Bioassay on Cell Culture Plate,60,4
+nlme,Alfalfa,Split-Plot Experiment on Varieties of Alfalfa,72,4
+nonrandom,stu1,Data example stu1,646,9
+nonrandom,pride,Data example pride,3078,15
+nontarget,peaklist,HRMS peak list,11172,3
+nontarget,iso_list,Isotope list,59,5
+nontarget,adduct_list,Adduct list,45,6
+nopp,italy2006.wide,2006 Italian General Election survey,524,15
+nopp,italy2006.lin,2006 Italian General Election survey,438,18
+nopp,italy2006,2006 Italian General Election survey,438,18
+nparcomp,liver,Relative liver weights,38,2
+nparcomp,impla,Numbers of implantations,29,2
+nparcomp,colu,Numbers of corpora lutea,92,2
+npde,virload50,Simulated HIV viral loads in HIV patients,300,5
+npde,virload20,Simulated HIV viral loads in HIV patients,300,5
+npde,virload,Simulated HIV viral loads in HIV patients,300,5
+npde,theopp,Pharmacokinetics of theophylline,132,5
+npde,simvirload,"Simulated data for the computation of normalised prediction distribution errors, viral load example",300000,3
+npde,simtheopp,Simulated data for the computation of normalised prediction distribution errors,13200,3
+nplplot,lods2,LOD score table for chromosome 1,87,5
+nplplot,lods1,LOD score table for chromosome 1,100,5
+nsRFA,parameters (hydroSIMN),Data-sample,47,16
+nsRFA,monthlyflows (hydroSIMN),Data-sample,12648,4
+nsRFA,meanmonthlyflows (hydroSIMN),Data-sample,47,13
+nsRFA,cd (FEH1000),Data-sample,1000,24
+nsRFA,annualflows (hydroSIMN),Data-sample,1222,3
+nsRFA,am (FEH1000),Data-sample,23410,4
+nsRFA,.polig (functionsLaio),Data-sample,20000,2
+nsRFA,.kgev (functionsLaio),Data-sample,5334,2
+Oncotree,ov.cgh,Ovarian cancer CGH data,87,7
+opm,vaas_4,"Example dataset from Vaas et al. (2012), four selected plates",4,384
+opm,vaas_1,"Example dataset from Vaas et al. (2012), a single selected plate",384,96
+opmdata,vaas_et_al,Example dataset from Vaas et al. (2012),114,384
+oposSOM,tissue.data (tissues),Example data set.,38459,12
+ordPens,ICFCoreSetCWP,ICF Core Set for Chronic Widespread Pain,420,68
+ORIClust,Breast,Breast cancer cell line data,1901,50
+ORMDR,sample.dat,sample data,400,21
+paleoMAS,quexilper,Pollen percentages Lake Quexil,68,76
+paleoMAS,quexilchron,Chronology Lake Quexil,3,3
+paleoMAS,modernq,Pollen counts Northern Quebec Treeline,53,55
+paleoMAS,fossilq,Pollen percentages Aluik Pond,9,25
+parfm,reconstitution,Reconstitution of blood-milk barrier after reconstitution,200,5
+parfm,mastitis,Correlated infection times in four cow udder quarters,400,7
+parfm,insemtvc,Time to first insemtvcination in dairy heifer cows with time varying covariates,93608,14
+parfm,insem,Time to first insemination in dairy heifer cows without time varying covariates,10513,8
+parfm,ecf,East Coast Fever transmission dynamics,230,4
+parfm,diagnosis,Diagnosis of fracture healing,212,4
+parfm,culling,Culling of dairy heifer cows,13835,6
+parfm,asthma,Recurrent asthma attacks in children,1776,6
+parser,grammar_symbols,Parser Grammar Symbols,86,3
+partitionMetric,AhRs,Sample data for partitionMetric,7,1001
+pastecs,releve,A data frame of six phytoplankton taxa followed in time at one station,61,8
+pastecs,marphy,Physico-chemical records at the same stations as for marbio,68,4
+pastecs,marbio,Several zooplankton taxa measured across a transect,68,24
+pastecs,bnr,A data frame of 163 benthic species measured across a transect,103,163
+PASWR,wheatUSA2004,USA Wheat Surface 2004,30,2
+PASWR,vit2005,Apartments in Vitoria,218,16
+PASWR,titanic3,Titanic Survival Status,1309,14
+PASWR,sunflower,Sunflower Defoliation,72,5
+PASWR,satfruit,Fruit Trees,47,17
+PASWR,janka,Australian Eucalypt Hardwoods,36,2
+PASWR,glucose,Blood Glucose Levels,15,3
+PASWR,food,Carrot Shear,16,2
+PASWR,fagus,Retained Carbon in Beech Trees,41,3
+PASWR,biomass,Beech Trees,42,4
+PASWR,Wool,Wool Production,15,2
+PASWR,WheatSpain,Wheat Surface Area in Spain,17,3
+PASWR,WeightGain,Weight Gain in Rats,40,3
+PASWR,Water,Sodium Content of Water,30,4
+PASWR,Washer,Washer Diameter,20,1
+PASWR,Wait,Waiting Time,15,1
+PASWR,WCST,Wisconsin Card Sorting Test,50,1
+PASWR,URLaddress,Megabytes Downloaded,30,2
+PASWR,Top20,Tennis Income,15,1
+PASWR,TireWear,Tire Wear,16,3
+PASWR,Tire,Tire Stopping Distances,24,2
+PASWR,TestScores,Statistics Grades,29,1
+PASWR,Tennis,Speed Detector,12,2
+PASWR,TOE,Nuclear Energy,12,1
+PASWR,Swimtimes,Swim Times,14,2
+PASWR,SurfaceSpain,Surface Area for Spanish Communities,17,2
+PASWR,Sundig,Workstation Comparison,5,3
+PASWR,Stschool,School Satisfaction,26,4
+PASWR,StatTemps,Student Temperature,34,3
+PASWR,Soccer,World Cup Soccer,575,3
+PASWR,SimDataXT,Simulated Data (Logarithms),200,4
+PASWR,SimDataST,Simulated Data (Predictors),200,5
+PASWR,Score,Standardized Test Scores,20,1
+PASWR,Schizo,Dopamine Activity,15,2
+PASWR,Salinity,Surface Water Salinity,48,1
+PASWR,SDS4,M1 Motorspeedway Times,40,1
+PASWR,SBIQ,County IQ,40,2
+PASWR,Roacheggs,Oriental Cockroaches,81,1
+PASWR,Refrigerator,Refrigerator Energy Consumption,30,2
+PASWR,Ratbp,Rat Blood Pressure,6,2
+PASWR,Rat,Rat Survival Time,20,1
+PASWR,Phone,Telephone Call Times,23,1
+PASWR,Phenyl,Phenylketonuria,46,4
+PASWR,MilkCarton,Milk Carton Drying Times,40,2
+PASWR,LostR,Lost Revenue Due to Worker Illness,25,2
+PASWR,Leddiode,LED Diodes,15,2
+PASWR,Kinder,Kindergarten Class,20,2
+PASWR,InsurQuotes,Insurance Quotes,15,2
+PASWR,Hubble,Hubble Telescope,15,2
+PASWR,House,House Prices,14,2
+PASWR,HardWater,Mortality and Water Hardness,61,4
+PASWR,HSwrestler,High School Wrestlers,78,9
+PASWR,Grocery,Grocery Spending,30,1
+PASWR,Grades,GPA and SAT Scores,200,2
+PASWR,GD,Times Until Failure,100,1
+PASWR,Formula1,Pit Stop Times,10,3
+PASWR,Fertilize,Cross and Auto Fertilization,15,2
+PASWR,FCD,Fat Cats,36,2
+PASWR,Engineer,Engineer Salaries,51,2
+PASWR,EURD,European Union Research and Development,15,3
+PASWR,EPIDURALf,Traditional Sitting Position Versus Hamstring Stretch Position,342,7
+PASWR,EPIDURAL,Traditional Sitting Position Versus Hamstring Stretch Position,85,7
+PASWR,Drosophila,Drosophila Melanogaster,75,2
+PASWR,Depend,Number of Dependent Children for 50 Families,50,4
+PASWR,Cows,Butterfat of Cows,100,3
+PASWR,CosAma,Cosmed Versus Amatek,14,3
+PASWR,CircuitDesigns,Circuit Design Lifetime,26,2
+PASWR,Chips,Silicon Chips,14,2
+PASWR,Cars2004EU,Cars in the European Union (2004),25,4
+PASWR,Calculus,Calculus Assessment Scores,18,2
+PASWR,Bodyfat,Body Fat Composition,18,3
+PASWR,Battery,Lithium Batteries,50,2
+PASWR,Bac,Blood Alcohol Content,10,2
+PASWR,Baberuth,George Herman Ruth,22,14
+PASWR,AptSize,Apartment Size,8,2
+PASWR,Apple,Apple Hardness,17,2
+PASWR,Aggression,TV and Behavior,16,2
+PBSadmb,ADMBcmd,Database of ADMB Command Scripts,16,8
+PBSmapping,worldLLhigh,Data: Shorelines of the World (High Resolution),187101,4
+PBSmapping,worldLL,Data: Shorelines of the World (Normal Resolution),30129,4
+PBSmapping,towTracks,Data: Tow Track Polylines from Longspine Thornyhead Survey,3136,4
+PBSmapping,towData,Data: Tow Information from Longspine Thornyhead Survey,45,8
+PBSmapping,surveyData,Data: Tow Information from Pacific Ocean Perch Survey,674,9
+PBSmapping,pythagoras,Data: Pythagoras' Theorem Diagram PolySet,66,4
+PBSmapping,nepacLLhigh,Data: Shoreline of the NE Pacific Ocean (High Resolution),192762,4
+PBSmapping,nepacLL,Data: Shoreline of the NE Pacific Ocean (Normal Resolution),75305,4
+PBSmodelling,vbpars,Data: Initial Parameters for a von Bertalanffy Curve,3,3
+PBSmodelling,vbdata,Data: Lengths-at-Age for von Bertalanffy Curve,16,2
+PBSmodelling,CCA.qbr,Data: Sampled Counts of Quillback Rockfish (Sebastes maliger),70,14
+pcse,aglUn,aglUn,230,10
+pcse,agl,agl,240,10
+pcurve,soilspec,Example data for pcurve,45,16
+pcurve,sim4var,Example data for pcurve,100,5
+pcurve,sim10var,Example data for pcurve,99,11
+pcurve,fish,Example data for pcurve,33,12
+pec,cost,Copenhagen Stroke Study,518,15
+pec,GBSG2,German Breast Cancer Study Group 2,686,10
+penalized,nki70,"The 70 gene signature of the Netherlands Cancer Institute for prediction of metastasis-free survival, measured on 144 independent lymph node positive patients.",144,77
+peplib,defaultBaseMatrix,defaultBaseMatrix,24,53
+peplib,blosum90,BLOSUM 90 substitution matrix,24,24
+peplib,blosum62,BLOSUM 62 substitution matrix,24,24
+peplib,blosum50,BLOSUM 50 substitution matrix,24,24
+peplib,TULASequences,TULA-2_Post peptide sequences,97,5
+peplib,SHP2Sequences,SHP-2_N-SH2 peptide sequences,331,6
+peplib,AMPSequences.response,Antimicrobial peptide sequence responses,62,9
+peplib,AMPSequences,Antimicrobial peptide sequences,62,19
+pesticides,pepper,Pesticide residue data for sweet peppers,166,6
+pesticides,pear,Pesticide residue measurements for pears,1962,13
+pesticides,peach,Pesticide residue measurements for peaches,4272,13
+pesticides,appleAll,Full apple data set,1137,15
+pesticides,apple,Pesticide residue measurements for apples,1134,6
+pheno,Simple,Simple example of a two-way classification table,3,4
+pheno,Searle,Example of a two-way classification table,7,7
+pheno,DWD,Phenological observations,235,3
+phenology,Gratiot,Leatherback nest counts from Gratiot et al. (2006) Figure 1,365,2
+phonTools,pb52,Peterson & Barney (1952) Vowel Data,1520,9
+phonTools,h95,Hillenbrand et al. (1995) Vowel Data,1668,8
+PHYLOGR,SimulExample,A simulated data set,918,11
+PHYLOGR,Lacertid.varcov,Variance-covariance matrix for lacertids from Bauwens and Diaz-uriarte (1997),18,18
+PHYLOGR,Lacertid.Original,Bauwens and Diaz-Uriarte (1997) lacertid data,18,8
+PHYLOGR,Lacertid.IC,Independet contrasts for Bauwens and Diaz-Uriarte (1997) lacertid data set,17,8
+PHYLOGR,GarlandJanis.varcov,Phylogenetic variance-covariance matrix for Garland & Janis (1993).,49,49
+PHYLOGR,GarlandJanis.Original,Garland & Janis's 1993 data on mammalian running speed and limb length,49,6
+PHYLOGR,GarlandJanis.IC,Independet contrasts for Garland & Janis data set,48,7
+PL.popN,possum,Mountain Pygmy Possum Capture-Recapture Data Set.,43,4
+PL.popN,mouse,Harvest Mouse Capture-Recapture Data Set.,142,4
+PL.popN,bird,Bird Capture-Recapture Data Set.,164,4
+plm,Cigar,Cigarette Consumption,1380,9
+plm,Crime,Crime in North Carolina,630,24
+plm,EmplUK,Employment and Wages in the United Kingdom,1031,7
+plm,Gasoline,Gasoline Consumption,342,6
+plm,Grunfeld,Grunfeld's Investment Data,200,5
+plm,Hedonic,Hedonic Prices of Census Tracts in the Boston Area,506,15
+plm,LaborSupply,Wages and Hours Worked,5320,7
+plm,Males,Wages and Education of Young Males,4360,12
+plm,Parity,Purchasing Power Parity and other parity relationships,1768,9
+plm,Produc,US States Production,816,11
+plm,RiceFarms,Production of Rice in India,1026,20
+plm,Snmesp,Employment and Wages in Spain,5904,8
+plm,SumHes,"The Penn World Table, v. 5",3250,7
+plm,Wages,Panel Data of Individual Wages,4165,12
+plyr,baseball,Yearly batting records for all major league baseball players,21699,22
+polysat,FCRinfo,Additional Data on Rubus Samples,20,2
+POT,ardieres,High Flood Flows of the Ardieres River at Beaujeu,33237,2
+PowerTOST,ctSJ.VIII.20 (data_parallel),Sample size tables for the parallel group design,12,10
+PowerTOST,ctSJ.VIII.10 (data_parallel),Sample size tables for the parallel group design,12,5
+PowerTOST,ctCW.III (data_parallel),Sample size tables for the parallel group design,32,6
+PowerTOST,ct9.6.8 (data2x4x4),Sample size tables for the 2x4x4 replicate crossover,32,10
+PowerTOST,ct9.6.4 (data2x4x4),Sample size tables for the 2x4x4 replicate crossover,32,6
+PowerTOST,ct9.6.2 (data2x2x3),Sample size tables for the 2x2x3 replicate crossover,32,6
+PowerTOST,ct5.4.1 (data2x2),Sample size tables for the classical 2x2 crossover,32,6
+PowerTOST,ct5.3 (data2x2),Sample size tables for the classical 2x2 crossover,18,9
+PowerTOST,ct5.2 (data2x2),Sample size tables for the classical 2x2 crossover,26,12
+PowerTOST,ct5.1 (data2x2),Sample size tables for the classical 2x2 crossover,26,10
+ppls,cookie,Near-Infrared (NIR) Spectroscopy of Biscuit Doughs,72,704
+ppMeasures,pattEx2,Collection of two 2D patterns,18,3
+ppMeasures,pattEx1,Collection of 2 single dimensional patterns,16,2
+ppMeasures,neurNaive,Collection of cell prototypes from naive cats,3177,3
+ppMeasures,neurCond,Collection of cell prototypes from conditioned cats,2855,3
+ppMeasures,neurBd,Collection of cell prototypes from backwards conditioned cats,752,3
+ppMeasures,collEx2,Collection of two dimensional patterns,134,3
+ppMeasures,collEx1,Collection of one dimensional patterns,332,2
+pps,califcty,California counties,57,6
+pps,calif,California places,1077,6
+ProbForecastGOP,slp,"Sea Level Pressure in the Pacific Northwest for the period Jan. 12, 2000 - Jan. 14, 2000",150,6
+ProbForecastGOP,phase1temp,Temperature in the Pacific Northwest during January-June 2000,56489,6
+ProbForecastGOP,gridlong,Longitudes of localities in the North American Pacific Northwest,10098,1
+ProbForecastGOP,gridlat,Latitudes of localities in the North American Pacific Northwest,10098,1
+ProbForecastGOP,forecast.grid,48-hour Temperature Forecast for the North American Pacific Northwest,10098,1
+pscl,AustralianElectionPolling,"Political opinion polls in Australia, 2004-07",239,14
+pscl,AustralianElections,"elections to Australian House of Representatives, 1949-2007",24,19
+pscl,EfronMorris,"Batting Averages for 18 major league baseball players, 1970",18,7
+pscl,RockTheVote,"Voter turnout experiment, using Rock The Vote ads",85,6
+pscl,UKHouseOfCommons,1992 United Kingdom electoral returns,521,12
+pscl,absentee,Absentee and Machine Ballots in Pennsylvania State Senate Races,22,8
+pscl,admit,Applications to a Political Science PhD Program,106,6
+pscl,bioChemists,article production by graduate students in biochemistry Ph.D. programs,915,6
+pscl,ca2006,California Congressional Districts in 2006,53,13
+pscl,iraqVote,"U.S. Senate vote on the use of force against Iraq, 2002.",100,6
+pscl,politicalInformation,Interviewer ratings of respondent levels of political information,1807,8
+pscl,presidentialElections,"elections for U.S. President, 1932-2012, by state",1047,4
+pscl,prussian,Prussian army horse kick data,280,3
+pscl,unionDensity,cross national rates of trade union density,20,4
+pscl,vote92,Reports of voting in the 1992 U.S. Presidential election.,909,9
+PSCN,Illu0332chr3_mini,TCGA sample 02-0332 Chromosome 3 from Illumina Platform,3777,4
+PSCN,Illu0332chr3,TCGA sample 02-0332 Chromosome 3 from Illumina Platform,37768,4
+PSCN,Illu0258chr2,TCGA sample 02-0258 Chromosome 2 from Illumina Platform,45432,4
+PSCN,AffySW1417chr17,Sample SW1417 Chromosome 17 from Affymetrix Platform,46678,5
+PSCN,Affy1027chr2,TCGA sample 23-1027 Chromosome 2 from Affymetrix Platform,74103,4
+psych,Bechtoldt,Seven data sets showing a bifactor solution.,17,17
+psych,Bechtoldt.1,Seven data sets showing a bifactor solution.,17,17
+psych,Bechtoldt.2,Seven data sets showing a bifactor solution.,17,17
+psych,Dwyer,8 cognitive variables used by Dwyer for an example.,8,8
+psych,Gleser,"Example data from Gleser, Cronbach and Rajaratnam (1965) to show basic principles of generalizability theory.",12,12
+psych,Gorsuch,Example data set from Gorsuch (1997) for an example factor extension.,10,10
+psych,Harman.5,5 socio-economic variables from Harman (1967),12,5
+psych,Harman.8,"Correlations of eight physical variables (from Harman, 1966)",8,8
+psych,Harman.political,Eight political variables used by Harman (1967) as example 8.17,8,8
+psych,Holzinger,Seven data sets showing a bifactor solution.,14,14
+psych,Holzinger.9,Seven data sets showing a bifactor solution.,9,9
+psych,Reise,Seven data sets showing a bifactor solution.,16,16
+psych,Schmid,12 variables created by Schmid and Leiman to show the Schmid-Leiman Transformation,12,12
+psych,Schutz,The Schutz correlation matrix example from Shapiro and ten Berge,9,9
+psych,Thurstone,Seven data sets showing a bifactor solution.,9,9
+psych,Thurstone.33,Seven data sets showing a bifactor solution.,9,9
+psych,Tucker,9 Cognitive variables discussed by Tucker and Lewis (1973),9,9
+psych,ability,16 ability items scored as correct or incorrect.,1525,16
+psych,affect,Two data sets of affect and arousal scores as a function of personality and movie conditions,330,20
+psych,bfi,25 Personality items representing 5 factors,2800,28
+psych,bfi.dictionary,25 Personality items representing 5 factors,28,7
+psych,blot,Bond's Logical Operations Test - BLOT,150,35
+psych,burt,11 emotional variables from Burt (1915),11,11
+psych,cattell,12 cognitive variables from Cattell (1963),12,12
+psych,cities,Distances between 11 US cities,11,11
+psych,cubits,Galton's example of the relationship between height and 'cubit' or forearm length,9,8
+psych,cushny,"A data set from Cushny and Peebles (1905) on the effect of three drugs on hours of sleep, used by Student (1908)",10,7
+psych,epi,Eysenck Personality Inventory (EPI) data for 3570 participants,3570,57
+psych,epi.bfi,13 personality scales from the Eysenck Personality Inventory and Big 5 inventory,231,13
+psych,epi.dictionary,Eysenck Personality Inventory (EPI) data for 3570 participants,57,1
+psych,galton,Galton's Mid parent child height data,928,2
+psych,heights,A data.frame of the Galton (1888) height and cubit data set.,348,2
+psych,income,US family income from US census 2008,44,4
+psych,iqitems,16 multiple choice IQ items,1525,16
+psych,msq,75 mood items from the Motivational State Questionnaire for 3896 participants,3896,92
+psych,neo,NEO correlation matrix from the NEO_PI_R manual,30,30
+psych,peas,Galton's Peas,700,2
+psych,sat.act,"3 Measures of ability: SATV, SATQ, ACT",700,6
+psych,withinBetween,An example of the distinction between within group and between group correlations,16,10
+psychotools,YouthGratitude,Measuring Gratitude in Youth,1405,28
+psychotools,VerbalAggression,Situation-Response Questionnaire on Verbal Aggression,316,4
+psychotools,StereotypeThreat,Stereotype Threat in Dutch Differential Aptitude Test,295,11
+psychotools,SoundQuality,Quality of Multichannel Reproduced Sound,783,6
+psychotools,GermanParties2009,Choice among German Political Parties,192,7
+psychotools,FirstNames,Popularity of First Names,192,11
+psychotree,Topmodel2007,Attractiveness of Germany's Next Topmodels 2007,192,6
+psychotree,SPISA,SPIEGEL Studentenpisa Data (Subsample),1075,6
+psychotree,EuropeanValuesStudy,European Values Study,3584,10
+psychotree,DIFSim,Artificial Data with Differential Item Functioning,200,4
+psychotree,CEMSChoice,CEMS University Choice Data,303,10
+psytabs,myData,Simulated data.,500,7
+PwrGSD,lung,Mayo Clinic Lung Cancer Data,228,10
+qlspack,rat,~~ data name/kind ... ~~,291,6
+qmap,obsprecip,Daily precipitation data at three locations in Norway.,10957,3
+qmap,modprecip,Daily precipitation data at three locations in Norway.,10799,3
+qPCR.CT,cal.CT,Calculate the Final Results with CT values.,3,2
+QSARdata,bbb2_moe3D (bbb2),Blood-Brain Barrier Data,80,66
+QSARdata,bbb2_moe2D_FP (bbb2),Blood-Brain Barrier Data,80,1672
+QSARdata,bbb2_moe2D (bbb2),Blood-Brain Barrier Data,80,230
+QSARdata,bbb2_QuickProp (bbb2),Blood-Brain Barrier Data,80,51
+QSARdata,bbb2_PipelinePilot_FP (bbb2),Blood-Brain Barrier Data,80,2664
+QSARdata,bbb2_Outcome (bbb2),Blood-Brain Barrier Data,80,2
+QSARdata,bbb2_Lcalc (bbb2),Blood-Brain Barrier Data,80,24
+QSARdata,bbb2_Dragon (bbb2),Blood-Brain Barrier Data,80,1456
+QSARdata,bbb2_Daylight_FP (bbb2),Blood-Brain Barrier Data,80,501
+QSARdata,bbb2_AtomPair (bbb2),Blood-Brain Barrier Data,80,501
+QSARdata,Mutagen_Dragon (Mutagen),Mutagenicity Data,4335,1579
+QSARdata,MP_Descriptors (MeltingPoint),Melting Point Data,4401,202
+QSARdata,AquaticTox_moe3D (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,66
+QSARdata,AquaticTox_moe2D_FP (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,1466
+QSARdata,AquaticTox_moe2D (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,221
+QSARdata,AquaticTox_QuickProp (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,50
+QSARdata,AquaticTox_PipelinePilot_FP (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,2439
+QSARdata,AquaticTox_Outcome (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,2
+QSARdata,AquaticTox_Lcalc (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,24
+QSARdata,AquaticTox_Dragon (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,1416
+QSARdata,AquaticTox_Daylight_FP (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,501
+QSARdata,AquaticTox_AtomPair (AquaticTox),Fathead Minnow Acute Aquatic Toxicity,322,469
+QT,qtpk,QT dataset,2061,23
+QuACN,chemicalElements,Information about chemical elements,117,3
+quantreg,Bosco,Boscovich Data,5,2
+quantreg,CobarOre,Cobar Ore data,38,3
+quantreg,Mammals,Garland(1983) Data on Running Speed of Mammals,107,4
+quantreg,barro,Barro Data,161,14
+quantreg,engel,Engel Data,235,2
+quantreg,gasprice,Time Series of US Gasoline Prices,695,2
+quantreg,uis,UIS Drug Treatment study data,575,18
+RadioSonde,ExampleSonde,Example of radiosonde observations,471,9
+RAMpath,ex3,Example data set 3,300,12
+RAMpath,ex2,Example data set 2,1114,5
+RAMpath,ex1,Example data set 1,45,3
+RandomFields,weather,Pressure and temperature forecast errors over the Pacific Northwest,157,4
+RandomFields,soil,"Soil data of North Bavaria, Germany",201,9
+randomForest,imports85,The Automobile Data,205,26
+randomForestSRC,wihs,Women's Interagency HIV Study (WIHS),1164,6
+randomForestSRC,veteran,Veteran's Administration Lung Cancer Trial,137,8
+randomForestSRC,vdv,van de Vijver Microarray Breast Cancer,78,4707
+randomForestSRC,pbc,Primary Biliary Cirrhosis (PBC) Data,418,19
+randomForestSRC,hd,Hodgkin's Disease,865,8
+randomForestSRC,follic,Follicular Cell Lymphoma,541,7
+randomForestSRC,breast,Wisconsin Prognostic Breast Cancer Data,198,33
+Rearrangement,GrowthChart,Age and Height of White Males,533,3
+reldist,recent (nls),Permanent wage growth in two cohorts of the NLS,2103,3
+reldist,original (nls),Permanent wage growth in two cohorts of the NLS,1834,3
+repolr,achilles,Achilles Tendon Rupture,144,4
+repolr,HHSpain,Harris Hip Pain Scores,174,4
+reshape2,french_fries,Sensory data from a french fries experiment.,696,9
+reshape2,smiths,Demo data describing the Smiths.,2,5
+reshape2,tips,Tipping data,244,7
+ResistorArray,SquaredSquare,A Squared square,13,13
+Rfit,telephone,Telephone Data,24,2
+Rfit,quail,Quail Data,39,2
+Rfit,ffa,Free Fatty Acid Data,41,4
+Rfit,bbsalaries,Baseball Salaries,176,8
+Rfit,baseball,The World Famous Baseball Data,59,6
+Rfit,BoxCox,Box and Cox (1964) data.,48,3
+RFLPtools,RFLPref,Example data set for RFLP reference,35,5
+RFLPtools,RFLPdata,Example data set for RFLP data,737,4
+RFLPtools,BLASTdata,Example data set for BLAST data,4069,12
+rgam,ili.visits,Influenza-like-illness outpatient visits.,99,3
+RGCCA,Russett,Russett data set,47,12
+rgr,triples.test2,North American Geochemical Soil Landscapes Project QA/QC data,186,3
+rgr,triples.test1,North American Geochemical Soil Landscapes Project QA/QC data,27,3
+rgr,sind.mat2open,Sinding-Larsen Norwegian Stream Sediment Test Data Set,25,6
+rgr,sind,Sinding-Larsen Norwegian Stream Sediment Test Data Set,25,9
+rgr,ogrady.mat2open,"Lithogeochemical Data Set from the O'Grady Pluton, NWT, 1970",110,10
+rgr,ogrady,"Lithogeochemical Data Set from the O'Grady Pluton, NWT, 1970",110,24
+rgr,ms.data3,Measurement Variability Test Data,32,2
+rgr,ms.data2,Measurement Variability Test Data,32,2
+rgr,ms.data1,Measurement Variability Test Data,16,3
+rgr,kola.o,Kola Project O-horizon Soil Data,617,44
+rgr,kola.c,Kola Project C-horizon Soil Data,606,42
+rgr,fix.test.asis,Test Data for Function ltdl.fix.df,15,5
+rgr,fix.test,Test Data for Function ltdl.fix.df,15,4
+rgr,crm.test,National Geochemical Reconnaissance survey QA/QC data,97,2
+rgr,ad.test,National Geochemical Reconnaissance survey QA/QC data,160,2
+riv,mortality,Mortality rate data,60,8
+riv,earthquake,Alaskan earthquakes data,62,3
+Rivivc,resp,PK profile after drug oral administration,19,2
+Rivivc,input,In vivo absorption of the drug,19,2
+Rivivc,impulse,PK profile after drug intravenous administration,19,2
+rmeta,cochrane,Data for Cochrane Collaboration logo,7,5
+rmeta,catheter,Meta-analysis of antibacterial catheter coating,15,7
+rminer,sin1reg,sin1 regression dataset,1000,4
+rminer,sa_tree,Synthetic regression and classification datasets for measuring input importance of supervised learning models,1000,5
+rminer,sa_ssin_n2p,Synthetic regression and classification datasets for measuring input importance of supervised learning models,1000,5
+rminer,sa_ssin,Synthetic regression and classification datasets for measuring input importance of supervised learning models,1000,5
+rminer,sa_psin,Synthetic regression and classification datasets for measuring input importance of supervised learning models,1000,5
+rminer,sa_int2_8p,Synthetic regression and classification datasets for measuring input importance of supervised learning models,1000,5
+rminer,sa_int2_3c,Synthetic regression and classification datasets for measuring input importance of supervised learning models,1000,5
+rminer,sa_int2,Synthetic regression and classification datasets for measuring input importance of supervised learning models,1000,5
+rminer,sa_fri1,Synthetic regression and classification datasets for measuring input importance of supervised learning models,1000,11
+robustbase,Animals2,Brain and Body Weights for 65 Species of Land Animals,65,2
+robustbase,CrohnD,Crohn's Disease Adverse Events Data,117,9
+robustbase,NOxEmissions,NOx Air Pollution Data,8088,4
+robustbase,SiegelsEx,Siegel's Exact Fit Example Data,9,2
+robustbase,aircraft,Aircraft Data,23,5
+robustbase,airmay,Air Quality Data,31,4
+robustbase,alcohol,Alcohol Solubility in Water Data,44,7
+robustbase,ambientNOxCH,Daily Means of NOx (mono-nitrogen oxides) in air,366,14
+robustbase,biomassTill,Biomass Tillage Data,58,4
+robustbase,bushfire,Campbell Bushfire Data,38,5
+robustbase,carrots,Insect Damages on Carrots,24,4
+robustbase,cloud,Cloud point of a Liquid,19,2
+robustbase,coleman,Coleman Data Set,20,6
+robustbase,condroz,Condroz Data,428,2
+robustbase,cushny,Cushny and Peebles Prolongation of Sleep Data,10,7
+robustbase,delivery,Delivery Time Data,25,3
+robustbase,education,Education Expenditure Data,50,6
+robustbase,epilepsy,Epilepsy Attacks Data Set,236,6
+robustbase,exAM,Example Data of Antille and May - for Simple Regression,12,2
+robustbase,foodstamp,Food Stamp Program Participation,150,4
+robustbase,hbk,"Hawkins, Bradu, Kass's Artificial Data",75,4
+robustbase,heart,Heart Catherization Data,172,8
+robustbase,kootenay,Waterflow Measurements of Kootenay River in Libby and Newgate,13,2
+robustbase,lactic,Lactic Acid Concentration Measurement Data,20,2
+robustbase,milk,Daudin's Milk Composition Data,86,8
+robustbase,pension,Pension Funds Data,18,2
+robustbase,phosphor,Phosphorus Content Data,18,3
+robustbase,pilot,Pilot-Plant Data,20,2
+robustbase,possumDiv,Possum Diversity Data,151,9
+robustbase,pulpfiber,Pulp Fiber and Paper Data,62,8
+robustbase,radarImage,Satellite Radar Image Data from near Munich,1573,5
+robustbase,salinity,Salinity Data,28,4
+robustbase,starsCYG,Hertzsprung-Russell Diagram Data of Star Cluster CYG OB1,47,2
+robustbase,telef,Number of International Calls from Belgium,24,2
+robustbase,toxicity,Toxicity of Carboxylic Acids Data,38,10
+robustbase,vaso,Vaso Constriction Skin Data Set,39,3
+robustbase,wagnerGrowth,Wagner's Hannover Employment Growth Data,63,7
+robustbase,wood,Modified Data on Wood Specific Gravity,20,6
+ROCwoGS,score,score data,4214,3
+rpart,stagec,Stage C Prostate Cancer,146,8
+rpart,solder,Soldering of Components on Printed-Circuit Boards,720,6
+rpart,kyphosis,Data on Children who have had Corrective Spinal Surgery,81,4
+rpart,cu.summary,Automobile Data from 'Consumer Reports' 1990,117,5
+rpart,car.test.frame,Automobile Data from 'Consumer Reports' 1990,60,8
+rpart,car90,Automobile Data from 'Consumer Reports' 1990,111,34
+rpart.plot,ptitanic,Titanic data with passenger names and other details removed.,1309,6
+rugarch,sp500ret,data: Standard and Poors 500 Closing Value Log Return,5523,1
+rugarch,dmbp,data: Deutschemark/British pound Exchange Rate,1974,2
+rugarch,dji30ret,data: Dow Jones 30 Constituents Closing Value Log Return,5521,30
+Rvelslant,tt.s,P- and S-Wave Travel Time Measurements,5364,5
+Rvelslant,tt.p,P- and S-Wave Travel Time Measurements,5151,5
+rworldmap,gridExData,Example half degree grid data : population estimates for 2000 from IIASA,259200,1
+rworldmap,gridCountriesNumeric,A gloabl half degree grid specifying the country at each cell,259200,1
+rworldmap,countrySynonyms,Synonyms of country names for each ISO 3 letter country code to enable conversion.,282,10
+rworldmap,countryRegions,Regional Classification Table,253,17
+rworldmap,countryExData,Example dataset for country level data (2008 Environmental Performance Index),149,80
+rworldmap,countriesLow,"a low resolution world map, a vector map of 244 country boundaries, suitable for zooming in on regions or large global maps",243,49
+rworldmap,countriesCoarseLessIslands,"a coarse resolution world map, a vector map of 177 country boundaries, suitable for global maps",177,49
+rworldmap,countriesCoarse,"a coarse resolution world map, a vector map of 244 country boundaries,suitable for global maps",243,49
+rworldmap,coastsCoarse,A map of world coasts at coarse resolution.,134,2
+sabreR,tu,Binary Response Model,1633,11
+sabreR,schiz,Ordered Response Model,1603,8
+sabreR,growth,Continuos Response Growth Model,153,8
+sabreR,drvisits,Count Response Model,2227,10
+samplingVarEst,oaxaca,Municipalities of the state of Oaxaca in Mexico,570,41
+sandwich,PublicSchools,US Expenditures for Public Schools,51,2
+sas7bdat,sas7bdat.sources,Internet SAS Database Resources,263,16
+sdef,Liver.Muscle,Diabetes susceptibility in liver and skeletal muscle of mice.,2912,2
+sdef,Example3Lists,Molecular Differences between Mammalian Sexes.,6477,3
+seacarb,seacarb_test_P300,Test data file (at P=300) to test the use of the carb function,20,8
+seacarb,seacarb_test_P0,Test data file (at P=0) to test the use of the carb function,20,8
+seacarb,alkalinity,Example data file for function at,29,8
+seacarb,Pcoeffs,Coefficients used for pressure-correcting the equilibrium constants,14,7
+secr,trapXY (secrdemo),SECR Models Fitted to Demonstration Data,100,3
+secr,stoatCH (stoatDNA),Stoat DNA Data,20,7
+secr,signalCH (ovensong),Ovenbird Acoustic Dataset,76,1
+secr,possumremovalarea (possum),Brushtail Possum Trapping Dataset,116,2
+secr,possummask (possum),Brushtail Possum Trapping Dataset,5120,2
+secr,possumarea (possum),Brushtail Possum Trapping Dataset,152,2
+secr,possumCH (possum),Brushtail Possum Trapping Dataset,112,5
+secr,housemouse,House mouse live trapping data,173,10
+secr,hornedlizardCH (hornedlizard),Flat-tailed Horned Lizard Dataset,68,14
+secr,deermouse.WSG (deermouse),Deermouse Live-trapping Datasets,51,6
+secr,deermouse.ESG (deermouse),Deermouse Live-trapping Datasets,38,6
+secr,captdata (secrdemo),SECR Models Fitted to Demonstration Data,76,5
+secr,captXY (secrdemo),SECR Models Fitted to Demonstration Data,235,5
+secr,LStraps (skink),Skink Pitfall Data,462,2
+sem,Bollen,Bollen's Data on Industrialization and Political Democracy,75,11
+sem,CNES,Variables from the 1997 Canadian National Election Study,1529,4
+sem,Klein,Klein's Data on the U. S. Economy,22,10
+sem,Kmenta,Partly Artificial Data on the U. S. Economy,20,5
+sem,Tests,Six Mental Tests,32,6
+SemiPar,ustemp,U.S. temperature data,56,4
+SemiPar,trade.union,Trade union data,534,11
+SemiPar,term.structure,Term structure data,117,2
+SemiPar,sitka,Sitka spruce data,1027,5
+SemiPar,scallop,Scallop abundance data,148,3
+SemiPar,sausage,Sausage data,54,3
+SemiPar,salinity,Salinity data,28,4
+SemiPar,retire.plan,Retirement plan data,92,10
+SemiPar,ragweed,Ragweed data,335,6
+SemiPar,pig.weights,Pig weight data,432,3
+SemiPar,onions,Onions data,84,3
+SemiPar,monitor.mercury,Mercury biomonintoring data,22,3
+SemiPar,milan.mort,Milan mortality data,3652,9
+SemiPar,lidar,LIDAR data,221,2
+SemiPar,janka,Janka hardness data,36,2
+SemiPar,fuel.frame,Automobile data from consumer reports,60,6
+SemiPar,fossil,Fossil data,106,2
+SemiPar,ethanol,Ethanol data,88,3
+SemiPar,elec.temp,Electricity usage and temperature data,55,2
+SemiPar,copper,Copper data,442,8
+SemiPar,calif.air.poll,California air polution data,345,4
+SemiPar,bpd,Bronchopulmonary dysplasia data,223,2
+SemiPar,age.income,Age/income data,205,2
+semPLS,mobi,Measurement Instrument for the Mobile Phone Industry,250,24
+semPLS,mobi (ECSImobi),Measurement Instrument for the Mobile Phone Industry,250,24
+semPLS,hanafi2007,Hanafi (2007): Example Data,10,11
+semPLS,ECSIsm,Measurement Instrument for the Mobile Phone Industry,12,2
+semPLS,ECSIsm (ECSImobi),Measurement Instrument for the Mobile Phone Industry,12,2
+semPLS,ECSImm (ECSImobi),Measurement Instrument for the Mobile Phone Industry,24,2
+semPLS,ECSImm,Measurement Instrument for the Mobile Phone Industry,24,2
+semTools,simParcel,Simulated Data set to Demonstrate Random Allocations of Parcels,800,18
+semTools,exLong,Simulated Data set to Demonstrate Longitudinal Measurement Invariance,200,10
+semTools,dat3way,Simulated Dataset to Demonstrate Three-way Latent Interaction,1000,12
+semTools,dat2way,Simulated Dataset to Demonstrate Two-way Latent Interaction,10000,9
+seqCBS,JSSim_TumorSim2,Simulated Tumor sample dataset 2,16225,3
+seqCBS,JSSim_TumorSim1,Simulated Tumor sample dataset 1,16452,3
+seqCBS,JSSim_SpikeMat,True Signal Spike for the Simulated Dataset,5,5
+seqCBS,JSSim_NormalSim2,Simulated normal sample dataset 2,15206,3
+seqCBS,JSSim_NormalSim1,Simulated normal sample dataset 1,15193,3
+seqCBS,JSSim_Meta,Meta File for Simulated Datasets,4,3
+seqRFLP,enzdata,The restriction enzyme datasets.,777,2
+seriation,Zoo,Zoo database,101,17
+seriation,Townships,Bertin's Characteristics and Townships Data Set,16,9
+seriation,Psych24,Psych24 - 24 psychological tests,24,24
+seriation,Munsingen,Hodson's Munsingen Data Set,59,70
+seriation,Irish,Irish data,41,9
+sfsmisc,potatoes,Fisher's Potato Crop Data,64,5
+sifds,kpix.outcome (sifds),Swedish KPIX inflation 1999:M05-2007:M07,99,1
+sifds,cpi.outcome (sifds),Swedish CPI inflation 1999:M05-2007:M07,99,1
+SightabilityModel,sampinfo.m,Data set containing sampling information for observation survey of moose in MN,12,4
+SightabilityModel,obs.m,MN moose survey data,805,10
+SightabilityModel,gdat,Mountain Goat Survey Data from Olympic National park,77,6
+SightabilityModel,exp.m,Experimental (test trials) data set used to estimate detection probabilities for moose in MN,124,4
+SimComp,coagulation,Data from a clinical study of three sets of extracorporeal circulation in heart-lung machines,35,5
+SimultAnR,traffic,Traffic dataset,11,18
+SimultAnR,shoplifting,Shoplifting dataset,13,18
+SiZer,Arkansas,Time Series of Macroinvertabrates Abundance in the Arkansas River.,90,2
+SMIR,woolson,Woolson and Clarke's Obesity Study,48,4
+SMIR,vietnam,University of North Carolina Vietnam War Student Survey,40,4
+SMIR,vaso,Gilliatt's vaso-constriction data,39,4
+SMIR,trypanos,The trypanosome data,8,3
+SMIR,trees,The Minitab cherry tree data,31,3
+SMIR,toxoplas,Toxoplasmosis in El Salvador,34,3
+SMIR,toxaemia,Bradford toxaemia data,60,4
+SMIR,statlab,STATLAB census data,1296,34
+SMIR,stan,Stanford Heart Transplantation Programme,65,12
+SMIR,stackloss,The Brownlee stackloss data,21,4
+SMIR,solv,Children's block design test,24,4
+SMIR,prentice,Veteran's Administration Lung Cancer Trial,137,8
+SMIR,poison,Box Cox Poison Dataset,48,3
+SMIR,miners,Pneumoconiosis in coal miners,8,4
+SMIR,lsat,LSAT,32,7
+SMIR,insult,Effects of unprovoked verbal attack,19,8
+SMIR,hostility,Bennett's hostility data,67,10
+SMIR,ghq,Psychiatric diagnosis based on GHQ,22,4
+SMIR,gehan,Remission times of acute leukemia patients - Gehan et al,42,4
+SMIR,feigl,Leukaemia survival times - Feigl & Zelen,33,3
+SMIR,faults,Faults in rolls of material,32,2
+SMIR,claims,Insurance claims data,64,5
+SMIR,chd,Coronary heart disease,16,4
+SMIR,cars,Performance data for cars from Motor Trend magazine,32,12
+SMIR,byssinosis,Byssinosis in the cotton industry,72,7
+SMIR,bronchit,Chronic bronchitis in a sample of mean in Cardiff,212,3
+SMIR,betablok,Beta-blockers for myocardial infarction,44,4
+sna,coleman,Coleman's High School Friendship Data,2,73
+sp,meuse.riv,River Meuse outline,176,2
+sp,meuse.grid_ll,"Prediction Grid for Meuse Data Set, geographical coordinates",3103,5
+sp,meuse.grid,Prediction Grid for Meuse Data Set,3103,7
+sp,meuse,Meuse river data set,155,14
+sp,Rlogo,Rlogo jpeg image,101,77
+spaa,testdata,Data used in example,11,3
+spaa,splist,species list used in function add.col(),9,3
+spaa,datasample,community matrix example,8,14
+spacetime,rural (air),"Air quality data, rural background PM10 in Germany, daily averages 1998-2009",70,4383
+spacetime,fires,Northern Los Angeles County Fires,313,3
+spacetime,DE_NUTS1 (air),"Air quality data, rural background PM10 in Germany, daily averages 1998-2009",16,16
+spartan,OAT_Sampling_maxVCAMeffectProbabilityCutoff_Values,Utility: Sample Data,19,1
+spartan,OAT_Sampling_chemoThreshold_Values,Utility: Sample Data,9,1
+spartan,OAT_Example_ATests_chemoLowerLinearAdjust,Utility: Sample Data,14,1
+spartan,LHC_Parameters_for_Runs,Utility: Sample Data,65,1
+spartan,EgSet_eFAST_Analysis,Utility: Sample Data,7,1
+spartan,EgSet_eFAST_AllResults,Utility: Sample Data,65,1
+spartan,EgSet_LHC_corCoeffs,Utility: Sample Data,6,1
+spartan,EgSet_LHC_Summary,Utility: Sample Data,495,1
+spartan,Curve1_vcamSlope,Utility: Sample Data,65,1
+spartan,Curve1_thresholdBindProbability,Utility: Sample Data,65,1
+spartan,Curve1_maxVCAMeffectProbabilityCutoff,Utility: Sample Data,65,1
+spartan,Curve1_chemoUpperLinearAdjust,Utility: Sample Data,65,1
+spartan,Curve1_chemoThreshold,Utility: Sample Data,65,1
+spartan,Curve1_chemoLowerLinearAdjust,Utility: Sample Data,65,1
+spartan,Curve1_Dummy,Utility: Sample Data,65,1
+spartan,AA_Example_ATestMaxAndMedians,Utility: Sample Data,5,1
+SpatialExtremes,rain (rainfall),Summer annual maxima precipitation in Switzerland,47,79
+SpatialExtremes,coord (rainfall),Summer annual maxima precipitation in Switzerland,79,3
+SpatialExtremes,alt.mat (swissalt),Elevation in Switzerland,192,115
+spatstat,osteo,Osteocyte Lacunae Data: Replicated Three-Dimensional Point Patterns,40,5
+spatstat,flu,Influenza Virus Proteins,41,4
+speff2trial,ACTG175,AIDS Clinical Trials Group Study 175,2139,27
+spgwr,gSRDF (georgia),Georgia census data set (SpatialDataFramePolygons),159,14
+spgwr,columbus,"Columbus, OH crime data",49,5
+spi,spi_data,SPI of the rainy season in the Rio Grande do Norte,7,49
+sporm,RadarTube,Radar Tube Life data,44,2
+Stat2Data,Alfalfa,Alfalfa,15,3
+Stat2Data,ArcheryData,ArcheryData,18,7
+Stat2Data,AutoPollution,AutoPollution,36,4
+Stat2Data,Backpack,Backpack,100,9
+Stat2Data,BaseballTimes,BaseballTimes,15,7
+Stat2Data,BeeStings,BeeStings,18,3
+Stat2Data,BirdNest,BirdNest,84,12
+Stat2Data,Blood1,Blood1,500,3
+Stat2Data,BlueJays,Blue Jays,123,9
+Stat2Data,BritishUnions,BritishUnions,17,7
+Stat2Data,CAFE,CAFE,100,7
+Stat2Data,CO2,CO2,237,2
+Stat2Data,CalciumBP,CalciumBP,21,2
+Stat2Data,CancerSurvival,CancerSurvival,64,2
+Stat2Data,Caterpillars,Caterpillars,267,18
+Stat2Data,Cereal,Cereal,36,4
+Stat2Data,ChemoTHC,ChemoTHC,2,4
+Stat2Data,ChildSpeaks,ChildSpeaks,21,3
+Stat2Data,Clothing,Clothing,60,8
+Stat2Data,CloudSeeding,Cloud Seeding,28,7
+Stat2Data,CloudSeeding2,Cloud Seeding 2,108,8
+Stat2Data,CrackerFiber,Cracker Fiber in Diets,48,3
+Stat2Data,Cuckoo,Cuckoo,120,2
+Stat2Data,Day1Survey,Day1Survey,43,13
+Stat2Data,Diamonds,Diamonds,351,6
+Stat2Data,Diamonds2,Diamonds2,307,6
+Stat2Data,Election08,Election08,51,7
+Stat2Data,Ethanol,Ethanol,16,3
+Stat2Data,FGByDistance,FGByDistance,51,7
+Stat2Data,FantasyBaseball,FantasyBaseball,24,9
+Stat2Data,Fertility,Fertility,333,10
+Stat2Data,Film,Film,100,9
+Stat2Data,FinalFourIzzo,FinalFourIzzo,1664,4
+Stat2Data,FinalFourLong,FinalFourLong,2048,3
+Stat2Data,FinalFourShort,FinalFourShort,512,4
+Stat2Data,Fingers,Fingers,12,3
+Stat2Data,FirstYearGPA,FirstYearGPA,219,10
+Stat2Data,FishEggs,FishEggs,35,4
+Stat2Data,FlightResponse,FlightResponse,464,7
+Stat2Data,Fluorescence,Fluorescence,51,2
+Stat2Data,FruitFlies,FruitFlies,125,7
+Stat2Data,Goldenrod,Goldenrod Galls,1055,9
+Stat2Data,Grocery,Grocery,36,5
+Stat2Data,Gunnels,Gunnels,1592,10
+Stat2Data,HawkTail,HawkTail,838,2
+Stat2Data,HawkTail2,HawkTail2,577,3
+Stat2Data,Hawks,Hawks,908,19
+Stat2Data,HearingTest,HearingTest,96,3
+Stat2Data,HighPeaks,HighPeaks,46,6
+Stat2Data,Hoops,Hoops,147,22
+Stat2Data,HorsePrices,HorsePrices,50,5
+Stat2Data,Houses,Houses,20,3
+Stat2Data,ICU,ICU,200,9
+Stat2Data,InfantMortality,InfantMortality,9,2
+Stat2Data,InsuranceVote,InsuranceVote,435,9
+Stat2Data,Jurors,Jurors,52,4
+Stat2Data,Kids198,Kids198,198,5
+Stat2Data,LeafHoppers,LeafHoppers,8,2
+Stat2Data,Leukemia,Leukemia,51,9
+Stat2Data,LongJumpOlympics,LongJumpOlympics,26,2
+Stat2Data,LostLetter,LostLetter,140,8
+Stat2Data,MLB2007Standings,MLB2007Standings,30,21
+Stat2Data,Marathon,Marathon,1127,9
+Stat2Data,Markets,Markets,56,5
+Stat2Data,MathEnrollment,Math Enrollments,11,3
+Stat2Data,MathPlacement,Math Placement,2696,16
+Stat2Data,MedGPA,MedGPA,55,11
+Stat2Data,MentalHealth,Mental Health Admissions,36,3
+Stat2Data,MetabolicRate,Metabolic Rate of Caterpillars,305,7
+Stat2Data,MetroHealth83,MetroHealth83,83,16
+Stat2Data,Milgram,Milgram,37,2
+Stat2Data,MothEggs,Moth Eggs,39,2
+Stat2Data,NCbirths,NCbirths,1450,15
+Stat2Data,NFL2007Standings,NFL2007Standings,32,10
+Stat2Data,Nursing,Nursing,52,7
+Stat2Data,Olives,Olives,18,7
+Stat2Data,Orings,Orings,24,2
+Stat2Data,Overdrawn,Overdrawn,450,4
+Stat2Data,PalmBeach,PalmBeach,67,3
+Stat2Data,Pedometer,Pedometer,68,8
+Stat2Data,Perch,Perch,56,4
+Stat2Data,PigFeed,PigFeed,12,3
+Stat2Data,Pines,Pines,1000,15
+Stat2Data,Political,Political,59,9
+Stat2Data,Pollster08,Pollster08,102,11
+Stat2Data,Popcorn,Popcorn,12,3
+Stat2Data,PorscheJaguar,PorscheJaguar,60,5
+Stat2Data,PorschePrice,PorschePrice,30,3
+Stat2Data,Pulse,Pulse,232,7
+Stat2Data,Putts1,Putts1,587,2
+Stat2Data,Putts2,Putts2,5,4
+Stat2Data,ReligionGDP,ReligionGDP,44,9
+Stat2Data,Retirement,Retirement,16,2
+Stat2Data,RiverElements,RiverElements,12,27
+Stat2Data,RiverIron,River Iron,12,4
+Stat2Data,SATGPA,SAT scores and GPA,24,3
+Stat2Data,SampleFG,SampleFG,30,13
+Stat2Data,SandwichAnts,Sandwich Ants,48,5
+Stat2Data,SeaSlugs,Sea Slugs,36,2
+Stat2Data,Sparrows,Sparrows,116,3
+Stat2Data,SpeciesArea,Species Area,14,5
+Stat2Data,Speed,Speed,21,3
+Stat2Data,Swahili,Swahili,480,4
+Stat2Data,TMS,TMS,2,4
+Stat2Data,TextPrices,Text Prices,30,2
+Stat2Data,ThreeCars,Three Cars,90,8
+Stat2Data,TipJoke,Tip Joke,211,5
+Stat2Data,Titanic,Titanic,1313,6
+Stat2Data,TomlinsonRush,LaDainian Tomlinson Rushing Yards,16,4
+Stat2Data,TwinsLungs,TwinsLungs,14,3
+Stat2Data,USstamps,USstamps,25,2
+Stat2Data,Volts,Volts,50,2
+Stat2Data,WalkingBabies,WalkingBabies,24,2
+Stat2Data,WeightLossIncentive,WeightLossIncentive,38,3
+Stat2Data,WeightLossIncentive4,WeightLossIncentive4,36,2
+Stat2Data,WeightLossIncentive7,WeightLossIncentive7,33,2
+Stat2Data,WordMemory,WordMemory,40,4
+Stat2Data,YouthRisk2007,YouthRisk2007,13387,6
+Stat2Data,YouthRisk2009,YouthRisk2009,500,6
+stepwise,stepwise (stepwise.seqs),Simulated sequence alignment from the stepwise package,30,1000
+stpp,northcumbria,Polygon boundary of north Cumbria,71,2
+stpp,fmd,"2001 food-and-mouth epidemic, north Cumbria (UK)",648,3
+stratification,Sweden,The MU284 Population of Sweden Municipalities from Sarndal et al. (1992),284,11
+stratification,SHS,"Data from the 2001 Survey of Household Spending (SHS), Statistics Canada",16057,7
+stratigraph,striped,'plain' example section,11,4
+stratigraph,stippled,'plain' example section,8,4
+stratigraph,sVI,Section I,21,17
+stratigraph,sV,Section I,11,17
+stratigraph,sIV,Section I,19,17
+stratigraph,sIII,Section I,7,17
+stratigraph,sII,Section I,3,17
+stratigraph,sI,Section I,11,17
+stratigraph,plain,'plain' example section,13,4
+stratigraph,corneta,Corneta Outcrop,13,169
+stratigraph,cerrejon,Cerrejon Core,189,113
+StreamMetabolism,DOTemp,Rhode River Street Pier-Maryland data set,96,2
+surv2sample,hepatitis,Chronic Active Hepatitis Data,44,3
+surv2sample,gastric,Gastric Cancer Data,90,3
+surv2sample,bmt1,Bone Marrow Transplant Data,1607,3
+survBayes,AA.data,Shrinkage of aneurisms,149,6
+survival,bladder,Bladder Cancer Recurrences,340,7
+survival,cancer,NCCTG Lung Cancer Data,228,10
+survival,cgd,Chronic Granulotomous Disease data,203,16
+survival,colon,Chemotherapy for Stage B/C colon cancer,1858,16
+survival,flchain,Assay of serum free light chain for 7874 subjects.,7874,11
+survival,genfan,Generator fans,70,2
+survival,heart,Stanford Heart Transplant data,172,8
+survival,kidney,Kidney catheter data,76,7
+survival,leukemia,Acute Myelogenous Leukemia survival data,23,3
+survival,logan,Data from the 1972-78 GSS data used by Logan,838,4
+survival,lung,NCCTG Lung Cancer Data,228,10
+survival,mgus,Monoclonal gammapothy data,241,12
+survival,mgus2,Monoclonal gammapothy data,1384,10
+survival,myeloid,Acute myeloid leukemia,646,7
+survival,nwtco,Data from the National Wilm's Tumor Study,4028,9
+survival,ovarian,Ovarian Cancer Survival Data,26,6
+survival,pbc,Mayo Clinic Primary Biliary Cirrhosis Data,418,20
+survival,rats,Rat treatment data from Mantel et al,300,5
+survival,retinopathy,Diabetic Retinopathy,394,9
+survival,rhDNase,rhDNASE data set,767,8
+survival,stanford2,More Stanford Heart Transplant data,184,5
+survival,tobin,Tobin's Tobit data,20,3
+survival,transplant,Liver transplant waiting list,815,6
+survival,veteran,Veterans' Administration Lung Cancer study,137,8
+survivalROC,mayo,Mayo Marker data,312,4
+survJamda.data,gse4335pheno,Phenotype data of GSE4335.,115,17
+survJamda.data,gse4335,GSE4335,115,12793
+survJamda.data,gse3143pheno,Phenotype data of GSE3143,158,4
+survJamda.data,gse3143,GSE3143,158,8659
+survJamda.data,gse1992pheno,Phenotype data of GSE1992,124,24
+survJamda.data,gse1992,GSE1992,124,15528
+survPresmooth,pscheck,Example Dataset,100,2
+SwissAir,AirQual,Air Quality Data of Switzerland,17568,22
+sybil,Ec_core,Escherichia coli Core Metabolic Model,72,95
+Synth,synth.data,Panel Data to demonstrate the use of the Synthetic Control Method,168,7
+Synth,basque,Panel Data from Spanish Regions to demonstrate the use of the Synthetic Control Method,774,17
+tableplot,NEO.s,Factor solutions for the NEO PI-R,30,5
+tableplot,NEO.n,Factor solutions for the NEO PI-R,30,5
+tableplot,NEO,Factor solutions for the NEO PI-R,30,5
+tableplot,Linehan,Factor patterns for two samples from Linehan et al. (2006),13,4
+TeachingSampling,Marco,Sampling frame if the Lucy population,2396,4
+TeachingSampling,Lucy,Some Business Population Database,2396,8
+texmex,liver,Liver related laboratory data,606,9
+texmex,nidd,"Rain, wavesurge, portpirie and nidd datasets.",154,1
+texmex,portpirie,"Rain, wavesurge, portpirie and nidd datasets.",65,2
+texmex,rain,"Rain, wavesurge, portpirie and nidd datasets.",17531,1
+texmex,summer,"Air pollution data, separately for summer and winter months",578,5
+texmex,wavesurge,"Rain, wavesurge, portpirie and nidd datasets.",2894,2
+texmex,winter,"Air pollution data, separately for summer and winter months",532,5
+tgp,exp2d,2-d Exponential Data,441,4
+ThreeWay,meaudret,Meaudret data,6,10
+ThreeWay,Bus,Bus data,7,185
+timeROC,Paquid,Paquid cohort data,2561,4
+timeROC,Melano,Malignant melanoma data,205,4
+titan,hypoxia,Gene Expression Under Hypoxia/Normoxia,1009,5
+topicmodels,AssociatedPress,Associated Press data,2246,10473
+TraMineR,mvad,Example data set: Transition from school to work,712,86
+TraMineR,famform,Example data set: sequences of family formation,5,1
+TraMineR,ex2.weighted (ex2),Example data sets with weighted and unweighted sequence data,6,2
+TraMineR,ex2.unweighted (ex2),Example data sets with weighted and unweighted sequence data,100,1
+TraMineR,ex1,Example data set with missing values and weights,7,14
+TraMineR,biofam,Example data set: Family life states from the Swiss Household Panel biographical survey,2000,27
+TraMineR,actcal.tse,Example data set: Activity calendar from the Swiss Household Panel (time stamped event format),2954,3
+TraMineR,actcal,Example data set: Activity calendar from the Swiss Household Panel,2000,24
+TSA,wages,Average hourly wages in the apparel industry / time series,72,1
+TSA,veilleux,An experimental prey-predator time series,71,2
+TSA,usd.hkd,Daily US Dollar to Hong Kong Dollar Exchange Rates,431,6
+TSA,units,Annual sales of certain large equipment,24,1
+TSA,star,Star Brightness,600,1
+TSA,spots1,Annual international sunspot numbers,306,1
+TSA,rwalk,A simulated random walk / Time series,60,1
+TSA,retail,U.K. retail sales / time series,255,1
+TSA,milk,Monthly Milk Production,144,1
+TSA,electricity,Monthly US electricity production / time series,396,1
+TSA,eeg,EEG Data,13000,1
+TSA,cref.bond,Daily CREF Bond Values,501,1
+TSA,boardings,Monthly public transit boardings and gasoline price in Denver,68,2
+TSA,bluebirdlite,Bluebird Lite potato chip data,104,2
+TSA,bluebird,Blue Bird Potato Chip Data,104,2
+TSA,airmiles,Monthly Airline Passenger-Miles in the US,113,1
+tsDyn,zeroyld,zeroyld time series,482,2
+tsDyn,barry,Time series of PPI used as example in Bierens and Martins (2010),324,3
+twang,raceprofiling,Traffic stop data,5000,10
+twang,lindner,Lindner Center data on 996 PCI patients analyzed by Kereiakes et al. (2000),996,11
+twang,lalonde,Lalonde's National Supported Work Demonstration data,614,10
+twang,egsingle,US Sustaining Effects study,7230,12
+unmarked,woodthrush.bin (birds),BBS Point Count and Occurrence Data from 2 Bird Species,50,11
+unmarked,woodthrush (birds),BBS Point Count and Occurrence Data from 2 Bird Species,50,11
+unmarked,pointtran,Simulated point-transect data,30,7
+unmarked,pfer.y (frogs),2001 Delaware North American Amphibian Monitoring Program Data,130,3
+unmarked,pfer.data (frogs),2001 Delaware North American Amphibian Monitoring Program Data,130,3
+unmarked,pfer.bin (frogs),2001 Delaware North American Amphibian Monitoring Program Data,130,3
+unmarked,pcru.y (frogs),2001 Delaware North American Amphibian Monitoring Program Data,130,3
+unmarked,pcru.data (frogs),2001 Delaware North American Amphibian Monitoring Program Data,130,3
+unmarked,pcru.bin (frogs),2001 Delaware North American Amphibian Monitoring Program Data,130,3
+unmarked,masspcru,Massachusetts North American Amphibian Monitoring Program Data,3216,6
+unmarked,mallard.y (mallard),Mallard count data,239,3
+unmarked,mallard.site (mallard),Mallard count data,239,3
+unmarked,linetran,Simulated line transect data,12,7
+unmarked,issj,Distance-sampling data for the Island Scrub Jay (_Aphelocoma insularis_),307,8
+unmarked,gf.data (gf),Green frog count index data,220,3
+unmarked,cruz,Landscape data for Santa Cruz Island,2787,5
+unmarked,crossbill,Detection/non-detection data on the European crossbill (_Loxia curvirostra_),267,58
+unmarked,catbird.bin (birds),BBS Point Count and Occurrence Data from 2 Bird Species,50,11
+unmarked,catbird (birds),BBS Point Count and Occurrence Data from 2 Bird Species,50,11
+unmarked,Switzerland,Swiss landscape data,42275,5
+UScensus2000blkgrp,wyoming.blkgrp,wyoming.blkgrp,401,90
+UScensus2000blkgrp,wisconsin.blkgrp,wisconsin.blkgrp,4378,90
+UScensus2000blkgrp,west_virginia.blkgrp,west_virginia.blkgrp,1588,90
+UScensus2000blkgrp,washington.blkgrp,washington.blkgrp,4835,90
+UScensus2000blkgrp,virginia.blkgrp,virginia.blkgrp,4744,90
+UScensus2000blkgrp,vermont.blkgrp,vermont.blkgrp,530,90
+UScensus2000blkgrp,utah.blkgrp,utah.blkgrp,1484,90
+UScensus2000blkgrp,texas.blkgrp,texas.blkgrp,14482,90
+UScensus2000blkgrp,tennessee.blkgrp,tennessee.blkgrp,4017,90
+UScensus2000blkgrp,south_dakota.blkgrp,south_dakota.blkgrp,689,90
+UScensus2000blkgrp,south_carolina.blkgrp,south_carolina.blkgrp,2861,90
+UScensus2000blkgrp,rhode_island.blkgrp,rhode_island.blkgrp,820,90
+UScensus2000blkgrp,pennsylvania.blkgrp,pennsylvania.blkgrp,10406,90
+UScensus2000blkgrp,oregon.blkgrp,oregon.blkgrp,2491,90
+UScensus2000blkgrp,oklahoma.blkgrp,oklahoma.blkgrp,2904,90
+UScensus2000blkgrp,ohio.blkgrp,ohio.blkgrp,9352,90
+UScensus2000blkgrp,north_dakota.blkgrp,north_dakota.blkgrp,639,90
+UScensus2000blkgrp,north_carolina.blkgrp,north_carolina.blkgrp,5266,90
+UScensus2000blkgrp,new_york.blkgrp,new_york.blkgrp,15078,90
+UScensus2000blkgrp,new_mexico.blkgrp,new_mexico.blkgrp,1421,90
+UScensus2000blkgrp,new_jersey.blkgrp,new_jersey.blkgrp,6507,90
+UScensus2000blkgrp,new_hampshire.blkgrp,new_hampshire.blkgrp,873,90
+UScensus2000blkgrp,nevada.blkgrp,nevada.blkgrp,1247,90
+UScensus2000blkgrp,nebraska.blkgrp,nebraska.blkgrp,1593,90
+UScensus2000blkgrp,montana.blkgrp,montana.blkgrp,877,90
+UScensus2000blkgrp,missouri.blkgrp,missouri.blkgrp,4540,90
+UScensus2000blkgrp,mississippi.blkgrp,mississippi.blkgrp,2154,90
+UScensus2000blkgrp,minnesota.blkgrp,minnesota.blkgrp,4082,90
+UScensus2000blkgrp,michigan.blkgrp,michigan.blkgrp,8411,90
+UScensus2000blkgrp,massachusetts.blkgrp,massachusetts.blkgrp,5054,90
+UScensus2000blkgrp,maryland.blkgrp,maryland.blkgrp,3679,90
+UScensus2000blkgrp,maine.blkgrp,maine.blkgrp,1147,90
+UScensus2000blkgrp,louisiana.blkgrp,louisiana.blkgrp,3511,90
+UScensus2000blkgrp,kentucky.blkgrp,kentucky.blkgrp,3157,90
+UScensus2000blkgrp,kansas.blkgrp,kansas.blkgrp,2300,90
+UScensus2000blkgrp,iowa.blkgrp,iowa.blkgrp,2635,90
+UScensus2000blkgrp,indiana.blkgrp,indiana.blkgrp,4797,90
+UScensus2000blkgrp,illinois.blkgrp,illinois.blkgrp,9850,90
+UScensus2000blkgrp,idaho.blkgrp,idaho.blkgrp,954,90
+UScensus2000blkgrp,hawaii.blkgrp,hawaii.blkgrp,662,90
+UScensus2000blkgrp,georgia.blkgrp,georgia.blkgrp,4795,90
+UScensus2000blkgrp,florida.blkgrp,florida.blkgrp,9125,90
+UScensus2000blkgrp,district_of_columbia.blkgrp,district_of_columbia.blkgrp,433,90
+UScensus2000blkgrp,delaware.blkgrp,delaware.blkgrp,506,90
+UScensus2000blkgrp,connecticut.blkgrp,connecticut.blkgrp,2621,90
+UScensus2000blkgrp,colorado.blkgrp,colorado.blkgrp,3286,90
+UScensus2000blkgrp,california.blkgrp,california.blkgrp,22195,90
+UScensus2000blkgrp,arkansas.blkgrp,arkansas.blkgrp,2136,90
+UScensus2000blkgrp,arizona.blkgrp,arizona.blkgrp,3571,90
+UScensus2000blkgrp,alaska.blkgrp,alaska.blkgrp,616,90
+UScensus2000blkgrp,alabama.blkgrp,alabama.blkgrp,3333,90
+UScensus2000cdp,wyoming.cdp,wyoming.cdp,249,90
+UScensus2000cdp,wisconsin.cdp,wisconsin.cdp,718,90
+UScensus2000cdp,west_virginia.cdp,west_virginia.cdp,299,90
+UScensus2000cdp,washington.cdp,washington.cdp,629,90
+UScensus2000cdp,virginia.cdp,virginia.cdp,372,90
+UScensus2000cdp,vermont.cdp,vermont.cdp,67,90
+UScensus2000cdp,utah.cdp,utah.cdp,301,90
+UScensus2000cdp,texas.cdp,texas.cdp,1624,90
+UScensus2000cdp,tennessee.cdp,tennessee.cdp,415,90
+UScensus2000cdp,south_dakota.cdp,south_dakota.cdp,373,90
+UScensus2000cdp,south_carolina.cdp,south_carolina.cdp,423,90
+UScensus2000cdp,rhode_island.cdp,rhode_island.cdp,28,90
+UScensus2000cdp,pennsylvania.cdp,pennsylvania.cdp,1414,90
+UScensus2000cdp,oregon.cdp,oregon.cdp,352,90
+UScensus2000cdp,oklahoma.cdp,oklahoma.cdp,831,90
+UScensus2000cdp,ohio.cdp,ohio.cdp,1096,90
+UScensus2000cdp,north_dakota.cdp,north_dakota.cdp,384,90
+UScensus2000cdp,north_carolina.cdp,north_carolina.cdp,1137,90
+UScensus2000cdp,new_york.cdp,new_york.cdp,1072,90
+UScensus2000cdp,new_mexico.cdp,new_mexico.cdp,254,90
+UScensus2000cdp,new_jersey.cdp,new_jersey.cdp,507,90
+UScensus2000cdp,new_hampshire.cdp,new_hampshire.cdp,60,90
+UScensus2000cdp,nevada.cdp,nevada.cdp,76,90
+UScensus2000cdp,nebraska.cdp,nebraska.cdp,551,90
+UScensus2000cdp,montana.cdp,montana.cdp,297,90
+UScensus2000cdp,missouri.cdp,missouri.cdp,1022,90
+UScensus2000cdp,mississippi.cdp,mississippi.cdp,337,90
+UScensus2000cdp,minnesota.cdp,minnesota.cdp,926,90
+UScensus2000cdp,michigan.cdp,michigan.cdp,664,90
+UScensus2000cdp,massachusetts.cdp,massachusetts.cdp,236,90
+UScensus2000cdp,maryland.cdp,maryland.cdp,380,90
+UScensus2000cdp,maine.cdp,maine.cdp,114,90
+UScensus2000cdp,louisiana.cdp,louisiana.cdp,431,90
+UScensus2000cdp,kentucky.cdp,kentucky.cdp,482,90
+UScensus2000cdp,kansas.cdp,kansas.cdp,919,90
+UScensus2000cdp,iowa.cdp,iowa.cdp,980,90
+UScensus2000cdp,indiana.cdp,indiana.cdp,663,90
+UScensus2000cdp,illinois.cdp,illinois.cdp,1503,90
+UScensus2000cdp,idaho.cdp,idaho.cdp,218,90
+UScensus2000cdp,hawaii.cdp,hawaii.cdp,137,90
+UScensus2000cdp,georgia.cdp,georgia.cdp,735,90
+UScensus2000cdp,florida.cdp,florida.cdp,1058,90
+UScensus2000cdp,district_of_columbia.cdp,district_of_columbia.cdp,1,90
+UScensus2000cdp,delaware.cdp,delaware.cdp,79,90
+UScensus2000cdp,connecticut.cdp,connecticut.cdp,120,90
+UScensus2000cdp,colorado.cdp,colorado.cdp,441,90
+UScensus2000cdp,california.cdp,california.cdp,1229,90
+UScensus2000cdp,arkansas.cdp,arkansas.cdp,558,90
+UScensus2000cdp,arizona.cdp,arizona.cdp,278,90
+UScensus2000cdp,alaska.cdp,alaska.cdp,364,90
+UScensus2000cdp,alabama.cdp,alabama.cdp,664,90
+UScensus2000tract,wyoming.tract,wyoming.tract,129,89
+UScensus2000tract,wisconsin.tract,wisconsin.tract,1324,89
+UScensus2000tract,west_virginia.tract,west_virginia.tract,466,89
+UScensus2000tract,washington.tract,washington.tract,1327,89
+UScensus2000tract,virginia.tract,virginia.tract,1539,89
+UScensus2000tract,vermont.tract,vermont.tract,179,89
+UScensus2000tract,utah.tract,utah.tract,497,89
+UScensus2000tract,texas.tract,texas.tract,4404,89
+UScensus2000tract,tennessee.tract,tennessee.tract,1266,89
+UScensus2000tract,south_dakota.tract,south_dakota.tract,236,89
+UScensus2000tract,south_carolina.tract,south_carolina.tract,868,89
+UScensus2000tract,rhode_island.tract,rhode_island.tract,236,89
+UScensus2000tract,pennsylvania.tract,pennsylvania.tract,3147,89
+UScensus2000tract,oregon.tract,oregon.tract,755,89
+UScensus2000tract,oklahoma.tract,oklahoma.tract,990,89
+UScensus2000tract,ohio.tract,ohio.tract,2941,89
+UScensus2000tract,north_dakota.tract,north_dakota.tract,235,89
+UScensus2000tract,north_carolina.tract,north_carolina.tract,1558,89
+UScensus2000tract,new_york.tract,new_york.tract,4908,89
+UScensus2000tract,new_mexico.tract,new_mexico.tract,460,89
+UScensus2000tract,new_jersey.tract,new_jersey.tract,1947,89
+UScensus2000tract,new_hampshire.tract,new_hampshire.tract,272,89
+UScensus2000tract,nevada.tract,nevada.tract,489,89
+UScensus2000tract,nebraska.tract,nebraska.tract,505,89
+UScensus2000tract,montana.tract,montana.tract,276,89
+UScensus2000tract,missouri.tract,missouri.tract,1320,89
+UScensus2000tract,mississippi.tract,mississippi.tract,609,89
+UScensus2000tract,minnesota.tract,minnesota.tract,1301,89
+UScensus2000tract,michigan.tract,michigan.tract,2721,89
+UScensus2000tract,massachusetts.tract,massachusetts.tract,1364,89
+UScensus2000tract,maryland.tract,maryland.tract,1219,89
+UScensus2000tract,maine.tract,maine.tract,361,89
+UScensus2000tract,louisiana.tract,louisiana.tract,1112,89
+UScensus2000tract,kentucky.tract,kentucky.tract,995,89
+UScensus2000tract,kansas.tract,kansas.tract,727,89
+UScensus2000tract,iowa.tract,iowa.tract,794,89
+UScensus2000tract,indiana.tract,indiana.tract,1412,89
+UScensus2000tract,illinois.tract,illinois.tract,2966,89
+UScensus2000tract,idaho.tract,idaho.tract,280,89
+UScensus2000tract,hawaii.tract,hawaii.tract,304,89
+UScensus2000tract,georgia.tract,georgia.tract,1624,89
+UScensus2000tract,florida.tract,florida.tract,3168,89
+UScensus2000tract,district_of_columbia.tract,district_of_columbia.tract,188,89
+UScensus2000tract,delaware.tract,delaware.tract,201,89
+UScensus2000tract,connecticut.tract,connecticut.tract,815,89
+UScensus2000tract,colorado.tract,colorado.tract,1072,89
+UScensus2000tract,california.tract,california.tract,7115,89
+UScensus2000tract,arkansas.tract,arkansas.tract,624,89
+UScensus2000tract,arizona.tract,arizona.tract,1108,89
+UScensus2000tract,alaska.tract,alaska.tract,241,89
+UScensus2000tract,alabama.tract,alabama.tract,1082,89
+VBmix,pendat (VBmix),pendat,2000,16
+VBmix,irisdata (VBmix),irisdata,150,4
+VBmix,handdat (VBmix),handdat,300,717
+vcd,Arthritis,Arthritis Treatment Data,84,5
+vcd,Baseball,Baseball Data,322,25
+vcd,BrokenMarriage,Broken Marriage Data,20,4
+vcd,Bundesliga,Ergebnisse der Fussball-Bundesliga,14018,7
+vcd,Bundestag2005,Votes in German Bundestag Election 2005,16,5
+vcd,Butterfly,Butterfly Species in Malaya,24,NA
+vcd,CoalMiners,Breathlessness and Wheeze in Coal Miners,2,2
+vcd,DanishWelfare,Danish Welfare Study Data,180,5
+vcd,Employment,Employment Status,2,6
+vcd,Federalist,'May' in Federalist Papers,7,NA
+vcd,Hitters,Hitters Data,322,20
+vcd,HorseKicks,Death by Horse Kicks,5,NA
+vcd,Hospital,Hospital data,3,3
+vcd,JobSatisfaction,Job Satisfaction Data,8,4
+vcd,JointSports,Opinions About Joint Sports,40,5
+vcd,Lifeboats,Lifeboats on the Titanic,18,8
+vcd,NonResponse,Non-Response Survey Data,12,4
+vcd,OvaryCancer,Ovary Cancer Data,16,5
+vcd,PreSex,Pre-marital Sex and Divorce,2,2
+vcd,Punishment,Corporal Punishment Data,36,5
+vcd,RepVict,Repeat Victimization Data,8,8
+vcd,Saxony,Families in Saxony,13,NA
+vcd,SexualFun,Sex is Fun,4,4
+vcd,SpaceShuttle,Space Shuttle O-ring Failures,24,6
+vcd,Suicide,Suicide Rates in Germany,306,6
+vcd,Trucks,Truck Accidents Data,24,5
+vcd,UKSoccer,UK Soccer Scores,5,5
+vcd,VisualAcuity,Visual Acuity in Left and Right Eyes,32,4
+vcd,VonBort,Von Bortkiewicz Horse Kicks Data,280,4
+vcd,WeldonDice,Weldon's Dice Data,11,NA
+vcd,WomenQueue,Women in Queues,11,NA
+vcdExtra,Yamaguchi87,Occupational Mobility in Three Countries,75,4
+vcdExtra,Vietnam,Student Opinion About the War in Vietnam,40,4
+vcdExtra,TV,TV Viewing Data,5,11
+vcdExtra,Mobility,Social Mobility data,5,5
+vcdExtra,Mental,Mental impariment and parents SES,24,3
+vcdExtra,Mammograms,Mammogram Ratings,4,4
+vcdExtra,JobSat,Cross-classification of job satisfaction by income,4,4
+vcdExtra,ICU,Death in the ICU,200,21
+vcdExtra,Hoyt,Minnesota High School Graduates,4,3
+vcdExtra,Heckman,Labour Force Participation of Married Women 1967-1971,2,2
+vcdExtra,Heart,"Sex, Occupation and Heart Disease",2,2
+vcdExtra,Hauser79,Hauser (1979) Data on Social Mobility,25,3
+vcdExtra,Gilby,Clothing and Intelligence Rating of Children,6,4
+vcdExtra,GSS,General Social Survey- Sex and Party affiliation,6,3
+vcdExtra,Fungicide,Carcinogenic Effects of a Fungicide,2,2
+vcdExtra,Dyke,Sources of knowledge of cancer,2,2
+vcdExtra,Detergent,Detergent preference data,2,2
+vcdExtra,DaytonSurvey,Dayton Student Survey on Substance Use,32,6
+vcdExtra,Cancer,Survival of Breast Cancer Patients,2,2
+vcdExtra,Caesar,Risk Factors for Infection in Caesarian Births,3,2
+vcdExtra,Bartlett,Bartlett data on plum root cuttings,2,2
+vcdExtra,Alligator,Alligator Food Choice,80,5
+vcdExtra,Abortion,Abortion Opinion Data,2,2
+VecStatGraphs3D,XYZcoor,GPS Data Set,52,6
+vegan,varespec,Vegetation and environment in lichen pastures,24,44
+vegan,varechem,Vegetation and environment in lichen pastures,24,14
+vegan,sipoo,Birds in the Archipelago of Sipoo (Sibbo),18,50
+vegan,pyrifos,Response of Aquatic Invertebrates to Insecticide Treatment,132,178
+vegan,mite.xy,Oribatid Mite Data with Explanatory Variables,70,2
+vegan,mite.pcnm,Oribatid Mite Data with Explanatory Variables,70,22
+vegan,mite.env,Oribatid Mite Data with Explanatory Variables,70,5
+vegan,mite,Oribatid Mite Data with Explanatory Variables,70,35
+vegan,dune.taxon,Taxonomic Classification of Dune Meadow Species,30,5
+vegan,dune.env,Vegetation and Environment in Dutch Dune Meadows.,20,5
+vegan,dune,Vegetation and Environment in Dutch Dune Meadows.,20,30
+vegan,BCI,Barro Colorado Island Tree Counts,50,225
+vegclust,wetland,Wetland vegetation data set,41,33
+vegetarian,simesants,Harvard Forest Simes Tract Ant Community Data,5,23
+VIM,tao,Tropical Atmosphere Ocean (TAO) project data,736,8
+VIM,sleep,Mammal sleep data,62,10
+VIM,chorizonDL,C-horizon of the Kola data with missing values,606,110
+VIM,SBS5242,Synthetic subset of the Austrian structural business statistics data,262,9
+waterfall,rasiel,Sample Financial Data,5,3
+waterfall,jaquith,Sample Business-Adjusted Risk Data,9,2
+WaveCD,arrayCGH,A real array-CGH data,1040,2
+wavethresh,teddy,Picture of a teddy bear's picnic.,512,512
+wavethresh,lennon,John Lennon image.,256,256
+wikibooks,cms,Dataset of an assessment instrument,620,2
+wikibooks,bsp4,Datatable of Example 4,7,4
+wikibooks,bsp3,Datatable of Example 3,14,2
+wikibooks,bsp2,Datatable of Example 2,20,2
+wikibooks,bsp1,Datatable of Example 1,10,4
+wikibooks,Mikrolagerung,pressure at sacral-bone: 30 degree vs. micro-positioning,98,21
+wikibooks,Essen.Zeit,How long does it take to give food in nursing home,63,22
+wikibooks,Bundesliga,Results and fixtures of the german football-league \Bundesliga\,13406,10
+wild1,xyt.elk,Locations of an elk,2493,3
+wild1,xy.elk,Locations of an elk,2444,2
+wild1,wica.bdy,National Park Boundary,1,6
+wild1,coyote.mort,Survival records for coyotes,97,9
+wle,xdata (selection),Selection's Data,60,2
+wle,x.hald (hald),Hald Data,13,4
+wle,x.artificial (artificial),"Hawkins, Bradu, Kass's Artificial Data",75,3
+wle,hald,Hald Data,13,5
+wle,artificial,"Hawkins, Bradu, Kass's Artificial Data",75,4
+WMBrukerParser,tofListMetaData (tofListMetaDataRun2),Parsed TOF-MS Meta-Data,2,61
+xgobi,morsecodes.row (morsecodes),Rothkopf Morse Code Data,36,2
+xgobi,morsecodes.raw (morsecodes),Rothkopf Morse Code Data,36,36
+xgobi,morsecodes.pos (morsecodes),Rothkopf Morse Code Data,36,12
+xgobi,morsecodes.lines (morsecodes),Rothkopf Morse Code Data,33,2
+xgobi,morsecodes.dist (morsecodes),Rothkopf Morse Code Data,36,36
+xgobi,laser,Bellcore Experimental Laser Data,64,4
+xgobi,PaulKAI,Occurences of \kai\ in 10 Epistels of Apostel Paul,10,4
+xts,sample_matrix,Sample Data Matrix For xts Example and Unit Testing,180,4
+YieldCurve,FedYieldCurve,Federal Reserve interest rates,330,6
+YieldCurve,ECBYieldCurve,"Yield curve data spot rate, AAA-rated bonds, maturities from 3 months to 30 years",655,32
+Zelig,MatchIt.url,Table of links for Zelig,2,2
+Zelig,PErisk,Political Economic Risk Data from 62 Countries in 1987,62,6
+Zelig,SupremeCourt,U.S. Supreme Court Vote Matrix,43,9
+Zelig,Weimar,1932 Weimar election data,10,11
+Zelig,Zelig.url,Table of links for Zelig,49,2
+Zelig,approval,U.S. Presidential Approval Data,65,8
+Zelig,bivariate,Sample data for bivariate probit regression,78,6
+Zelig,coalition,Coalition Dissolution in Parliamentary Democracies,314,7
+Zelig,coalition2,"Coalition Dissolution in Parliamentary Democracies, Modified Version",314,8
+Zelig,eidat,Simulation Data for Ecological Inference,10,4
+Zelig,free1,Freedom of Speech Data,450,11
+Zelig,free2,Freedom of Speech Data,450,11
+Zelig,friendship,Simulated Example of Schoolchildren Friendship Network,0,7
+Zelig,grunfeld,Simulation Data for model Seemingly Unrelated Regression (sur) that corresponds to method SUR of systemfit,20,7
+Zelig,hoff,Social Security Expenditure Data,36,5
+Zelig,homerun,Sample Data on Home Runs Hit By Mark McGwire and Sammy Sosa in 1998.,314,5
+Zelig,immi1,Individual Preferences Over Immigration Policy,2485,5
+Zelig,immi2,Individual Preferences Over Immigration Policy,2485,5
+Zelig,immi3,Individual Preferences Over Immigration Policy,2485,5
+Zelig,immi4,Individual Preferences Over Immigration Policy,2485,5
+Zelig,immi5,Individual Preferences Over Immigration Policy,2485,5
+Zelig,immigration,Individual Preferences Over Immigration Policy,2485,5
+Zelig,klein,Simulation Data for model Two-Stage Least Square (twosls) that corresponds to method 2SLS of systemfit,21,14
+Zelig,kmenta,Simulation Data for model Three-Stage Least Square (threesls) that corresponds to method 3SLS of systemfit,20,5
+Zelig,macro,Macroeconomic Data,350,6
+Zelig,mexico,Voting Data from the 1988 Mexican Presidental Election,1359,33
+Zelig,mid,Militarized Interstate Disputes,3126,7
+Zelig,newpainters,The Discretized Painter's Data of de Piles,54,4
+Zelig,sanction,Multilateral Economic Sanctions,78,8
+Zelig,seatshare,Left Party Seat Share in 11 OECD Countries,384,4
+Zelig,sna.ex,Simulated Example of Social Network Data,0,5
+Zelig,swiss,Swiss Fertility and Socioeconomic Indicators (1888) Data,47,6
+Zelig,tobin,Tobin's Tobit Data,20,3
+Zelig,turnout,Turnout Data Set from the National Election Survey,2000,5
+Zelig,voteincome,Sample Turnout and Demographic Data from the 2000 Current Population Survey,1500,7
+ZeligChoice,sanction,Multilateral Economic Sanctions,78,8
+ZeligChoice,coalition,Coalition Dissolution in Parliamentary Democracies,314,7
